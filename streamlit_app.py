@@ -76,7 +76,7 @@ def output(df, account_names, file_name):
 
 st.title('Uber pickups in NYC')
 
-df=pd.DataFrame(columns=[]])
+df=pd.DataFrame(columns=[])
 
 uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
