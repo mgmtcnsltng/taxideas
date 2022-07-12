@@ -78,6 +78,10 @@ st.title('Uber pickups in NYC')
 
 st.file_uploader('Upload a CSV')
 
+
+st.download_button('Download file', data)
+
+
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
             'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
