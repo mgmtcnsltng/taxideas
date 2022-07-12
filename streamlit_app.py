@@ -172,7 +172,7 @@ if uploaded_file is not None:
     df_xlsx = output(df, account_names)
 
     st.download_button(
-         label="Download data as CSV",
+         label="Download the fancy Excel",
          data=df_xlsx,
          file_name='outputs.xlsx'
      )
