@@ -55,29 +55,31 @@ def replace_to_number(s):
                 s = s.replace("(","-").replace(")","")
     return s
 
-def output(df, account_names, file_name):
+def output(df, account_names):
+    buffer = io.BytesIO()
+    writer = pd.ExcelWriter(file_name, engine='xlsxwriter')
+    char_to_replace = {'[': ' ', ']': ' ', ':' : ' ', '*' : ' ', '?' : ' ', '/' : ' ', '\\':' '}
+    account_names[:] = [x for x in account_names if x]
+    account_names = list(dict.fromkeys(account_names))
 
-  writer = pd.ExcelWriter(file_name, engine='xlsxwriter')
-  char_to_replace = {'[': ' ', ']': ' ', ':' : ' ', '*' : ' ', '?' : ' ', '/' : ' ', '\\':' '}
-  account_names[:] = [x for x in account_names if x]
-  account_names = list(dict.fromkeys(account_names))
-
-  for an in account_names:
-    df_an = df.loc[df['Account'] == an]
-    sheet_name = an[0:31]
+    for an in account_names:
+        df_an = df.loc[df['Account'] == an]
+        sheet_name = an[0:31]
 
     # Iterate over all key-value pairs in dictionary
-    for key, value in char_to_replace.items():
-      # Replace key character with value character in string
-      sheet_name = sheet_name.replace(key, value)
+        for key, value in char_to_replace.items():
+        # Replace key character with value character in string
+            sheet_name = sheet_name.replace(key, value)
 
     # print(sheet_name)
-    df_an.to_excel(writer, sheet_name = sheet_name)
+        df_an.to_excel(writer, sheet_name = sheet_name)
 
-  writer.save()
+    writer.save()
+    processed_data = buffer.getvalue()
+    return processed_data
 
 
-buffer = io.BytesIO()
+
 
 st.title('Taxi Ides')
 
@@ -169,11 +171,10 @@ if uploaded_file is not None:
     bs = df.loc[df['Statement']=='BS']
 
 
-    output(df, account_names, 'output.xlsx')
+    df_xlsx = output(df, account_names)
 
 st.download_button(
      label="Download data as CSV",
-     data=buffer,
-     file_name='outputs.xplsx',
-     mime='text/excel',
+     data=df_xlsx,
+     file_name='outputs.xlsx'
  )
