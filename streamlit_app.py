@@ -173,7 +173,7 @@ if uploaded_file is not None:
 
 st.download_button(
      label="Download data as CSV",
-     data=buff,
+     data=buffer,
      file_name='outputs.xplsx',
      mime='text/excel',
  )
