@@ -79,9 +79,7 @@ def output(df, account_names):
     return processed_data
 
 
-
-
-st.title('Taxi Ides')
+st.title('Tax Ides & MGMTCNSLTNG')
 
 df=pd.DataFrame(columns=[])
 
