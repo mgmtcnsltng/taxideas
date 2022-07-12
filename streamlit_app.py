@@ -75,14 +75,7 @@ def output(df, account_names, file_name):
   writer.save()
 
 
-# from google.colab import files
-# uploaded = files.upload()
-
-# # click on the folder icon on the left navigation bar, and make sure the 'Files' only contains one 'inputs.csv'
-# # files with the same name will be appended with a number, so the incorrect file would be selected as input
-
-# import io
-
+st.title('Uber pickups in NYC')
 
 """
 # Welcome to Streamlit!
