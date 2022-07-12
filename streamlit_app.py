@@ -83,7 +83,7 @@ if uploaded_file is not None:
 #read csv
     df=pd.read_csv(uploaded_file)
 
-if df.isempty
+
 st.download_button('Download file', df)
 
 
