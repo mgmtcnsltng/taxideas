@@ -76,6 +76,8 @@ def output(df, account_names, file_name):
 
 st.title('Uber pickups in NYC')
 
+st.file_uploader('Upload a CSV')
+
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
             'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
