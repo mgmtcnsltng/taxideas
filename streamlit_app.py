@@ -171,7 +171,7 @@ if uploaded_file is not None:
     bs = df.loc[df['Statement']=='BS']
 
 
-    df_xlsx = output(df, account_names)
+df_xlsx = output(df, account_names)
 
 st.download_button(
      label="Download data as CSV",
