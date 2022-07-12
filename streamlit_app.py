@@ -80,7 +80,7 @@ st.file_uploader('Upload a CSV')
 uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
 #read csv
-df=pd.read_csv(uploaded_file)
+    df=pd.read_csv(uploaded_file)
 
 
 st.download_button('Download file', df)
