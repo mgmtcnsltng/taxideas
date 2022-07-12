@@ -76,13 +76,14 @@ def output(df, account_names, file_name):
 
 st.title('Uber pickups in NYC')
 
-st.file_uploader('Upload a CSV')
+df=[]
+
 uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
 #read csv
     df=pd.read_csv(uploaded_file)
 
-
+if df.isempty
 st.download_button('Download file', df)
 
 
