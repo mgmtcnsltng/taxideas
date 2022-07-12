@@ -84,7 +84,18 @@ if uploaded_file is not None:
     df=pd.read_csv(uploaded_file)
 
 
-st.download_button('Download file', df)
+def convert_df(df):
+    # IMPORTANT: Cache the conversion to prevent computation on every rerun
+    return df.to_csv().encode('utf-8')
+
+csv = convert_df(df)
+
+st.download_button(
+     label="Download data as CSV",
+     data=csv,
+     file_name='large_df.csv',
+     mime='text/csv',
+ )
 
 
 DATE_COLUMN = 'date/time'
