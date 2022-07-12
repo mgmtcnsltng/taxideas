@@ -57,7 +57,7 @@ def replace_to_number(s):
 
 def output(df, account_names):
     buffer = io.BytesIO()
-    writer = pd.ExcelWriter(file_name, engine='xlsxwriter')
+    writer = pd.ExcelWriter(buffer, engine='xlsxwriter')
     char_to_replace = {'[': ' ', ']': ' ', ':' : ' ', '*' : ' ', '?' : ' ', '/' : ' ', '\\':' '}
     account_names[:] = [x for x in account_names if x]
     account_names = list(dict.fromkeys(account_names))
