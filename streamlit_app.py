@@ -15,6 +15,8 @@ from datetime import timedelta, date
 import math
 import re
 
+import io
+
 from tqdm import tqdm
 
 def find_columns(df):
@@ -74,7 +76,10 @@ def output(df, account_names, file_name):
 
   writer.save()
 
-st.title('Uber pickups in NYC')
+
+buffer = io.BytesIO()
+
+st.title('Taxi Ides')
 
 df=pd.DataFrame(columns=[])
 
@@ -82,48 +87,93 @@ uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
 #read csv
     df=pd.read_csv(uploaded_file)
+    index, columns = find_columns(df)
+    df.columns = columns
+    df = df[index+1:].reset_index(drop=True)
+
+    labels = []
+    statement_names = []
+    account_names = []
+    account_name = ''
+    statement_name = 'PL'
+    df_tmp = df['Date'].copy(deep=True)
+    df_tmp = pd.to_datetime(df_tmp, errors='coerce')
+    df_tmp.dropna(inplace=True)
+    max_date = max(df_tmp)
+    min_date = min(df_tmp)
+
+    for i in tqdm(df.index):
+    # for i in tqdm(range(50)):
+      types=[]
+      isOpeningBalance=False
+      isClosingBalance=False
+      startwithTotal=False
+
+      for j in range(len(df.iloc[i])):
+        types.append(type(df.iloc[i][j]))
+        if df.iloc[i][j] == 'Opening Balance':
+          isOpeningBalance = True
+          # print('Opening')
+        elif df.iloc[i][j] == 'Closing Balance':
+          isClosingBalance = True
+          # print('Closing')
+        if type(df.iloc[i][j]) == type('str'):
+          if  df.iloc[i][j].startswith('Total'):
+            startwithTotal=True
+            # print('Total found')
+      # print(df.iloc[i])
+
+      if type(pd.to_datetime(df.iloc[i][0], errors = 'ignore', dayfirst=True)) == type(pd.Timestamp.now()):
+        labels.append('Transaction')
+      elif all(element == type(0.00) for element in types):
+        labels.append('Blank')
+      elif types[0] == type('str') and all(element == type(0.00) for element in types[1:]):
+        labels.append('Account Name')
+        account_name = df.iloc[i][0]
+      elif types[0] == type('str') and types[-1] == type('str') and startwithTotal:
+        labels.append('Total')
+      elif types[0] == type('str') and types[-1] == type('str') and isOpeningBalance:
+        labels.append('Opening')
+        df.iloc[i]['Description']='Opening Balance'
+        df.iloc[i]['Date'] = min_date
+        statement_name = 'BS'
+      elif types[0] == type('str') and types[-1] == type('str') and isClosingBalance:
+        labels.append('Closing')
+        df.iloc[i]['Date'] = max_date
+        df.iloc[i]['Description']='Closing Balance'
+        statement_name = 'PL'
+      else:
+        labels.append('Error')
+        print(df.iloc[i])
+        print(types)
+      statement_names.append(statement_name)
+      account_names.append(account_name)
+
+    df.iloc[:,-1] = df.iloc[:,-1].apply(lambda x: replace_to_number(x))
+    df.iloc[:,-2] = df.iloc[:,-2].apply(lambda x: replace_to_number(x))
+    df.iloc[:,-3] = df.iloc[:,-3].apply(lambda x: replace_to_number(x))
+    df.iloc[:,-3] = pd.to_numeric(df.iloc[:,-3], errors = 'coerce')
+    df.iloc[:,-2] = pd.to_numeric(df.iloc[:,-2], errors = 'coerce')
+    df.iloc[:,-1] = pd.to_numeric(df.iloc[:,-1], errors = 'coerce')
+
+    df['DRCR'] = df.apply (lambda row: dr_or_cr(row), axis=1)
+
+    df['Label'] = labels
+    df['Account'] = account_names
+    df['Statement'] = statement_names
+
+    # df.drop(df[(df['Label'] == 'Blank') | (df['Label']=='Account Name') | (df['Label']=='Total') | (df['Label']=='Closing')].index, inplace=True)
+    df.drop(df[(df['Label'] == 'Blank') | (df['Label']=='Account Name')].index, inplace=True)
+    df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
+    pl = df.loc[df['Statement'] =='PL']
+    bs = df.loc[df['Statement']=='BS']
 
 
-def convert_df(df):
-    # IMPORTANT: Cache the conversion to prevent computation on every rerun
-    return df.to_csv().encode('utf-8')
-
-csv = convert_df(df)
+    output(df, account_names, 'output.xlsx')
 
 st.download_button(
      label="Download data as CSV",
-     data=csv,
-     file_name='large_df.csv',
-     mime='text/csv',
+     data=buff,
+     file_name='outputs.xplsx',
+     mime='text/excel',
  )
-
-
-DATE_COLUMN = 'date/time'
-DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
-            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
-
-def load_data(nrows):
-    data = pd.read_csv(DATA_URL, nrows=nrows)
-    lowercase = lambda x: str(x).lower()
-    data.rename(lowercase, axis='columns', inplace=True)
-    data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
-    return data
-
-data_load_state = st.text('Loading data...')
-data = load_data(10000)
-data_load_state.text("Done! (using st.cache)")
-
-if st.checkbox('Show raw data'):
-    st.subheader('Raw data')
-    st.write(data)
-
-st.subheader('Number of pickups by hour')
-hist_values = np.histogram(data[DATE_COLUMN].dt.hour, bins=24, range=(0,24))[0]
-st.bar_chart(hist_values)
-
-# Some number in the range 0-23
-hour_to_filter = st.slider('hour', 0, 23, 17)
-filtered_data = data[data[DATE_COLUMN].dt.hour == hour_to_filter]
-
-st.subheader('Map of all pickups at %s:00' % hour_to_filter)
-st.map(filtered_data)
