@@ -105,7 +105,7 @@ if uploaded_file is not None:
 
     for i in tqdm(df.index):
     # for i in tqdm(range(50)):
-      progress.progress(i)
+      progress.progress(i+1)
       types=[]
       isOpeningBalance=False
       isClosingBalance=False
