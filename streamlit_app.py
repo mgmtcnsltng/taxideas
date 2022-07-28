@@ -104,6 +104,7 @@ if uploaded_file is not None:
 
     for i in tqdm(df.index):
     # for i in tqdm(range(50)):
+      st.write(i,'/',df.index)
       types=[]
       isOpeningBalance=False
       isClosingBalance=False
