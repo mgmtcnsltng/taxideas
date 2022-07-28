@@ -83,7 +83,7 @@ st.title('Tax Ides & MGMTCNSLTNG')
 
 df=pd.DataFrame(columns=[])
 
-uploaded_file = st.file_uploader("Choose a file")
+uploaded_file = st.file_uploader("Choose a CSV file", type = 'csv')
 if uploaded_file is not None:
 #read csv
     df=pd.read_csv(uploaded_file)
@@ -167,7 +167,6 @@ if uploaded_file is not None:
     df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
     pl = df.loc[df['Statement'] =='PL']
     bs = df.loc[df['Statement']=='BS']
-
 
     df_xlsx = output(df, account_names)
 
