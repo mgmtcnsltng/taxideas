@@ -86,6 +86,7 @@ df=pd.DataFrame(columns=[])
 uploaded_file = st.file_uploader("Choose a CSV file", type = 'csv')
 if uploaded_file is not None:
 #read csv
+    progress = st.progress(0)
     df=pd.read_csv(uploaded_file)
     index, columns = find_columns(df)
     df.columns = columns
@@ -104,7 +105,7 @@ if uploaded_file is not None:
 
     for i in tqdm(df.index):
     # for i in tqdm(range(50)):
-      st.write(i,'/',df.index)
+      progress.progress(i)
       types=[]
       isOpeningBalance=False
       isClosingBalance=False
