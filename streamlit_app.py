@@ -86,7 +86,7 @@ df=pd.DataFrame(columns=[])
 uploaded_file = st.file_uploader("Choose a CSV file", type = 'csv')
 if uploaded_file is not None:
 #read csv
-    # progress = st.progress(0)
+    bar = st.progress(0)
     df=pd.read_csv(uploaded_file)
     index, columns = find_columns(df)
     df.columns = columns
@@ -103,9 +103,9 @@ if uploaded_file is not None:
     max_date = max(df_tmp)
     min_date = min(df_tmp)
 
-    for i in tqdm(df.index):
-    # for i in tqdm(range(50)):
-      # progress.progress(i+1)
+    # for i in tqdm(df.index):
+    for i, row in df.iterrows():
+      bar.progress(i/df.shape[0])
       types=[]
       isOpeningBalance=False
       isClosingBalance=False
