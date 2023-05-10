@@ -74,7 +74,7 @@ def output(df, account_names):
     # print(sheet_name)
         df_an.to_excel(writer, sheet_name = sheet_name)
 
-    writer.save()
+    writer.close()
     processed_data = buffer.getvalue()
     return processed_data
 
