@@ -1,0 +1,1439 @@
+﻿Account Transactions,,,,,,,,,
+AustGrade Mascot Swimming Pty Ltd,,,,,,,,,
+For the period 1 July 2025 to 30 June 2026,,,,,,,,,
+,,,,,,,,,
+"Account Type contains Asset, Liability, Equity",,,,,,,,,
+,,,,,,,,,
+Date,Source,Description,Reference,Debit,Credit,Running Balance,Gross,GST,Account
+,,,,,,,,,
+ - ANZ - Austgrade,,,,,,,,,
+23 Jul 2025,Spend Money,ACCOUNT FEES,,0.00,10.00,(10.00),(10.00),0.00,ANZ - Austgrade
+28 Jul 2025,Receive Money,ANZ Bank,,49.05,0.00,39.05,49.05,0.00,ANZ - Austgrade
+22 Aug 2025,Spend Money,ACCOUNT FEES,,0.00,10.00,29.05,(10.00),0.00,ANZ - Austgrade
+28 Aug 2025,Receive Money,ANZ Bank,,57.81,0.00,86.86,57.81,0.00,ANZ - Austgrade
+23 Sep 2025,Spend Money,ACCOUNT FEES,,0.00,10.00,76.86,(10.00),0.00,ANZ - Austgrade
+29 Sep 2025,Receive Money,ANZ Bank,,52.55,0.00,129.41,52.55,0.00,ANZ - Austgrade
+23 Oct 2025,Spend Money,ACCOUNT FEES,,0.00,10.00,119.41,(10.00),0.00,ANZ - Austgrade
+28 Oct 2025,Receive Money,ANZ Bank,,54.30,0.00,173.71,54.30,0.00,ANZ - Austgrade
+21 Nov 2025,Spend Money,ACCOUNT FEES,,0.00,10.00,163.71,(10.00),0.00,ANZ - Austgrade
+28 Nov 2025,Receive Money,ANZ Bank,,54.30,0.00,218.01,54.30,0.00,ANZ - Austgrade
+05 Dec 2025,Spend Money,ANZ,,0.00,"1,108.25",(890.24),"(1,108.25)",0.00,ANZ - Austgrade
+08 Dec 2025,Spend Money,ANZ,,0.00,37.70,(927.94),(37.70),0.00,ANZ - Austgrade
+08 Dec 2025,Receive Money,ANZ,,37.70,0.00,(890.24),37.70,0.00,ANZ - Austgrade
+23 Dec 2025,Spend Money,ANZ Bank,,0.00,5.59,(895.83),(5.59),0.00,ANZ - Austgrade
+23 Dec 2025,Spend Money,ACCOUNT FEES,,0.00,10.00,(905.83),(10.00),0.00,ANZ - Austgrade
+29 Dec 2025,Receive Money,ANZ Bank,,47.30,0.00,(858.53),47.30,0.00,ANZ - Austgrade
+08 Jan 2026,Bank Transfer,Bank Transfer from NAB- Austgrade  to ANZ - Austgrade,AustgNABtoANZ,536.91,0.00,(321.62),536.91,0.00,ANZ - Austgrade
+23 Jan 2026,Spend Money,ANZ Bank,,0.00,4.73,(326.35),(4.73),0.00,ANZ - Austgrade
+23 Jan 2026,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,10.00,(336.35),(10.00),0.00,ANZ - Austgrade
+28 Jan 2026,Receive Money,ANZ Bank,,59.56,0.00,(276.79),59.56,0.00,ANZ - Austgrade
+23 Feb 2026,Spend Money,ACCOUNT FEES,,0.00,10.00,(286.79),(10.00),0.00,ANZ - Austgrade
+23 Feb 2026,Spend Money,ANZ Bank,,0.00,0.03,(286.82),(0.03),0.00,ANZ - Austgrade
+02 Mar 2026,Receive Money,ANZ Bank,,54.30,0.00,(232.52),54.30,0.00,ANZ - Austgrade
+23 Mar 2026,Spend Money,ACCOUNT FEES,,0.00,10.00,(242.52),(10.00),0.00,ANZ - Austgrade
+30 Mar 2026,Receive Money,ANZ Bank,,49.05,0.00,(193.47),49.05,0.00,ANZ - Austgrade
+23 Apr 2026,Spend Money,ACCOUNT FEES,,0.00,10.00,(203.47),(10.00),0.00,ANZ - Austgrade
+24 Apr 2026,Spend Money,Andrew Kastoun,,0.00,100.00,(303.47),(100.00),0.00,ANZ - Austgrade
+28 Apr 2026,Receive Money,ANZ Bank,,54.30,0.00,(249.17),54.30,0.00,ANZ - Austgrade
+22 May 2026,Spend Money,ACCOUNT FEES,,0.00,10.00,(259.17),(10.00),0.00,ANZ - Austgrade
+28 May 2026,Receive Money,ANZ Bank,,52.55,0.00,(206.62),52.55,0.00,ANZ - Austgrade
+10 Jun 2026,Spend Money,Andrew Kastoun,,0.00,115.00,(321.62),(115.00),0.00,ANZ - Austgrade
+23 Jun 2026,Spend Money,ACCOUNT FEES,,0.00,10.00,(331.62),(10.00),0.00,ANZ - Austgrade
+29 Jun 2026,Receive Money,ANZ Bank,,52.55,0.00,(279.07),52.55,0.00,ANZ - Austgrade
+Total  - ANZ - Austgrade,,,,"1,212.23","1,491.30",(279.07),(279.07),0.00,
+,,,,,,,,,
+ - NAB- Austgrade ,,,,,,,,,
+01 Jul 2025,Spend Money,Merchant Fee,,0.00,36.54,(36.54),(36.54),0.00,NAB- Austgrade 
+01 Jul 2025,Payable Payment,Payment: BUNNINGS,,0.00,119.91,(156.45),(119.91),0.00,NAB- Austgrade 
+01 Jul 2025,Receive Money,Ezidebit,,398.92,0.00,242.47,398.92,0.00,NAB- Austgrade 
+01 Jul 2025,Spend Money,Swimbiz,,0.00,404.17,(161.70),(404.17),0.00,NAB- Austgrade 
+01 Jul 2025,Spend Money,TAXIDEAS,,0.00,363.00,(524.70),(363.00),0.00,NAB- Austgrade 
+01 Jul 2025,Spend Money,Humm AUS solar panel payment,,0.00,8.00,(532.70),(8.00),0.00,NAB- Austgrade 
+02 Jul 2025,Receive Money,Ezidebit,,116.78,0.00,(415.92),116.78,0.00,NAB- Austgrade 
+02 Jul 2025,Payable Payment,Payment: Waster Pty Ltd,00120717,0.00,140.80,(556.72),(140.80),0.00,NAB- Austgrade 
+02 Jul 2025,Receive Money,Service NSW AUSTGRADE,,150.00,0.00,(406.72),150.00,0.00,NAB- Austgrade 
+03 Jul 2025,Receive Money,Ezidebit,,291.12,0.00,(115.60),291.12,0.00,NAB- Austgrade 
+03 Jul 2025,Receive Money,Flexipay,,256.28,0.00,140.68,256.28,0.00,NAB- Austgrade 
+04 Jul 2025,Receive Money,SERVICE NSW,,100.00,0.00,240.68,100.00,0.00,NAB- Austgrade 
+04 Jul 2025,Payable Payment,Payment: TELSTRA,K 555 442 561 Acc,0.00,179.99,60.69,(179.99),0.00,NAB- Austgrade 
+04 Jul 2025,Receive Money,Ezidebit,,115.90,0.00,176.59,115.90,0.00,NAB- Austgrade 
+07 Jul 2025,Receivable Payment,Payment: Mika,INV-0041,"4,290.00",0.00,"4,466.59","4,290.00",0.00,NAB- Austgrade 
+07 Jul 2025,Payable Payment,Payment: pharmacy4less,,0.00,21.98,"4,444.61",(21.98),0.00,NAB- Austgrade 
+07 Jul 2025,Receive Money,Ezidebit,,305.12,0.00,"4,749.73",305.12,0.00,NAB- Austgrade 
+07 Jul 2025,Receive Money,Flexipay,,32.50,0.00,"4,782.23",32.50,0.00,NAB- Austgrade 
+07 Jul 2025,Receive Money,Flexipay,,50.00,0.00,"4,832.23",50.00,0.00,NAB- Austgrade 
+07 Jul 2025,Receive Money,DONNA LOHMEYERA,,175.00,0.00,"5,007.23",175.00,0.00,NAB- Austgrade 
+07 Jul 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,0.00,"5,000.00",7.23,"(5,000.00)",0.00,NAB- Austgrade 
+07 Jul 2025,Receive Money,Flexipay,,40.00,0.00,47.23,40.00,0.00,NAB- Austgrade 
+07 Jul 2025,Receive Money,Donna,,120.00,0.00,167.23,120.00,0.00,NAB- Austgrade 
+08 Jul 2025,Payable Payment,Payment: JB HI FI,,0.00,85.00,82.23,(85.00),0.00,NAB- Austgrade 
+08 Jul 2025,Payable Payment,Payment: BUNNINGS,,0.00,190.38,(108.15),(190.38),0.00,NAB- Austgrade 
+08 Jul 2025,Receive Money,Ezidebit,,268.24,0.00,160.09,268.24,0.00,NAB- Austgrade 
+09 Jul 2025,Receive Money,Ezidebit,,161.12,0.00,321.21,161.12,0.00,NAB- Austgrade 
+09 Jul 2025,Receive Money,Flexipay,,10.00,0.00,331.21,10.00,0.00,NAB- Austgrade 
+10 Jul 2025,Payable Payment,Payment: IGA,,0.00,10.80,320.41,(10.80),0.00,NAB- Austgrade 
+10 Jul 2025,Spend Money,salary,,0.00,"9,670.55","(9,350.14)","(9,670.55)",0.00,NAB- Austgrade 
+10 Jul 2025,Receive Money,Flexipay,,227.81,0.00,"(9,122.33)",227.81,0.00,NAB- Austgrade 
+10 Jul 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"(9,315.30)",(192.97),0.00,NAB- Austgrade 
+10 Jul 2025,Receive Money,aroona,,"9,000.00",0.00,(315.30),"9,000.00",0.00,NAB- Austgrade 
+10 Jul 2025,Spend Money,Dulamsuren Amgalan,,0.00,355.00,(670.30),(355.00),0.00,NAB- Austgrade 
+11 Jul 2025,Receive Money,Flexipay,,778.51,0.00,108.21,778.51,0.00,NAB- Austgrade 
+11 Jul 2025,Receive Money,SERVICE NSW,,50.00,0.00,158.21,50.00,0.00,NAB- Austgrade 
+11 Jul 2025,Payable Payment,Payment: IGA,,0.00,7.00,151.21,(7.00),0.00,NAB- Austgrade 
+11 Jul 2025,Spend Money,SuperChoice,,0.00,"1,292.96","(1,141.75)","(1,292.96)",0.00,NAB- Austgrade 
+14 Jul 2025,Receive Money,Flexipay,,327.43,0.00,(814.32),327.43,0.00,NAB- Austgrade 
+14 Jul 2025,Receive Money,SERVICE NSW,,100.00,0.00,(714.32),100.00,0.00,NAB- Austgrade 
+14 Jul 2025,Payable Payment,Payment: Budget Petrol,,0.00,89.70,(804.02),(89.70),0.00,NAB- Austgrade 
+14 Jul 2025,Receive Money,aroona,,"1,000.00",0.00,195.98,"1,000.00",0.00,NAB- Austgrade 
+14 Jul 2025,Receive Money,Auskor Swimm,,"1,000.00",0.00,"1,195.98","1,000.00",0.00,NAB- Austgrade 
+15 Jul 2025,Receivable Payment,Payment: Mascot Public School,INV-0042,"6,000.00",0.00,"7,195.98","6,000.00",0.00,NAB- Austgrade 
+15 Jul 2025,Payable Payment,Payment: BUNNINGS,,0.00,37.19,"7,158.79",(37.19),0.00,NAB- Austgrade 
+15 Jul 2025,Payable Payment,Payment: Aquatic Elements Pty Ltd,00121280,0.00,"4,275.70","2,883.09","(4,275.70)",0.00,NAB- Austgrade 
+16 Jul 2025,Receive Money,SERVICE NSW,,200.00,0.00,"3,083.09",200.00,0.00,NAB- Austgrade 
+16 Jul 2025,Receive Money,Ezidebit,,"1,350.95",0.00,"4,434.04","1,350.95",0.00,NAB- Austgrade 
+17 Jul 2025,Payable Payment,Payment: IGA,,0.00,12.90,"4,421.14",(12.90),0.00,NAB- Austgrade 
+17 Jul 2025,Receive Money,SERVICE NSW,,50.00,0.00,"4,471.14",50.00,0.00,NAB- Austgrade 
+17 Jul 2025,Spend Money,Origin Energy,,0.00,"3,446.55","1,024.59","(3,446.55)",0.00,NAB- Austgrade 
+17 Jul 2025,Receive Money,Flexipay,,56.95,0.00,"1,081.54",56.95,0.00,NAB- Austgrade 
+17 Jul 2025,Payable Payment,Payment: Waster Pty Ltd,00118068,0.00,140.80,940.74,(140.80),0.00,NAB- Austgrade 
+17 Jul 2025,Receive Money,Ezidebit,,937.06,0.00,"1,877.80",937.06,0.00,NAB- Austgrade 
+18 Jul 2025,Receive Money,Ezidebit,,212.82,0.00,"2,090.62",212.82,0.00,NAB- Austgrade 
+18 Jul 2025,Receive Money,Flexipay,,16.00,0.00,"2,106.62",16.00,0.00,NAB- Austgrade 
+18 Jul 2025,Receive Money,SERVICE NSW,,150.00,0.00,"2,256.62",150.00,0.00,NAB- Austgrade 
+21 Jul 2025,Payable Payment,Payment: G18 discount market,,0.00,5.50,"2,251.12",(5.50),0.00,NAB- Austgrade 
+21 Jul 2025,Receive Money,Ezidebit,,756.41,0.00,"3,007.53",756.41,0.00,NAB- Austgrade 
+22 Jul 2025,Payable Payment,Payment: officework,,0.00,22.87,"2,984.66",(22.87),0.00,NAB- Austgrade 
+22 Jul 2025,Payable Payment,Payment: BUNNINGS,,0.00,62.95,"2,921.71",(62.95),0.00,NAB- Austgrade 
+22 Jul 2025,Spend Money,ONLINE J6289145852 Mascot to... Transfer Debit,,0.00,"1,000.00","1,921.71","(1,000.00)",0.00,NAB- Austgrade 
+22 Jul 2025,Payable Payment,Payment: BUNNINGS,,0.00,78.95,"1,842.76",(78.95),0.00,NAB- Austgrade 
+22 Jul 2025,Receive Money,Service NSW AUSTGRADE,,50.00,0.00,"1,892.76",50.00,0.00,NAB- Austgrade 
+22 Jul 2025,Receive Money,Ezidebit,,"1,084.97",0.00,"2,977.73","1,084.97",0.00,NAB- Austgrade 
+23 Jul 2025,Receive Money,SERVICE NSW,,200.00,0.00,"3,177.73",200.00,0.00,NAB- Austgrade 
+24 Jul 2025,Receive Money,Ezidebit,,"56,965.68",0.00,"60,143.41","56,965.68",0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,salary,,0.00,"9,551.88","50,591.53","(9,551.88)",0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,Maria Camilla Ramire,,0.00,600.00,"49,991.53",(600.00),0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,LAURA CAMILA FUERTE,,0.00,113.77,"49,877.76",(113.77),0.00,NAB- Austgrade 
+24 Jul 2025,Receive Money,SERVICE NSW,,50.00,0.00,"49,927.76",50.00,0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,class fee refund,,0.00,637.25,"49,290.51",(637.25),0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,Carolina Delgado,,0.00,297.60,"48,992.91",(297.60),0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"48,799.94",(192.97),0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,SuperChoice,,0.00,"1,267.18","47,532.76","(1,267.18)",0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,juan Sebastian Valen,,0.00,720.00,"46,812.76",(720.00),0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,SILVIA MALDONADO,,0.00,159.00,"46,653.76",(159.00),0.00,NAB- Austgrade 
+24 Jul 2025,Spend Money,A J Duffy,,0.00,"3,585.95","43,067.81","(3,585.95)",0.00,NAB- Austgrade 
+25 Jul 2025,Receivable Payment,Payment: Mascot Public School,INV-0040,"6,000.00",0.00,"49,067.81","6,000.00",0.00,NAB- Austgrade 
+25 Jul 2025,Receive Money,Ezidebit,,475.37,0.00,"49,543.18",475.37,0.00,NAB- Austgrade 
+25 Jul 2025,Receive Money,Flexipay,,467.31,0.00,"50,010.49",467.31,0.00,NAB- Austgrade 
+25 Jul 2025,Spend Money,LIZETH Gomez hortua,,0.00,593.21,"49,417.28",(593.21),0.00,NAB- Austgrade 
+28 Jul 2025,Payable Payment,Payment: Budget Petrol,,0.00,104.65,"49,312.63",(104.65),0.00,NAB- Austgrade 
+28 Jul 2025,Receive Money,Flexipay,,85.43,0.00,"49,398.06",85.43,0.00,NAB- Austgrade 
+28 Jul 2025,Receive Money,Flexipay,,20.00,0.00,"49,418.06",20.00,0.00,NAB- Austgrade 
+28 Jul 2025,Receive Money,Flexipay,,593.38,0.00,"50,011.44",593.38,0.00,NAB- Austgrade 
+28 Jul 2025,Receive Money,Ezidebit,,288.24,0.00,"50,299.68",288.24,0.00,NAB- Austgrade 
+29 Jul 2025,Receive Money,Ezidebit,,707.95,0.00,"51,007.63",707.95,0.00,NAB- Austgrade 
+29 Jul 2025,Spend Money,NAB,,0.00,18.74,"50,988.89",(18.74),0.00,NAB- Austgrade 
+30 Jul 2025,Receive Money,Ezidebit,,"1,026.12",0.00,"52,015.01","1,026.12",0.00,NAB- Austgrade 
+30 Jul 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,0.00,"10,000.00","42,015.01","(10,000.00)",0.00,NAB- Austgrade 
+31 Jul 2025,Payable Payment,Payment: officework,orderNumber=1015958561,0.00,96.00,"41,919.01",(96.00),0.00,NAB- Austgrade 
+31 Jul 2025,Spend Money,Icare Workers Insurance,,0.00,516.32,"41,402.69",(516.32),0.00,NAB- Austgrade 
+31 Jul 2025,Spend Money,Merchant Fee,,0.00,49.68,"41,353.01",(49.68),0.00,NAB- Austgrade 
+31 Jul 2025,Spend Money,NAB,,0.00,0.27,"41,352.74",(0.27),0.00,NAB- Austgrade 
+01 Aug 2025,Spend Money,TAXIDEAS,,0.00,363.00,"40,989.74",(363.00),0.00,NAB- Austgrade 
+01 Aug 2025,Receive Money,Flexipay,,337.60,0.00,"41,327.34",337.60,0.00,NAB- Austgrade 
+01 Aug 2025,Spend Money,Swimbiz,,0.00,417.42,"40,909.92",(417.42),0.00,NAB- Austgrade 
+01 Aug 2025,Spend Money,Humm AUS solar panel payment,,0.00,8.00,"40,901.92",(8.00),0.00,NAB- Austgrade 
+01 Aug 2025,Receive Money,Service NSW AUSTGRADE,,50.00,0.00,"40,951.92",50.00,0.00,NAB- Austgrade 
+04 Aug 2025,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0043,"2,500.00",0.00,"43,451.92","2,500.00",0.00,NAB- Austgrade 
+04 Aug 2025,Receive Money,Ezidebit,,"1,940.96",0.00,"45,392.88","1,940.96",0.00,NAB- Austgrade 
+04 Aug 2025,Payable Payment,Payment: JB HI FI,,0.00,149.80,"45,243.08",(149.80),0.00,NAB- Austgrade 
+04 Aug 2025,Receive Money,Flexipay,,40.00,0.00,"45,283.08",40.00,0.00,NAB- Austgrade 
+04 Aug 2025,Receive Money,Flexipay,,73.00,0.00,"45,356.08",73.00,0.00,NAB- Austgrade 
+04 Aug 2025,Receive Money,DONNA LOHMEYERA,,190.00,0.00,"45,546.08",190.00,0.00,NAB- Austgrade 
+05 Aug 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,0.00,"10,000.00","35,546.08","(10,000.00)",0.00,NAB- Austgrade 
+05 Aug 2025,Payable Payment,Payment: BUNNINGS,,0.00,25.94,"35,520.14",(25.94),0.00,NAB- Austgrade 
+05 Aug 2025,Receive Money,Ezidebit,,219.01,0.00,"35,739.15",219.01,0.00,NAB- Austgrade 
+05 Aug 2025,Payable Payment,Payment: IGA,,0.00,8.60,"35,730.55",(8.60),0.00,NAB- Austgrade 
+06 Aug 2025,Spend Money,Austgrade Leasing,,0.00,10.00,"35,720.55",(10.00),0.00,NAB- Austgrade 
+06 Aug 2025,Spend Money,SuperChoice,,0.00,"1,088.50","34,632.05","(1,088.50)",0.00,NAB- Austgrade 
+06 Aug 2025,Receive Money,SERVICE NSW,,200.00,0.00,"34,832.05",200.00,0.00,NAB- Austgrade 
+06 Aug 2025,Receive Money,Ezidebit,,80.12,0.00,"34,912.17",80.12,0.00,NAB- Austgrade 
+06 Aug 2025,Spend Money,salary,,0.00,"7,769.95","27,142.22","(7,769.95)",0.00,NAB- Austgrade 
+06 Aug 2025,Spend Money,Austgrade Leasing,,0.00,"4,546.20","22,596.02","(4,546.20)",0.00,NAB- Austgrade 
+07 Aug 2025,Receivable Payment,Payment: A1 Swimming Academy,INV-0044,420.00,0.00,"23,016.02",420.00,0.00,NAB- Austgrade 
+07 Aug 2025,Receive Money,Ezidebit,,169.12,0.00,"23,185.14",169.12,0.00,NAB- Austgrade 
+07 Aug 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"22,992.17",(192.97),0.00,NAB- Austgrade 
+08 Aug 2025,Receive Money,Ezidebit,,130.54,0.00,"23,122.71",130.54,0.00,NAB- Austgrade 
+08 Aug 2025,Spend Money,ONLINE J6289145852 Mascot to... Transfer Debit,,0.00,"10,000.00","13,122.71","(10,000.00)",0.00,NAB- Austgrade 
+08 Aug 2025,Receive Money,Flexipay,,187.55,0.00,"13,310.26",187.55,0.00,NAB- Austgrade 
+11 Aug 2025,Receive Money,Flexipay,,102.38,0.00,"13,412.64",102.38,0.00,NAB- Austgrade 
+11 Aug 2025,Spend Money,Ryde district mums,,0.00,210.00,"13,202.64",(210.00),0.00,NAB- Austgrade 
+11 Aug 2025,Spend Money,Budget Petrol,,0.00,104.65,"13,097.99",(104.65),0.00,NAB- Austgrade 
+12 Aug 2025,Receive Money,Ezidebit,,82.24,0.00,"13,180.23",82.24,0.00,NAB- Austgrade 
+13 Aug 2025,Receive Money,Ezidebit,,191.12,0.00,"13,371.35",191.12,0.00,NAB- Austgrade 
+14 Aug 2025,Payable Payment,Payment: IGA,,0.00,59.44,"13,311.91",(59.44),0.00,NAB- Austgrade 
+14 Aug 2025,Receive Money,Ezidebit,,55.12,0.00,"13,367.03",55.12,0.00,NAB- Austgrade 
+15 Aug 2025,Receive Money,Ezidebit,,140.12,0.00,"13,507.15",140.12,0.00,NAB- Austgrade 
+15 Aug 2025,Receive Money,Flexipay,,44.00,0.00,"13,551.15",44.00,0.00,NAB- Austgrade 
+18 Aug 2025,Receive Money,Ezidebit,,338.75,0.00,"13,889.90",338.75,0.00,NAB- Austgrade 
+18 Aug 2025,Receive Money,Flexipay,,30.00,0.00,"13,919.90",30.00,0.00,NAB- Austgrade 
+18 Aug 2025,Receive Money,SERVICE NSW,,100.00,0.00,"14,019.90",100.00,0.00,NAB- Austgrade 
+19 Aug 2025,Spend Money,Kevin Joyce Pest Control,,0.00,495.00,"13,524.90",(495.00),0.00,NAB- Austgrade 
+19 Aug 2025,Payable Payment,Payment: IGA,,0.00,13.66,"13,511.24",(13.66),0.00,NAB- Austgrade 
+19 Aug 2025,Receive Money,Ezidebit,,"1,434.40",0.00,"14,945.64","1,434.40",0.00,NAB- Austgrade 
+19 Aug 2025,Spend Money,Lions Club,,0.00,"3,000.00","11,945.64","(3,000.00)",0.00,NAB- Austgrade 
+20 Aug 2025,Receive Money,Flexipay,,30.00,0.00,"11,975.64",30.00,0.00,NAB- Austgrade 
+20 Aug 2025,Receive Money,Service NSW AUSTGRADE,,250.00,0.00,"12,225.64",250.00,0.00,NAB- Austgrade 
+20 Aug 2025,Receive Money,Ezidebit,,313.12,0.00,"12,538.76",313.12,0.00,NAB- Austgrade 
+21 Aug 2025,Spend Money,NAB,,0.00,16.99,"12,521.77",(16.99),0.00,NAB- Austgrade 
+21 Aug 2025,Receive Money,Ezidebit,,108.92,0.00,"12,630.69",108.92,0.00,NAB- Austgrade 
+21 Aug 2025,Spend Money,salary,,0.00,"9,670.11","2,960.58","(9,670.11)",0.00,NAB- Austgrade 
+21 Aug 2025,Receive Money,Flexipay,,30.00,0.00,"2,990.58",30.00,0.00,NAB- Austgrade 
+21 Aug 2025,Spend Money,SuperChoice,,0.00,"1,297.70","1,692.88","(1,297.70)",0.00,NAB- Austgrade 
+21 Aug 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"1,499.91",(192.97),0.00,NAB- Austgrade 
+22 Aug 2025,Receive Money,Flexipay,,122.04,0.00,"1,621.95",122.04,0.00,NAB- Austgrade 
+22 Aug 2025,Receive Money,Ezidebit,,226.88,0.00,"1,848.83",226.88,0.00,NAB- Austgrade 
+25 Aug 2025,Receive Money,Flexipay,,26.00,0.00,"1,874.83",26.00,0.00,NAB- Austgrade 
+25 Aug 2025,Payable Payment,Payment: IGA,,0.00,17.60,"1,857.23",(17.60),0.00,NAB- Austgrade 
+25 Aug 2025,Receive Money,Ezidebit,,526.03,0.00,"2,383.26",526.03,0.00,NAB- Austgrade 
+25 Aug 2025,Receive Money,Flexipay,,150.47,0.00,"2,533.73",150.47,0.00,NAB- Austgrade 
+25 Aug 2025,Payable Payment,Payment: Budget Petrol,,0.00,104.65,"2,429.08",(104.65),0.00,NAB- Austgrade 
+26 Aug 2025,Receive Money,Ezidebit,,"54,963.30",0.00,"57,392.38","54,963.30",0.00,NAB- Austgrade 
+26 Aug 2025,Receive Money,Flexipay,,235.94,0.00,"57,628.32",235.94,0.00,NAB- Austgrade 
+27 Aug 2025,Payable Payment,Payment: A J Duffy,90148,0.00,"36,476.72","21,151.60","(36,476.72)",0.00,NAB- Austgrade 
+27 Aug 2025,Receive Money,Ezidebit,,33.12,0.00,"21,184.72",33.12,0.00,NAB- Austgrade 
+27 Aug 2025,Receive Money,Flexipay,,20.00,0.00,"21,204.72",20.00,0.00,NAB- Austgrade 
+27 Aug 2025,Spend Money,Origin Energy,,0.00,"3,801.15","17,403.57","(3,801.15)",0.00,NAB- Austgrade 
+28 Aug 2025,Receive Money,Ezidebit,,305.22,0.00,"17,708.79",305.22,0.00,NAB- Austgrade 
+28 Aug 2025,Receive Money,Flexipay,,504.09,0.00,"18,212.88",504.09,0.00,NAB- Austgrade 
+29 Aug 2025,Payable Payment,Payment: Waster Pty Ltd,00123488,0.00,221.10,"17,991.78",(221.10),0.00,NAB- Austgrade 
+29 Aug 2025,Receive Money,Flexipay,,52.00,0.00,"18,043.78",52.00,0.00,NAB- Austgrade 
+29 Aug 2025,Spend Money,Merchant Fee,,0.00,40.17,"18,003.61",(40.17),0.00,NAB- Austgrade 
+01 Sep 2025,Receive Money,Ezidebit,,409.12,0.00,"18,412.73",409.12,0.00,NAB- Austgrade 
+01 Sep 2025,Spend Money,Icare Workers Insurance,,0.00,516.32,"17,896.41",(516.32),0.00,NAB- Austgrade 
+01 Sep 2025,Receive Money,Flexipay,,50.00,0.00,"17,946.41",50.00,0.00,NAB- Austgrade 
+01 Sep 2025,Spend Money,Humm AUS solar panel payment,,0.00,8.00,"17,938.41",(8.00),0.00,NAB- Austgrade 
+01 Sep 2025,Receive Money,Flexipay,,30.00,0.00,"17,968.41",30.00,0.00,NAB- Austgrade 
+01 Sep 2025,Spend Money,Swimbiz,,0.00,406.62,"17,561.79",(406.62),0.00,NAB- Austgrade 
+01 Sep 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,0.00,"6,000.00","11,561.79","(6,000.00)",0.00,NAB- Austgrade 
+01 Sep 2025,Spend Money,TAXIDEAS,,0.00,363.00,"11,198.79",(363.00),0.00,NAB- Austgrade 
+02 Sep 2025,Receive Money,Ezidebit,,"1,668.32",0.00,"12,867.11","1,668.32",0.00,NAB- Austgrade 
+02 Sep 2025,Receive Money,Flexipay,,20.00,0.00,"12,887.11",20.00,0.00,NAB- Austgrade 
+03 Sep 2025,Spend Money,SuperChoice,,0.00,"1,129.27","11,757.84","(1,129.27)",0.00,NAB- Austgrade 
+03 Sep 2025,Receive Money,Flexipay,,16.00,0.00,"11,773.84",16.00,0.00,NAB- Austgrade 
+03 Sep 2025,Receive Money,Ezidebit,,224.12,0.00,"11,997.96",224.12,0.00,NAB- Austgrade 
+03 Sep 2025,Spend Money,salary,,0.00,"8,296.49","3,701.47","(8,296.49)",0.00,NAB- Austgrade 
+04 Sep 2025,Receive Money,Flexipay,,42.50,0.00,"3,743.97",42.50,0.00,NAB- Austgrade 
+04 Sep 2025,Payable Payment,Payment: office,,0.00,15.60,"3,728.37",(15.60),0.00,NAB- Austgrade 
+04 Sep 2025,Receive Money,SERVICE NSW,,50.00,0.00,"3,778.37",50.00,0.00,NAB- Austgrade 
+04 Sep 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"3,585.40",(192.97),0.00,NAB- Austgrade 
+04 Sep 2025,Receive Money,Ezidebit,,219.12,0.00,"3,804.52",219.12,0.00,NAB- Austgrade 
+05 Sep 2025,Receive Money,Flexipay,,217.36,0.00,"4,021.88",217.36,0.00,NAB- Austgrade 
+05 Sep 2025,Payable Payment,Payment: Budget Petrol,,0.00,104.65,"3,917.23",(104.65),0.00,NAB- Austgrade 
+05 Sep 2025,Receive Money,Ezidebit,,136.44,0.00,"4,053.67",136.44,0.00,NAB- Austgrade 
+08 Sep 2025,Receive Money,Flexipay,,16.00,0.00,"4,069.67",16.00,0.00,NAB- Austgrade 
+08 Sep 2025,Receive Money,Ezidebit,,384.41,0.00,"4,454.08",384.41,0.00,NAB- Austgrade 
+08 Sep 2025,Receive Money,SERVICE NSW,,100.00,0.00,"4,554.08",100.00,0.00,NAB- Austgrade 
+08 Sep 2025,Receive Money,Flexipay,,30.00,0.00,"4,584.08",30.00,0.00,NAB- Austgrade 
+08 Sep 2025,Receive Money,Flexipay,,32.00,0.00,"4,616.08",32.00,0.00,NAB- Austgrade 
+09 Sep 2025,Receive Money,SERVICE NSW,,150.00,0.00,"4,766.08",150.00,0.00,NAB- Austgrade 
+09 Sep 2025,Payable Payment,Payment: IGA,,0.00,13.00,"4,753.08",(13.00),0.00,NAB- Austgrade 
+10 Sep 2025,Receive Money,Ezidebit,,223.12,0.00,"4,976.20",223.12,0.00,NAB- Austgrade 
+11 Sep 2025,Receive Money,Flexipay,,10.00,0.00,"4,986.20",10.00,0.00,NAB- Austgrade 
+11 Sep 2025,Receive Money,Ezidebit,,83.12,0.00,"5,069.32",83.12,0.00,NAB- Austgrade 
+12 Sep 2025,Payable Payment,Payment: KMART,,0.00,37.00,"5,032.32",(37.00),0.00,NAB- Austgrade 
+15 Sep 2025,Receive Money,Ezidebit,,206.99,0.00,"5,239.31",206.99,0.00,NAB- Austgrade 
+15 Sep 2025,Spend Money,INTERNET BPAY ASIC,,0.00,329.00,"4,910.31",(329.00),0.00,NAB- Austgrade 
+15 Sep 2025,Receive Money,Flexipay,,16.00,0.00,"4,926.31",16.00,0.00,NAB- Austgrade 
+15 Sep 2025,Receive Money,Flexipay,,30.00,0.00,"4,956.31",30.00,0.00,NAB- Austgrade 
+16 Sep 2025,Receive Money,Service NSW AUSTGRADE,,100.00,0.00,"5,056.31",100.00,0.00,NAB- Austgrade 
+16 Sep 2025,Receive Money,Flexipay,,15.00,0.00,"5,071.31",15.00,0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,Icare Workers Insurance,,0.00,"1,765.54","3,305.77","(1,765.54)",0.00,NAB- Austgrade 
+16 Sep 2025,Receive Money,Lin Li,,"10,000.00",0.00,"13,305.77","10,000.00",0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,salary,,0.00,"10,485.74","2,820.03","(10,485.74)",0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,Austgrade Top Ryde,,0.00,"1,000.00","1,820.03","(1,000.00)",0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,Mario Alejandro Cruz,,0.00,"1,005.44",814.59,"(1,005.44)",0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,Carolina Delgado,,0.00,452.40,362.19,(452.40),0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,refund,,0.00,84.00,278.19,(84.00),0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,juan Sebastian Valen,,0.00,780.00,(501.81),(780.00),0.00,NAB- Austgrade 
+16 Sep 2025,Payable Payment,Payment: IGA,,0.00,7.20,(509.01),(7.20),0.00,NAB- Austgrade 
+16 Sep 2025,Receive Money,Ezidebit,,590.65,0.00,81.64,590.65,0.00,NAB- Austgrade 
+16 Sep 2025,Spend Money,MARIA CAMILLA RAMIREM,,0.00,300.00,(218.36),(300.00),0.00,NAB- Austgrade 
+17 Sep 2025,Receive Money,SERVICE NSW,,50.00,0.00,(168.36),50.00,0.00,NAB- Austgrade 
+17 Sep 2025,Spend Money,Budget Petrol,,0.00,104.65,(273.01),(104.65),0.00,NAB- Austgrade 
+17 Sep 2025,Receive Money,Ezidebit,,890.68,0.00,617.67,890.68,0.00,NAB- Austgrade 
+17 Sep 2025,Receive Money,Flexipay,,35.00,0.00,652.67,35.00,0.00,NAB- Austgrade 
+17 Sep 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,12.50,640.17,(12.50),0.00,NAB- Austgrade 
+18 Sep 2025,Payable Payment,Payment: ALDI STORES,,0.00,5.57,634.60,(5.57),0.00,NAB- Austgrade 
+18 Sep 2025,Payable Payment,Payment: office,,0.00,1.65,632.95,(1.65),0.00,NAB- Austgrade 
+18 Sep 2025,Receive Money,Ezidebit,,108.92,0.00,741.87,108.92,0.00,NAB- Austgrade 
+18 Sep 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,548.90,(192.97),0.00,NAB- Austgrade 
+18 Sep 2025,Receive Money,ATO,,928.00,0.00,"1,476.90",928.00,0.00,NAB- Austgrade 
+19 Sep 2025,Receive Money,Flexipay,,66.95,0.00,"1,543.85",66.95,0.00,NAB- Austgrade 
+19 Sep 2025,Receive Money,Ezidebit,,452.88,0.00,"1,996.73",452.88,0.00,NAB- Austgrade 
+22 Sep 2025,Receive Money,Flexipay,,201.00,0.00,"2,197.73",201.00,0.00,NAB- Austgrade 
+22 Sep 2025,Receive Money,Flexipay,,16.00,0.00,"2,213.73",16.00,0.00,NAB- Austgrade 
+22 Sep 2025,Receive Money,Lin Li,,"3,393.00",0.00,"5,606.73","3,393.00",0.00,NAB- Austgrade 
+22 Sep 2025,Receive Money,Flexipay,,50.00,0.00,"5,656.73",50.00,0.00,NAB- Austgrade 
+22 Sep 2025,Receive Money,Ezidebit,,609.05,0.00,"6,265.78",609.05,0.00,NAB- Austgrade 
+23 Sep 2025,Receive Money,Ezidebit,,308.85,0.00,"6,574.63",308.85,0.00,NAB- Austgrade 
+23 Sep 2025,Receive Money,Flexipay,,16.00,0.00,"6,590.63",16.00,0.00,NAB- Austgrade 
+24 Sep 2025,Receive Money,Flexipay,,294.93,0.00,"6,885.56",294.93,0.00,NAB- Austgrade 
+24 Sep 2025,Receive Money,Ezidebit,,"54,831.32",0.00,"61,716.88","54,831.32",0.00,NAB- Austgrade 
+25 Sep 2025,Receive Money,Ezidebit,,108.92,0.00,"61,825.80",108.92,0.00,NAB- Austgrade 
+25 Sep 2025,Receive Money,Flexipay,,28.00,0.00,"61,853.80",28.00,0.00,NAB- Austgrade 
+26 Sep 2025,Receive Money,Ezidebit,,138.92,0.00,"61,992.72",138.92,0.00,NAB- Austgrade 
+26 Sep 2025,Receive Money,SERVICE NSW,,150.00,0.00,"62,142.72",150.00,0.00,NAB- Austgrade 
+26 Sep 2025,Receive Money,Flexipay,,256.28,0.00,"62,399.00",256.28,0.00,NAB- Austgrade 
+29 Sep 2025,Receivable Payment,Payment: Mika,INV-0047,"4,290.00",0.00,"66,689.00","4,290.00",0.00,NAB- Austgrade 
+29 Sep 2025,Receive Money,Ezidebit,,203.12,0.00,"66,892.12",203.12,0.00,NAB- Austgrade 
+29 Sep 2025,Receive Money,Flexipay,,192.04,0.00,"67,084.16",192.04,0.00,NAB- Austgrade 
+30 Sep 2025,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0048,"3,150.00",0.00,"70,234.16","3,150.00",0.00,NAB- Austgrade 
+30 Sep 2025,Spend Money,Icare Workers Insurance,,0.00,516.32,"69,717.84",(516.32),0.00,NAB- Austgrade 
+30 Sep 2025,Payable Payment,Payment: Budget Petrol,,0.00,89.70,"69,628.14",(89.70),0.00,NAB- Austgrade 
+30 Sep 2025,Spend Money,Merchant Fee,,0.00,38.04,"69,590.10",(38.04),0.00,NAB- Austgrade 
+30 Sep 2025,Spend Money,NAB,,0.00,18.99,"69,571.11",(18.99),0.00,NAB- Austgrade 
+30 Sep 2025,Receive Money,Ezidebit,,347.02,0.00,"69,918.13",347.02,0.00,NAB- Austgrade 
+01 Oct 2025,Receive Money,Ezidebit,,919.12,0.00,"70,837.25",919.12,0.00,NAB- Austgrade 
+01 Oct 2025,Receive Money,SERVICE NSW,,250.00,0.00,"71,087.25",250.00,0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,Humm AUS solar panel payment,,0.00,8.00,"71,079.25",(8.00),0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,Swimbiz,,0.00,394.57,"70,684.68",(394.57),0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,SuperChoice,,0.00,"2,948.55","67,736.13","(2,948.55)",0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,Mario Alejandro Cruz,,0.00,802.75,"66,933.38",(802.75),0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,juan Sebastian Valen,,0.00,780.00,"66,153.38",(780.00),0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,MARIA CAMILLA RAMIREM,,0.00,600.00,"65,553.38",(600.00),0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,TAXIDEAS,,0.00,363.00,"65,190.38",(363.00),0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,salary,,0.00,"11,271.40","53,918.98","(11,271.40)",0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,Kevin Joyce,,0.00,275.00,"53,643.98",(275.00),0.00,NAB- Austgrade 
+01 Oct 2025,Receive Money,Flexipay,,32.00,0.00,"53,675.98",32.00,0.00,NAB- Austgrade 
+01 Oct 2025,Spend Money,Carolina Delgado,,0.00,155.10,"53,520.88",(155.10),0.00,NAB- Austgrade 
+02 Oct 2025,Payable Payment,Payment: IGA,,0.00,35.06,"53,485.82",(35.06),0.00,NAB- Austgrade 
+02 Oct 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"53,292.85",(192.97),0.00,NAB- Austgrade 
+02 Oct 2025,Receive Money,Ezidebit,,594.12,0.00,"53,886.97",594.12,0.00,NAB- Austgrade 
+03 Oct 2025,Receive Money,Service NSW AUSTGRADE,,200.00,0.00,"54,086.97",200.00,0.00,NAB- Austgrade 
+03 Oct 2025,Receive Money,Ezidebit,,622.20,0.00,"54,709.17",622.20,0.00,NAB- Austgrade 
+06 Oct 2025,Receive Money,Ezidebit,,288.24,0.00,"54,997.41",288.24,0.00,NAB- Austgrade 
+06 Oct 2025,Payable Payment,Payment: KMART,,0.00,63.15,"54,934.26",(63.15),0.00,NAB- Austgrade 
+06 Oct 2025,Receive Money,DONNA LOHMEYERA,,250.00,0.00,"55,184.26",250.00,0.00,NAB- Austgrade 
+07 Oct 2025,Receive Money,Flexipay,,52.50,0.00,"55,236.76",52.50,0.00,NAB- Austgrade 
+07 Oct 2025,Payable Payment,Payment: TELSTRA,K 991 687 951 Acc,0.00,113.98,"55,122.78",(113.98),0.00,NAB- Austgrade 
+07 Oct 2025,Payable Payment,Payment: IGA,,0.00,2.59,"55,120.19",(2.59),0.00,NAB- Austgrade 
+07 Oct 2025,Payable Payment,Payment: Budget Petrol,,0.00,89.70,"55,030.49",(89.70),0.00,NAB- Austgrade 
+07 Oct 2025,Receive Money,Ezidebit,,256.78,0.00,"55,287.27",256.78,0.00,NAB- Austgrade 
+07 Oct 2025,Payable Payment,Payment: IGA,,0.00,2.59,"55,284.68",(2.59),0.00,NAB- Austgrade 
+08 Oct 2025,Receive Money,Ezidebit,,289.12,0.00,"55,573.80",289.12,0.00,NAB- Austgrade 
+09 Oct 2025,Receive Money,Flexipay,,16.00,0.00,"55,589.80",16.00,0.00,NAB- Austgrade 
+09 Oct 2025,Spend Money,Joanne mcnicholl,,0.00,144.20,"55,445.60",(144.20),0.00,NAB- Austgrade 
+09 Oct 2025,Receive Money,Ezidebit,,132.24,0.00,"55,577.84",132.24,0.00,NAB- Austgrade 
+09 Oct 2025,Receive Money,SERVICE NSW,,50.00,0.00,"55,627.84",50.00,0.00,NAB- Austgrade 
+09 Oct 2025,Payable Payment,Payment: A J Duffy,92852,0.00,"16,956.49","38,671.35","(16,956.49)",0.00,NAB- Austgrade 
+10 Oct 2025,Receive Money,Ezidebit,,760.32,0.00,"39,431.67",760.32,0.00,NAB- Austgrade 
+10 Oct 2025,Payable Payment,Payment: officework,1017804535,0.00,96.00,"39,335.67",(96.00),0.00,NAB- Austgrade 
+10 Oct 2025,Receive Money,Flexipay,,40.00,0.00,"39,375.67",40.00,0.00,NAB- Austgrade 
+13 Oct 2025,Receive Money,Flexipay,,32.50,0.00,"39,408.17",32.50,0.00,NAB- Austgrade 
+13 Oct 2025,Receive Money,Ezidebit,,89.12,0.00,"39,497.29",89.12,0.00,NAB- Austgrade 
+13 Oct 2025,Spend Money,Waster Pty Ltd,,0.00,147.40,"39,349.89",(147.40),0.00,NAB- Austgrade 
+13 Oct 2025,Receive Money,Flexipay,,30.00,0.00,"39,379.89",30.00,0.00,NAB- Austgrade 
+13 Oct 2025,Payable Payment,Payment: IGA,,0.00,14.40,"39,365.49",(14.40),0.00,NAB- Austgrade 
+14 Oct 2025,Receive Money,Ezidebit,,139.12,0.00,"39,504.61",139.12,0.00,NAB- Austgrade 
+14 Oct 2025,Spend Money,INTERNET BPAY ASIC,,0.00,329.00,"39,175.61",(329.00),0.00,NAB- Austgrade 
+14 Oct 2025,Payable Payment,Payment: sydney Captin electrical and Handyman,800730,0.00,"23,584.00","15,591.61","(23,584.00)",0.00,NAB- Austgrade 
+15 Oct 2025,Payable Payment,Payment: SPLITBOXES,,0.00,222.35,"15,369.26",(222.35),0.00,NAB- Austgrade 
+15 Oct 2025,Spend Money,SuperChoice,,0.00,"1,396.31","13,972.95","(1,396.31)",0.00,NAB- Austgrade 
+15 Oct 2025,Spend Money,salary,,0.00,"10,407.82","3,565.13","(10,407.82)",0.00,NAB- Austgrade 
+15 Oct 2025,Receive Money,Flexipay,,36.00,0.00,"3,601.13",36.00,0.00,NAB- Austgrade 
+15 Oct 2025,Receive Money,Ezidebit,,520.72,0.00,"4,121.85",520.72,0.00,NAB- Austgrade 
+16 Oct 2025,Receive Money,Flexipay,,35.00,0.00,"4,156.85",35.00,0.00,NAB- Austgrade 
+16 Oct 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"3,963.88",(192.97),0.00,NAB- Austgrade 
+16 Oct 2025,Payable Payment,Payment: IGA,,0.00,46.94,"3,916.94",(46.94),0.00,NAB- Austgrade 
+16 Oct 2025,Receive Money,Ezidebit,,"1,160.06",0.00,"5,077.00","1,160.06",0.00,NAB- Austgrade 
+17 Oct 2025,Payable Payment,Payment: BUNNINGS,,0.00,188.85,"4,888.15",(188.85),0.00,NAB- Austgrade 
+17 Oct 2025,Receive Money,Ezidebit,,770.99,0.00,"5,659.14",770.99,0.00,NAB- Austgrade 
+20 Oct 2025,Receive Money,Ezidebit,,331.64,0.00,"5,990.78",331.64,0.00,NAB- Austgrade 
+20 Oct 2025,Receive Money,Flexipay,,30.00,0.00,"6,020.78",30.00,0.00,NAB- Austgrade 
+20 Oct 2025,Receive Money,Flexipay,,51.00,0.00,"6,071.78",51.00,0.00,NAB- Austgrade 
+20 Oct 2025,Payable Payment,Payment: Budget Petrol,,0.00,89.70,"5,982.08",(89.70),0.00,NAB- Austgrade 
+20 Oct 2025,Receive Money,Flexipay,,16.00,0.00,"5,998.08",16.00,0.00,NAB- Austgrade 
+21 Oct 2025,Payable Payment,Payment: IGA,,0.00,7.20,"5,990.88",(7.20),0.00,NAB- Austgrade 
+21 Oct 2025,Receive Money,Flexipay,,30.00,0.00,"6,020.88",30.00,0.00,NAB- Austgrade 
+21 Oct 2025,Receive Money,Ezidebit,,810.33,0.00,"6,831.21",810.33,0.00,NAB- Austgrade 
+22 Oct 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,0.00,"5,000.00","1,831.21","(5,000.00)",0.00,NAB- Austgrade 
+22 Oct 2025,Receive Money,Ezidebit,,57.62,0.00,"1,888.83",57.62,0.00,NAB- Austgrade 
+22 Oct 2025,Payable Payment,Payment: BUNNINGS,,0.00,146.86,"1,741.97",(146.86),0.00,NAB- Austgrade 
+24 Oct 2025,Receive Money,Ezidebit,,"59,356.10",0.00,"61,098.07","59,356.10",0.00,NAB- Austgrade 
+24 Oct 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,165.00,"60,933.07",(165.00),0.00,NAB- Austgrade 
+27 Oct 2025,Receive Money,Flexipay,,42.00,0.00,"60,975.07",42.00,0.00,NAB- Austgrade 
+27 Oct 2025,Receive Money,SERVICE NSW,,100.00,0.00,"61,075.07",100.00,0.00,NAB- Austgrade 
+27 Oct 2025,Receive Money,Ezidebit,,487.12,0.00,"61,562.19",487.12,0.00,NAB- Austgrade 
+27 Oct 2025,Payable Payment,Payment: KMART,,0.00,39.65,"61,522.54",(39.65),0.00,NAB- Austgrade 
+28 Oct 2025,Spend Money,salary,,0.00,"10,015.25","51,507.29","(10,015.25)",0.00,NAB- Austgrade 
+28 Oct 2025,Spend Money,SuperChoice,,0.00,"1,372.48","50,134.81","(1,372.48)",0.00,NAB- Austgrade 
+28 Oct 2025,Receive Money,Flexipay,,40.00,0.00,"50,174.81",40.00,0.00,NAB- Austgrade 
+28 Oct 2025,Spend Money,juan Sebastian Valen,,0.00,840.00,"49,334.81",(840.00),0.00,NAB- Austgrade 
+28 Oct 2025,Spend Money,Mavi Catherine Guate,,0.00,427.50,"48,907.31",(427.50),0.00,NAB- Austgrade 
+28 Oct 2025,Spend Money,MARIA CAMILLA RAMIREM,,0.00,457.50,"48,449.81",(457.50),0.00,NAB- Austgrade 
+28 Oct 2025,Spend Money,Carolina Delgado,,0.00,155.10,"48,294.71",(155.10),0.00,NAB- Austgrade 
+29 Oct 2025,Receive Money,Ezidebit,,225.47,0.00,"48,520.18",225.47,0.00,NAB- Austgrade 
+29 Oct 2025,Spend Money,ONLINE J6289145852 Mascot to... Transfer Debit,,0.00,"10,000.00","38,520.18","(10,000.00)",0.00,NAB- Austgrade 
+30 Oct 2025,Spend Money,NAB,,0.00,19.49,"38,500.69",(19.49),0.00,NAB- Austgrade 
+30 Oct 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"38,307.72",(192.97),0.00,NAB- Austgrade 
+30 Oct 2025,Receive Money,Ezidebit,,39.12,0.00,"38,346.84",39.12,0.00,NAB- Austgrade 
+30 Oct 2025,Receive Money,SERVICE NSW,,350.00,0.00,"38,696.84",350.00,0.00,NAB- Austgrade 
+31 Oct 2025,Spend Money,Icare Workers Insurance,,0.00,516.32,"38,180.52",(516.32),0.00,NAB- Austgrade 
+31 Oct 2025,Payable Payment,Payment: Cincotta Discount,,0.00,17.36,"38,163.16",(17.36),0.00,NAB- Austgrade 
+31 Oct 2025,Spend Money,Merchant Fee,,0.00,25.17,"38,137.99",(25.17),0.00,NAB- Austgrade 
+31 Oct 2025,Payable Payment,Payment: Budget Petrol,,0.00,89.70,"38,048.29",(89.70),0.00,NAB- Austgrade 
+31 Oct 2025,Receive Money,Ezidebit,,464.48,0.00,"38,512.77",464.48,0.00,NAB- Austgrade 
+31 Oct 2025,Receive Money,Flexipay,,40.00,0.00,"38,552.77",40.00,0.00,NAB- Austgrade 
+03 Nov 2025,Spend Money,TAXIDEAS,,0.00,363.00,"38,189.77",(363.00),0.00,NAB- Austgrade 
+03 Nov 2025,Receive Money,Flexipay,,396.45,0.00,"38,586.22",396.45,0.00,NAB- Austgrade 
+03 Nov 2025,Receive Money,Flexipay,,138.04,0.00,"38,724.26",138.04,0.00,NAB- Austgrade 
+03 Nov 2025,Spend Money,Kevin Joyce,,0.00,495.00,"38,229.26",(495.00),0.00,NAB- Austgrade 
+03 Nov 2025,Spend Money,136760482 THINKSMART SOFTW AUSTGRADE MASCOT,,0.00,406.72,"37,822.54",(406.72),0.00,NAB- Austgrade 
+03 Nov 2025,Receive Money,Flexipay,,194.88,0.00,"38,017.42",194.88,0.00,NAB- Austgrade 
+03 Nov 2025,Spend Money,Origin Energy,,0.00,"7,354.66","30,662.76","(7,354.66)",0.00,NAB- Austgrade 
+03 Nov 2025,Spend Money,Humm AUS solar panel payment,,0.00,8.00,"30,654.76",(8.00),0.00,NAB- Austgrade 
+03 Nov 2025,Receive Money,Ezidebit,,179.12,0.00,"30,833.88",179.12,0.00,NAB- Austgrade 
+04 Nov 2025,Receive Money,Flexipay,,16.00,0.00,"30,849.88",16.00,0.00,NAB- Austgrade 
+04 Nov 2025,Receive Money,Ezidebit,,136.10,0.00,"30,985.98",136.10,0.00,NAB- Austgrade 
+04 Nov 2025,Spend Money,TELSTRA,,0.00,190.00,"30,795.98",(190.00),0.00,NAB- Austgrade 
+05 Nov 2025,Receive Money,SERVICE NSW,,350.00,0.00,"31,145.98",350.00,0.00,NAB- Austgrade 
+05 Nov 2025,Receive Money,Ezidebit,,128.56,0.00,"31,274.54",128.56,0.00,NAB- Austgrade 
+05 Nov 2025,Receive Money,Flexipay,,20.00,0.00,"31,294.54",20.00,0.00,NAB- Austgrade 
+06 Nov 2025,Receive Money,Ezidebit,,649.56,0.00,"31,944.10",649.56,0.00,NAB- Austgrade 
+07 Nov 2025,Receive Money,SERVICE NSW,,550.00,0.00,"32,494.10",550.00,0.00,NAB- Austgrade 
+07 Nov 2025,Receive Money,Ezidebit,,386.30,0.00,"32,880.40",386.30,0.00,NAB- Austgrade 
+07 Nov 2025,Receive Money,Flexipay,,56.00,0.00,"32,936.40",56.00,0.00,NAB- Austgrade 
+10 Nov 2025,Receive Money,Flexipay,,46.00,0.00,"32,982.40",46.00,0.00,NAB- Austgrade 
+10 Nov 2025,Payable Payment,Payment: Budget Petrol,,0.00,89.70,"32,892.70",(89.70),0.00,NAB- Austgrade 
+10 Nov 2025,Receive Money,Ezidebit,,89.12,0.00,"32,981.82",89.12,0.00,NAB- Austgrade 
+10 Nov 2025,Receive Money,Flexipay,,321.03,0.00,"33,302.85",321.03,0.00,NAB- Austgrade 
+11 Nov 2025,Receive Money,Ezidebit,,139.12,0.00,"33,441.97",139.12,0.00,NAB- Austgrade 
+11 Nov 2025,Payable Payment,Payment: Kevin Joyce,INV-43766,0.00,346.50,"33,095.47",(346.50),0.00,NAB- Austgrade 
+11 Nov 2025,Payable Payment,Payment: Kmartphotos,,0.00,12.75,"33,082.72",(12.75),0.00,NAB- Austgrade 
+11 Nov 2025,Spend Money,Origin Energy,,0.00,"2,422.98","30,659.74","(2,422.98)",0.00,NAB- Austgrade 
+11 Nov 2025,Receive Money,Flexipay,,83.56,0.00,"30,743.30",83.56,0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,salary,,0.00,"11,180.71","19,562.59","(11,180.71)",0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,Carolina Delgado,,0.00,315.00,"19,247.59",(315.00),0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,MARIO ALEJANDRO,,0.00,"1,022.26","18,225.33","(1,022.26)",0.00,NAB- Austgrade 
+12 Nov 2025,Receive Money,Ezidebit,,638.75,0.00,"18,864.08",638.75,0.00,NAB- Austgrade 
+12 Nov 2025,Receive Money,Flexipay,,36.00,0.00,"18,900.08",36.00,0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,SuperChoice,,0.00,"1,488.91","17,411.17","(1,488.91)",0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,G18 discount market,,0.00,6.07,"17,405.10",(6.07),0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,MARIA CAMILLA RAMIR,,0.00,600.00,"16,805.10",(600.00),0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,MAVI CATHERINE,,0.00,585.00,"16,220.10",(585.00),0.00,NAB- Austgrade 
+12 Nov 2025,Spend Money,JUAN SEBASTIAN VALE,,0.00,780.00,"15,440.10",(780.00),0.00,NAB- Austgrade 
+13 Nov 2025,Payable Payment,Payment: IGA,,0.00,16.90,"15,423.20",(16.90),0.00,NAB- Austgrade 
+13 Nov 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"15,230.23",(192.97),0.00,NAB- Austgrade 
+13 Nov 2025,Receive Money,Flexipay,,170.86,0.00,"15,401.09",170.86,0.00,NAB- Austgrade 
+13 Nov 2025,Payable Payment,Payment: Iceberg refrigeration,4315,0.00,"2,690.60","12,710.49","(2,690.60)",0.00,NAB- Austgrade 
+13 Nov 2025,Payable Payment,Payment: Waster Pty Ltd,00128995,0.00,147.40,"12,563.09",(147.40),0.00,NAB- Austgrade 
+14 Nov 2025,Receive Money,Ezidebit,,59.12,0.00,"12,622.21",59.12,0.00,NAB- Austgrade 
+14 Nov 2025,Receive Money,Flexipay,,51.00,0.00,"12,673.21",51.00,0.00,NAB- Austgrade 
+17 Nov 2025,Receive Money,Flexipay,,400.09,0.00,"13,073.30",400.09,0.00,NAB- Austgrade 
+17 Nov 2025,Payable Payment,Payment: Cincotta Discount,,0.00,48.97,"13,024.33",(48.97),0.00,NAB- Austgrade 
+17 Nov 2025,Receive Money,Flexipay,,472.91,0.00,"13,497.24",472.91,0.00,NAB- Austgrade 
+17 Nov 2025,Payable Payment,Payment: IGA,,0.00,12.00,"13,485.24",(12.00),0.00,NAB- Austgrade 
+17 Nov 2025,Spend Money,G18 discount market,,0.00,20.22,"13,465.02",(20.22),0.00,NAB- Austgrade 
+17 Nov 2025,Payable Payment,Payment: JB HI FI,,0.00,69.90,"13,395.12",(69.90),0.00,NAB- Austgrade 
+17 Nov 2025,Receive Money,Ezidebit,,509.62,0.00,"13,904.74",509.62,0.00,NAB- Austgrade 
+18 Nov 2025,Payable Payment,Payment: officework,,0.00,144.00,"13,760.74",(144.00),0.00,NAB- Austgrade 
+18 Nov 2025,Spend Money,igs,,0.00,5.08,"13,755.66",(5.08),0.00,NAB- Austgrade 
+18 Nov 2025,Receive Money,Flexipay,,85.43,0.00,"13,841.09",85.43,0.00,NAB- Austgrade 
+18 Nov 2025,Receive Money,Ezidebit,,943.32,0.00,"14,784.41",943.32,0.00,NAB- Austgrade 
+19 Nov 2025,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0049,"3,562.50",0.00,"18,346.91","3,562.50",0.00,NAB- Austgrade 
+19 Nov 2025,Receive Money,Ezidebit,,368.49,0.00,"18,715.40",368.49,0.00,NAB- Austgrade 
+19 Nov 2025,Payable Payment,Payment: Budget Petrol,,0.00,104.65,"18,610.75",(104.65),0.00,NAB- Austgrade 
+19 Nov 2025,Receive Money,Flexipay,,127.53,0.00,"18,738.28",127.53,0.00,NAB- Austgrade 
+20 Nov 2025,Receive Money,Flexipay,,306.28,0.00,"19,044.56",306.28,0.00,NAB- Austgrade 
+20 Nov 2025,Receive Money,Ezidebit,,116.48,0.00,"19,161.04",116.48,0.00,NAB- Austgrade 
+21 Nov 2025,Receive Money,Ezidebit,,359.52,0.00,"19,520.56",359.52,0.00,NAB- Austgrade 
+21 Nov 2025,Receive Money,Flexipay,,16.00,0.00,"19,536.56",16.00,0.00,NAB- Austgrade 
+24 Nov 2025,Receive Money,Ezidebit,,"1,436.77",0.00,"20,973.33","1,436.77",0.00,NAB- Austgrade 
+24 Nov 2025,Receive Money,Flexipay,,26.00,0.00,"20,999.33",26.00,0.00,NAB- Austgrade 
+24 Nov 2025,Spend Money,refund,,0.00,150.00,"20,849.33",(150.00),0.00,NAB- Austgrade 
+24 Nov 2025,Receive Money,Flexipay,,20.00,0.00,"20,869.33",20.00,0.00,NAB- Austgrade 
+25 Nov 2025,Spend Money,BUNNINGS,,0.00,56.91,"20,812.42",(56.91),0.00,NAB- Austgrade 
+25 Nov 2025,Receive Money,Flexipay,,30.00,0.00,"20,842.42",30.00,0.00,NAB- Austgrade 
+25 Nov 2025,Receive Money,Ezidebit,,163.57,0.00,"21,005.99",163.57,0.00,NAB- Austgrade 
+26 Nov 2025,Spend Money,MARIO ALEJANDRO,,0.00,"1,022.26","19,983.73","(1,022.26)",0.00,NAB- Austgrade 
+26 Nov 2025,Spend Money,MARIA CAMILLA RAMIR,,0.00,600.00,"19,383.73",(600.00),0.00,NAB- Austgrade 
+26 Nov 2025,Receive Money,Ezidebit,,"44,034.08",0.00,"63,417.81","44,034.08",0.00,NAB- Austgrade 
+26 Nov 2025,Spend Money,salary,,0.00,"12,054.49","51,363.32","(12,054.49)",0.00,NAB- Austgrade 
+26 Nov 2025,Spend Money,MAVI CATHERINE,,0.00,600.00,"50,763.32",(600.00),0.00,NAB- Austgrade 
+26 Nov 2025,Spend Money,JUAN SEBASTIAN VALE,,0.00,780.00,"49,983.32",(780.00),0.00,NAB- Austgrade 
+26 Nov 2025,Spend Money,SuperChoice,,0.00,"1,660.85","48,322.47","(1,660.85)",0.00,NAB- Austgrade 
+27 Nov 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"48,129.50",(192.97),0.00,NAB- Austgrade 
+27 Nov 2025,Receive Money,Ezidebit,,81.16,0.00,"48,210.66",81.16,0.00,NAB- Austgrade 
+28 Nov 2025,Spend Money,G18 discount market,,0.00,25.38,"48,185.28",(25.38),0.00,NAB- Austgrade 
+28 Nov 2025,Receive Money,Ezidebit,,81.16,0.00,"48,266.44",81.16,0.00,NAB- Austgrade 
+28 Nov 2025,Receive Money,Donna Lohmeyer,,215.00,0.00,"48,481.44",215.00,0.00,NAB- Austgrade 
+28 Nov 2025,Spend Money,G18 discount market,,0.00,13.65,"48,467.79",(13.65),0.00,NAB- Austgrade 
+28 Nov 2025,Spend Money,Merchant Fee,,0.00,49.12,"48,418.67",(49.12),0.00,NAB- Austgrade 
+01 Dec 2025,Spend Money,TAXIDEAS,,0.00,363.00,"48,055.67",(363.00),0.00,NAB- Austgrade 
+01 Dec 2025,Spend Money,Swimbiz,,0.00,401.27,"47,654.40",(401.27),0.00,NAB- Austgrade 
+01 Dec 2025,Receive Money,Ezidebit,,74.72,0.00,"47,729.12",74.72,0.00,NAB- Austgrade 
+01 Dec 2025,Receive Money,Flexipay,,35.00,0.00,"47,764.12",35.00,0.00,NAB- Austgrade 
+01 Dec 2025,Spend Money,NAB,,0.00,28.24,"47,735.88",(28.24),0.00,NAB- Austgrade 
+01 Dec 2025,Spend Money,Humm AUS solar panel payment,,0.00,8.00,"47,727.88",(8.00),0.00,NAB- Austgrade 
+01 Dec 2025,Spend Money,Icare Workers Insurance,,0.00,516.32,"47,211.56",(516.32),0.00,NAB- Austgrade 
+01 Dec 2025,Receive Money,Flexipay,,35.00,0.00,"47,246.56",35.00,0.00,NAB- Austgrade 
+01 Dec 2025,Receive Money,Flexipay,,20.00,0.00,"47,266.56",20.00,0.00,NAB- Austgrade 
+01 Dec 2025,Spend Money,A J Duffy,,0.00,"37,998.71","9,267.85","(37,998.71)",0.00,NAB- Austgrade 
+02 Dec 2025,Spend Money,igs,,0.00,20.50,"9,247.35",(20.50),0.00,NAB- Austgrade 
+02 Dec 2025,Receive Money,Flexipay,,61.02,0.00,"9,308.37",61.02,0.00,NAB- Austgrade 
+02 Dec 2025,Spend Money,IGA,,0.00,43.11,"9,265.26",(43.11),0.00,NAB- Austgrade 
+02 Dec 2025,Receive Money,Ezidebit,,"1,720.72",0.00,"10,985.98","1,720.72",0.00,NAB- Austgrade 
+03 Dec 2025,Receivable Payment,Payment: Mascot Public School,INV-0050,"6,600.00",0.00,"17,585.98","6,600.00",0.00,NAB- Austgrade 
+03 Dec 2025,Payable Payment,Payment: Head Oceania Pty Ltd (ZOGGS AUSTRALIA),,0.00,848.10,"16,737.88",(848.10),0.00,NAB- Austgrade 
+03 Dec 2025,Receive Money,Ezidebit,,111.12,0.00,"16,849.00",111.12,0.00,NAB- Austgrade 
+03 Dec 2025,Payable Payment,Payment: Budget Petrol,,0.00,104.65,"16,744.35",(104.65),0.00,NAB- Austgrade 
+04 Dec 2025,Payable Payment,Payment: TELSTRA,K 233 169 361 Acc,0.00,190.00,"16,554.35",(190.00),0.00,NAB- Austgrade 
+04 Dec 2025,Receive Money,Ezidebit,,53.70,0.00,"16,608.05",53.70,0.00,NAB- Austgrade 
+05 Dec 2025,Receive Money,Ezidebit,,300.25,0.00,"16,908.30",300.25,0.00,NAB- Austgrade 
+08 Dec 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,13.00,"16,895.30",(13.00),0.00,NAB- Austgrade 
+08 Dec 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,7.00,"16,888.30",(7.00),0.00,NAB- Austgrade 
+08 Dec 2025,Receive Money,Flexipay,,56.95,0.00,"16,945.25",56.95,0.00,NAB- Austgrade 
+08 Dec 2025,Payable Payment,Payment: KMART,,0.00,28.00,"16,917.25",(28.00),0.00,NAB- Austgrade 
+08 Dec 2025,Payable Payment,Payment: Freechoice,,0.00,3.23,"16,914.02",(3.23),0.00,NAB- Austgrade 
+08 Dec 2025,Receive Money,Flexipay,,30.00,0.00,"16,944.02",30.00,0.00,NAB- Austgrade 
+08 Dec 2025,Receive Money,Ezidebit,,169.12,0.00,"17,113.14",169.12,0.00,NAB- Austgrade 
+09 Dec 2025,Payable Payment,Payment: Bunning,,0.00,62.95,"17,050.19",(62.95),0.00,NAB- Austgrade 
+10 Dec 2025,Spend Money,salary,,0.00,"10,684.25","6,365.94","(10,684.25)",0.00,NAB- Austgrade 
+10 Dec 2025,Spend Money,MARIA CAMILLA RAMIR,,0.00,600.00,"5,765.94",(600.00),0.00,NAB- Austgrade 
+10 Dec 2025,Spend Money,JUAN SEBASTIAN VALE,,0.00,780.00,"4,985.94",(780.00),0.00,NAB- Austgrade 
+10 Dec 2025,Receive Money,Ezidebit,,202.12,0.00,"5,188.06",202.12,0.00,NAB- Austgrade 
+10 Dec 2025,Spend Money,SuperChoice,,0.00,"1,460.67","3,727.39","(1,460.67)",0.00,NAB- Austgrade 
+10 Dec 2025,Spend Money,MARIO ALEJANDRO,,0.00,952.26,"2,775.13",(952.26),0.00,NAB- Austgrade 
+10 Dec 2025,Spend Money,MAVI CATHERINE,,0.00,600.00,"2,175.13",(600.00),0.00,NAB- Austgrade 
+11 Dec 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"1,982.16",(192.97),0.00,NAB- Austgrade 
+12 Dec 2025,Spend Money,Origin Energy,,0.00,"2,519.61",(537.45),"(2,519.61)",0.00,NAB- Austgrade 
+12 Dec 2025,Receive Money,Flexipay,,16.00,0.00,(521.45),16.00,0.00,NAB- Austgrade 
+12 Dec 2025,Spend Money,AOZ PRINT AND GRAPHI,,0.00,10.00,(531.45),(10.00),0.00,NAB- Austgrade 
+15 Dec 2025,Receive Money,Ezidebit,,218.50,0.00,(312.95),218.50,0.00,NAB- Austgrade 
+15 Dec 2025,Payable Payment,Payment: BUNNINGS,,0.00,125.90,(438.85),(125.90),0.00,NAB- Austgrade 
+15 Dec 2025,Payable Payment,Payment: Budget Petrol,,0.00,111.65,(550.50),(111.65),0.00,NAB- Austgrade 
+15 Dec 2025,Payable Payment,Payment: Christophers cake,,0.00,41.11,(591.61),(41.11),0.00,NAB- Austgrade 
+15 Dec 2025,Receive Money,Flexipay,,16.00,0.00,(575.61),16.00,0.00,NAB- Austgrade 
+15 Dec 2025,Spend Money,VI consultation,,0.00,2.02,(577.63),(2.02),0.00,NAB- Austgrade 
+15 Dec 2025,Payable Payment,Payment: KMART,,0.00,46.00,(623.63),(46.00),0.00,NAB- Austgrade 
+15 Dec 2025,Receive Money,Flexipay,,20.00,0.00,(603.63),20.00,0.00,NAB- Austgrade 
+15 Dec 2025,Receive Money,Flexipay,,20.00,0.00,(583.63),20.00,0.00,NAB- Austgrade 
+16 Dec 2025,Payable Payment,Payment: IGA,,0.00,6.25,(589.88),(6.25),0.00,NAB- Austgrade 
+16 Dec 2025,Spend Money,Waster Pty Ltd,,0.00,147.40,(737.28),(147.40),0.00,NAB- Austgrade 
+16 Dec 2025,Payable Payment,Payment: Bunning,,0.00,99.11,(836.39),(99.11),0.00,NAB- Austgrade 
+16 Dec 2025,Receive Money,Flexipay,,10.00,0.00,(826.39),10.00,0.00,NAB- Austgrade 
+16 Dec 2025,Receive Money,SERVICE NSW,,700.00,0.00,(126.39),700.00,0.00,NAB- Austgrade 
+16 Dec 2025,Receive Money,Ezidebit,,77.24,0.00,(49.15),77.24,0.00,NAB- Austgrade 
+17 Dec 2025,Receive Money,Ezidebit,,"1,493.49",0.00,"1,444.34","1,493.49",0.00,NAB- Austgrade 
+17 Dec 2025,Receive Money,Flexipay,,20.00,0.00,"1,464.34",20.00,0.00,NAB- Austgrade 
+18 Dec 2025,Receive Money,Ezidebit,,539.19,0.00,"2,003.53",539.19,0.00,NAB- Austgrade 
+19 Dec 2025,Receive Money,Ezidebit,,81.16,0.00,"2,084.69",81.16,0.00,NAB- Austgrade 
+19 Dec 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,6.00,"2,078.69",(6.00),0.00,NAB- Austgrade 
+19 Dec 2025,Receive Money,Flexipay,,16.00,0.00,"2,094.69",16.00,0.00,NAB- Austgrade 
+22 Dec 2025,Payable Payment,Payment: KMART,,0.00,29.15,"2,065.54",(29.15),0.00,NAB- Austgrade 
+22 Dec 2025,Receive Money,Ezidebit,,233.84,0.00,"2,299.38",233.84,0.00,NAB- Austgrade 
+22 Dec 2025,Receive Money,Flexipay,,18.00,0.00,"2,317.38",18.00,0.00,NAB- Austgrade 
+23 Dec 2025,Receive Money,Ezidebit,,218.14,0.00,"2,535.52",218.14,0.00,NAB- Austgrade 
+23 Dec 2025,Payable Payment,Payment: IGA,,0.00,16.48,"2,519.04",(16.48),0.00,NAB- Austgrade 
+24 Dec 2025,Spend Money,JUAN SEBASTIAN VALE,,0.00,810.00,"1,709.04",(810.00),0.00,NAB- Austgrade 
+24 Dec 2025,Receive Money,Ezidebit,,"52,282.16",0.00,"53,991.20","52,282.16",0.00,NAB- Austgrade 
+24 Dec 2025,Receive Money,aroona,,"15,000.00",0.00,"68,991.20","15,000.00",0.00,NAB- Austgrade 
+24 Dec 2025,Spend Money,MARIO ALEJANDRO,,0.00,"1,022.26","67,968.94","(1,022.26)",0.00,NAB- Austgrade 
+24 Dec 2025,Spend Money,MAVI CATHERINE,,0.00,600.00,"67,368.94",(600.00),0.00,NAB- Austgrade 
+24 Dec 2025,Spend Money,MARIA CAMILLA RAMIR,,0.00,600.00,"66,768.94",(600.00),0.00,NAB- Austgrade 
+24 Dec 2025,Receive Money,Flexipay,,25.00,0.00,"66,793.94",25.00,0.00,NAB- Austgrade 
+24 Dec 2025,Payable Payment,Payment: Budget Petrol,,0.00,79.75,"66,714.19",(79.75),0.00,NAB- Austgrade 
+24 Dec 2025,Spend Money,Wages,,0.00,"10,313.86","56,400.33","(10,313.86)",0.00,NAB- Austgrade 
+29 Dec 2025,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"56,207.36",(192.97),0.00,NAB- Austgrade 
+29 Dec 2025,Spend Money,NAB,,0.00,21.24,"56,186.12",(21.24),0.00,NAB- Austgrade 
+29 Dec 2025,Receive Money,Expoxy master,,"2,133.96",0.00,"58,320.08","2,133.96",0.00,NAB- Austgrade 
+29 Dec 2025,Payable Payment,Payment: all purpose coating,,0.00,"2,133.96","56,186.12","(2,133.96)",0.00,NAB- Austgrade 
+30 Dec 2025,Receive Money,Service NSW AUSTGRADE,,150.00,0.00,"56,336.12",150.00,0.00,NAB- Austgrade 
+31 Dec 2025,Spend Money,Merchant Fee,,0.00,24.69,"56,311.43",(24.69),0.00,NAB- Austgrade 
+31 Dec 2025,Spend Money,Icare Workers Insurance,,0.00,516.32,"55,795.11",(516.32),0.00,NAB- Austgrade 
+02 Jan 2026,Spend Money,TAXIDEAS,,0.00,363.00,"55,432.11",(363.00),0.00,NAB- Austgrade 
+02 Jan 2026,Spend Money,Think smart,,0.00,389.37,"55,042.74",(389.37),0.00,NAB- Austgrade 
+02 Jan 2026,Spend Money,Humm AUS solar panel payment,,0.00,8.00,"55,034.74",(8.00),0.00,NAB- Austgrade 
+05 Jan 2026,Spend Money,TELSTRA,,0.00,190.00,"54,844.74",(190.00),0.00,NAB- Austgrade 
+05 Jan 2026,Receive Money,Ezidebit,,63.75,0.00,"54,908.49",63.75,0.00,NAB- Austgrade 
+06 Jan 2026,Receive Money,Ezidebit,,228.31,0.00,"55,136.80",228.31,0.00,NAB- Austgrade 
+07 Jan 2026,Spend Money,SuperChoice,,0.00,"1,722.33","53,414.47","(1,722.33)",0.00,NAB- Austgrade 
+07 Jan 2026,Spend Money,salary,,0.00,"2,668.95","50,745.52","(2,668.95)",0.00,NAB- Austgrade 
+07 Jan 2026,Spend Money,JUAN SEBASTIAN VALE,,0.00,240.00,"50,505.52",(240.00),0.00,NAB- Austgrade 
+07 Jan 2026,Receive Money,SERVICE NSW,,50.00,0.00,"50,555.52",50.00,0.00,NAB- Austgrade 
+07 Jan 2026,Receive Money,SERVICE NSW,,100.00,0.00,"50,655.52",100.00,0.00,NAB- Austgrade 
+07 Jan 2026,Spend Money,MARIO ALEJANDRO,,0.00,149.24,"50,506.28",(149.24),0.00,NAB- Austgrade 
+07 Jan 2026,Receive Money,Ezidebit,,"2,492.40",0.00,"52,998.68","2,492.40",0.00,NAB- Austgrade 
+08 Jan 2026,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0053,"2,775.00",0.00,"55,773.68","2,775.00",0.00,NAB- Austgrade 
+08 Jan 2026,Bank Transfer,Bank Transfer from NAB- Austgrade  to ANZ - Austgrade,AustgNABtoANZ,0.00,536.91,"55,236.77",(536.91),0.00,NAB- Austgrade 
+08 Jan 2026,Payable Payment,Payment: BUNNINGS,,0.00,251.80,"54,984.97",(251.80),0.00,NAB- Austgrade 
+08 Jan 2026,Spend Money,Class refund,,0.00,228.00,"54,756.97",(228.00),0.00,NAB- Austgrade 
+08 Jan 2026,Payable Payment,Payment: Kevin Joyce,INV-45163,0.00,495.00,"54,261.97",(495.00),0.00,NAB- Austgrade 
+08 Jan 2026,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"54,069.00",(192.97),0.00,NAB- Austgrade 
+08 Jan 2026,Receive Money,Flexipay,,122.04,0.00,"54,191.04",122.04,0.00,NAB- Austgrade 
+08 Jan 2026,Spend Money,Origin Energy,,0.00,"2,130.40","52,060.64","(2,130.40)",0.00,NAB- Austgrade 
+08 Jan 2026,Receive Money,Ezidebit,,401.19,0.00,"52,461.83",401.19,0.00,NAB- Austgrade 
+09 Jan 2026,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0051,"4,650.00",0.00,"57,111.83","4,650.00",0.00,NAB- Austgrade 
+09 Jan 2026,Receive Money,Ezidebit,,619.56,0.00,"57,731.39",619.56,0.00,NAB- Austgrade 
+09 Jan 2026,Spend Money,INTERNET BPAY TAX OFFICE PAY...,,0.00,"8,257.00","49,474.39","(8,257.00)",0.00,NAB- Austgrade 
+09 Jan 2026,Receive Money,Flexipay,,32.50,0.00,"49,506.89",32.50,0.00,NAB- Austgrade 
+09 Jan 2026,Payable Payment,Payment: IGA,,0.00,1.80,"49,505.09",(1.80),0.00,NAB- Austgrade 
+09 Jan 2026,Payable Payment,Payment: A J Duffy,96324,0.00,"17,467.52","32,037.57","(17,467.52)",0.00,NAB- Austgrade 
+12 Jan 2026,Payable Payment,Payment: officework,,0.00,116.99,"31,920.58",(116.99),0.00,NAB- Austgrade 
+12 Jan 2026,Receive Money,DONNA LOHMEYERA,,105.00,0.00,"32,025.58",105.00,0.00,NAB- Austgrade 
+12 Jan 2026,Receive Money,Ezidebit,,147.12,0.00,"32,172.70",147.12,0.00,NAB- Austgrade 
+12 Jan 2026,Receive Money,Flexipay,,53.00,0.00,"32,225.70",53.00,0.00,NAB- Austgrade 
+12 Jan 2026,Receive Money,Donna Lohmeyer,,90.00,0.00,"32,315.70",90.00,0.00,NAB- Austgrade 
+12 Jan 2026,Spend Money,VIP mall,,0.00,489.02,"31,826.68",(489.02),0.00,NAB- Austgrade 
+12 Jan 2026,Receive Money,Flexipay,,30.00,0.00,"31,856.68",30.00,0.00,NAB- Austgrade 
+12 Jan 2026,Payable Payment,Payment: Budget Petrol,,0.00,111.65,"31,745.03",(111.65),0.00,NAB- Austgrade 
+13 Jan 2026,Payable Payment,Payment: Waster Pty Ltd,00137502,0.00,275.00,"31,470.03",(275.00),0.00,NAB- Austgrade 
+13 Jan 2026,Receive Money,Ezidebit,,228.63,0.00,"31,698.66",228.63,0.00,NAB- Austgrade 
+15 Jan 2026,Receive Money,Flexipay,,142.38,0.00,"31,841.04",142.38,0.00,NAB- Austgrade 
+15 Jan 2026,Payable Payment,Payment: IGA,,0.00,12.90,"31,828.14",(12.90),0.00,NAB- Austgrade 
+16 Jan 2026,Receive Money,Ezidebit,,869.12,0.00,"32,697.26",869.12,0.00,NAB- Austgrade 
+19 Jan 2026,Receive Money,Flexipay,,223.55,0.00,"32,920.81",223.55,0.00,NAB- Austgrade 
+19 Jan 2026,Payable Payment,Payment: JB HI FI,,0.00,104.85,"32,815.96",(104.85),0.00,NAB- Austgrade 
+19 Jan 2026,Payable Payment,Payment: BUNNINGS,,0.00,47.00,"32,768.96",(47.00),0.00,NAB- Austgrade 
+19 Jan 2026,Spend Money,Origin Energy,,0.00,"1,815.52","30,953.44","(1,815.52)",0.00,NAB- Austgrade 
+19 Jan 2026,Payable Payment,Payment: freshway cleaning,,0.00,50.10,"30,903.34",(50.10),0.00,NAB- Austgrade 
+19 Jan 2026,Receive Money,Flexipay,,30.00,0.00,"30,933.34",30.00,0.00,NAB- Austgrade 
+19 Jan 2026,Payable Payment,Payment: IGA,,0.00,13.30,"30,920.04",(13.30),0.00,NAB- Austgrade 
+21 Jan 2026,Receive Money,Flexipay,,18.00,0.00,"30,938.04",18.00,0.00,NAB- Austgrade 
+21 Jan 2026,Spend Money,G18 discount market,,0.00,46.00,"30,892.04",(46.00),0.00,NAB- Austgrade 
+21 Jan 2026,Spend Money,salary,,0.00,"10,666.96","20,225.08","(10,666.96)",0.00,NAB- Austgrade 
+21 Jan 2026,Payable Payment,Payment: G18 discount market,,0.00,6.00,"20,219.08",(6.00),0.00,NAB- Austgrade 
+21 Jan 2026,Spend Money,Austgrade Leasing,,0.00,"2,209.83","18,009.25","(2,209.83)",0.00,NAB- Austgrade 
+21 Jan 2026,Spend Money,SuperChoice,,0.00,"1,415.64","16,593.61","(1,415.64)",0.00,NAB- Austgrade 
+21 Jan 2026,Receive Money,SERVICE NSW,,100.00,0.00,"16,693.61",100.00,0.00,NAB- Austgrade 
+22 Jan 2026,Spend Money,Mr Pool man,,0.00,65.14,"16,628.47",(65.14),0.00,NAB- Austgrade 
+22 Jan 2026,Spend Money,Humm AUS solar panel payment,,0.00,192.97,"16,435.50",(192.97),0.00,NAB- Austgrade 
+23 Jan 2026,Payable Payment,Payment: KMART,,0.00,94.00,"16,341.50",(94.00),0.00,NAB- Austgrade 
+23 Jan 2026,Payable Payment,Payment: Budget Petrol,,0.00,111.65,"16,229.85",(111.65),0.00,NAB- Austgrade 
+23 Jan 2026,Receive Money,Flexipay,,15.00,0.00,"16,244.85",15.00,0.00,NAB- Austgrade 
+27 Jan 2026,Payable Payment,Payment: Bunning,W279119756,0.00,208.80,"16,036.05",(208.80),0.00,NAB- Austgrade 
+27 Jan 2026,Receive Money,Flexipay,,115.43,0.00,"16,151.48",115.43,0.00,NAB- Austgrade 
+28 Jan 2026,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,15.00,"16,136.48",(15.00),0.00,NAB- Austgrade 
+28 Jan 2026,Receive Money,Flexipay,,106.19,0.00,"16,242.67",106.19,0.00,NAB- Austgrade 
+29 Jan 2026,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,0.00,12.00,"16,230.67",(12.00),0.00,NAB- Austgrade 
+29 Jan 2026,Payable Payment,Payment: IGA,,0.00,25.75,"16,204.92",(25.75),0.00,NAB- Austgrade 
+29 Jan 2026,Spend Money,NAB,,0.00,19.99,"16,184.93",(19.99),0.00,NAB- Austgrade 
+30 Jan 2026,Receive Money,Flexipay,,105.43,0.00,"16,290.36",105.43,0.00,NAB- Austgrade 
+30 Jan 2026,Spend Money,Merchant Fee,,0.00,32.44,"16,257.92",(32.44),0.00,NAB- Austgrade 
+02 Feb 2026,Receive Money,Flexipay,,35.00,0.00,"16,292.92",35.00,0.00,NAB- Austgrade 
+02 Feb 2026,Spend Money,Icare Workers Insurance,,0.00,770.67,"15,522.25",(770.67),0.00,NAB- Austgrade 
+02 Feb 2026,Spend Money,Humm AUS solar panel payment,,0.00,8.00,"15,514.25",(8.00),0.00,NAB- Austgrade 
+02 Feb 2026,Spend Money,136760482 THINKSMART SOFTW AUSTGRADE MASCOT,,0.00,393.42,"15,120.83",(393.42),0.00,NAB- Austgrade 
+02 Feb 2026,Receive Money,Flexipay,,305.52,0.00,"15,426.35",305.52,0.00,NAB- Austgrade 
+02 Feb 2026,Receive Money,Flexipay,,34.00,0.00,"15,460.35",34.00,0.00,NAB- Austgrade 
+02 Feb 2026,Payable Payment,Payment: BUNNINGS,,0.00,25.99,"15,434.36",(25.99),0.00,NAB- Austgrade 
+02 Feb 2026,Spend Money,TAXIDEAS,,0.00,363.00,"15,071.36",(363.00),0.00,NAB- Austgrade 
+03 Feb 2026,Spend Money,AOZ PRINT AND GRAPHI,,0.00,10.00,"15,061.36",(10.00),0.00,NAB- Austgrade 
+03 Feb 2026,Spend Money,G18 discount market,,0.00,15.67,"15,045.69",(15.67),0.00,NAB- Austgrade 
+03 Feb 2026,Receive Money,Service NSW AUSTGRADE,,200.00,0.00,"15,245.69",200.00,0.00,NAB- Austgrade 
+03 Feb 2026,Receive Money,Flexipay,,18.00,0.00,"15,263.69",18.00,0.00,NAB- Austgrade 
+04 Feb 2026,Spend Money,Budget Petrol,,0.00,79.75,"15,183.94",(79.75),0.00,NAB- Austgrade 
+04 Feb 2026,Spend Money,Origin Energy,,0.00,819.70,"14,364.24",(819.70),0.00,NAB- Austgrade 
+04 Feb 2026,Spend Money,G18 discount market,,0.00,8.59,"14,355.65",(8.59),0.00,NAB- Austgrade 
+05 Feb 2026,Spend Money,Mascot post shop,,0.00,4.90,"14,350.75",(4.90),0.00,NAB- Austgrade 
+05 Feb 2026,Spend Money,SuperChoice,,0.00,"1,505.75","12,845.00","(1,505.75)",0.00,NAB- Austgrade 
+05 Feb 2026,Spend Money,Humm AUS solar panel payment,,0.00,191.87,"12,653.13",(191.87),0.00,NAB- Austgrade 
+05 Feb 2026,Spend Money,IGA,,0.00,12.00,"12,641.13",(12.00),0.00,NAB- Austgrade 
+05 Feb 2026,Spend Money,salary,,0.00,"11,147.79","1,493.34","(11,147.79)",0.00,NAB- Austgrade 
+05 Feb 2026,Receive Money,Andrew Kastoun,,"1,506.37",0.00,"2,999.71","1,506.37",0.00,NAB- Austgrade 
+06 Feb 2026,Receive Money,Flexipay,,18.00,0.00,"3,017.71",18.00,0.00,NAB- Austgrade 
+09 Feb 2026,Spend Money,class fee refund,,0.00,300.00,"2,717.71",(300.00),0.00,NAB- Austgrade 
+09 Feb 2026,Spend Money,KMART,,0.00,18.50,"2,699.21",(18.50),0.00,NAB- Austgrade 
+09 Feb 2026,Spend Money,CLEAN LIKE A PRO OXENFORD,,0.00,89.00,"2,610.21",(89.00),0.00,NAB- Austgrade 
+09 Feb 2026,Payable Payment,Payment: IGA,,0.00,50.15,"2,560.06",(50.15),0.00,NAB- Austgrade 
+09 Feb 2026,Spend Money,refund,,0.00,242.00,"2,318.06",(242.00),0.00,NAB- Austgrade 
+10 Feb 2026,Spend Money,AOZ PRINT AND GRAPHI,,0.00,2.50,"2,315.56",(2.50),0.00,NAB- Austgrade 
+10 Feb 2026,Receive Money,SERVICE NSW,,400.00,0.00,"2,715.56",400.00,0.00,NAB- Austgrade 
+11 Feb 2026,Spend Money,KENSINGTON SPARES AUMASCOT,,0.00,19.90,"2,695.66",(19.90),0.00,NAB- Austgrade 
+12 Feb 2026,Receive Money,SERVICE NSW,,100.00,0.00,"2,795.66",100.00,0.00,NAB- Austgrade 
+13 Feb 2026,Receive Money,SERVICE NSW,,300.00,0.00,"3,095.66",300.00,0.00,NAB- Austgrade 
+13 Feb 2026,Spend Money,AOZ PRINT AND GRAPHI,,0.00,25.00,"3,070.66",(25.00),0.00,NAB- Austgrade 
+16 Feb 2026,Spend Money,G18 discount market,,0.00,13.65,"3,057.01",(13.65),0.00,NAB- Austgrade 
+17 Feb 2026,Payable Payment,Payment: officework,1020437316,0.00,235.95,"2,821.06",(235.95),0.00,NAB- Austgrade 
+18 Feb 2026,Spend Money,Lin Li,,0.00,"3,025.00",(203.94),"(3,025.00)",0.00,NAB- Austgrade 
+19 Feb 2026,Spend Money,IGA,,0.00,18.00,(221.94),(18.00),0.00,NAB- Austgrade 
+19 Feb 2026,Receive Money,SERVICE NSW,,350.00,0.00,128.06,350.00,0.00,NAB- Austgrade 
+25 Feb 2026,Receive Money,SERVICE NSW,,300.00,0.00,428.06,300.00,0.00,NAB- Austgrade 
+27 Feb 2026,Receive Money,KMART,,60.00,0.00,488.06,60.00,0.00,NAB- Austgrade 
+27 Feb 2026,Spend Money,Merchant Fee,,0.00,23.80,464.26,(23.80),0.00,NAB- Austgrade 
+02 Mar 2026,Spend Money,Waster Pty Ltd,,0.00,206.69,257.57,(206.69),0.00,NAB- Austgrade 
+02 Mar 2026,Spend Money,TAXIDEAS,,0.00,363.00,(105.43),(363.00),0.00,NAB- Austgrade 
+02 Mar 2026,Spend Money,Nab connect,,0.00,19.24,(124.67),(19.24),0.00,NAB- Austgrade 
+02 Mar 2026,Spend Money,Icare Workers Insurance,,0.00,770.67,(895.34),(770.67),0.00,NAB- Austgrade 
+02 Mar 2026,Receive Money,SERVICE NSW,,150.00,0.00,(745.34),150.00,0.00,NAB- Austgrade 
+02 Mar 2026,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0054,"2,200.00",0.00,"1,454.66","2,200.00",0.00,NAB- Austgrade 
+03 Mar 2026,Receive Money,SERVICE NSW,,300.00,0.00,"1,754.66",300.00,0.00,NAB- Austgrade 
+12 Mar 2026,Receive Money,SERVICE NSW,,50.00,0.00,"1,804.66",50.00,0.00,NAB- Austgrade 
+12 Mar 2026,Receive Money,ATO,,"1,963.00",0.00,"3,767.66","1,963.00",0.00,NAB- Austgrade 
+17 Mar 2026,Receive Money,SERVICE NSW,,50.00,0.00,"3,817.66",50.00,0.00,NAB- Austgrade 
+19 Mar 2026,Receive Money,SERVICE NSW,,50.00,0.00,"3,867.66",50.00,0.00,NAB- Austgrade 
+19 Mar 2026,Spend Money,A J Duffy,,0.00,"3,851.09",16.57,"(3,851.09)",0.00,NAB- Austgrade 
+23 Mar 2026,Receive Money,SERVICE NSW,,200.00,0.00,216.57,200.00,0.00,NAB- Austgrade 
+24 Mar 2026,Receive Money,SERVICE NSW,,50.00,0.00,266.57,50.00,0.00,NAB- Austgrade 
+30 Mar 2026,Receive Money,SERVICE NSW,,350.00,0.00,616.57,350.00,0.00,NAB- Austgrade 
+31 Mar 2026,Spend Money,TAXIDEAS,,0.00,275.00,341.57,(275.00),0.00,NAB- Austgrade 
+31 Mar 2026,Spend Money,NAB,,0.00,17.99,323.58,(17.99),0.00,NAB- Austgrade 
+31 Mar 2026,Spend Money,Icare Workers Insurance,,0.00,770.67,(447.09),(770.67),0.00,NAB- Austgrade 
+31 Mar 2026,Spend Money,Audible limited,,0.00,8.99,(456.08),(8.99),0.00,NAB- Austgrade 
+01 Apr 2026,Spend Money,TAXIDEAS,,0.00,363.00,(819.08),(363.00),0.00,NAB- Austgrade 
+07 Apr 2026,Receive Money,SERVICE NSW,,50.00,0.00,(769.08),50.00,0.00,NAB- Austgrade 
+16 Apr 2026,Receive Money,SERVICE NSW,,100.00,0.00,(669.08),100.00,0.00,NAB- Austgrade 
+30 Apr 2026,Spend Money,Icare Workers Insurance,,0.00,770.67,"(1,439.75)",(770.67),0.00,NAB- Austgrade 
+01 May 2026,Spend Money,TAXIDEAS,,0.00,363.00,"(1,802.75)",(363.00),0.00,NAB- Austgrade 
+01 May 2026,Receive Money,Reimburseaccoutant AUSTGRADE TO,,363.00,0.00,"(1,439.75)",363.00,0.00,NAB- Austgrade 
+01 May 2026,Spend Money,AustGrade Swimming,,0.00,"2,496.62","(3,936.37)","(2,496.62)",0.00,NAB- Austgrade 
+01 May 2026,Spend Money,Audible limited,,0.00,8.99,"(3,945.36)",(8.99),0.00,NAB- Austgrade 
+01 May 2026,Receive Money,Lin Li,,"3,025.00",0.00,(920.36),"3,025.00",0.00,NAB- Austgrade 
+04 May 2026,Spend Money,AustGrade Swimming,,0.00,"1,350.00","(2,270.36)","(1,350.00)",0.00,NAB- Austgrade 
+04 May 2026,Receive Money,Lin Li,,"1,350.00",0.00,(920.36),"1,350.00",0.00,NAB- Austgrade 
+18 May 2026,Spend Money,Nab connect,,0.00,16.00,(936.36),(16.00),0.00,NAB- Austgrade 
+22 May 2026,Receive Money,WCIF Refunds,,"1,285.52",0.00,349.16,"1,285.52",0.00,NAB- Austgrade 
+Total  - NAB- Austgrade,,,,"490,313.60","489,964.44",349.16,349.16,0.00,
+,,,,,,,,,
+610 - Accounts Receivable,,,,,,,,,
+07 Jul 2025,Receivable Payment,Payment: Mika,INV-0041,0.00,"4,290.00","(4,290.00)","(4,290.00)",0.00,Accounts Receivable
+15 Jul 2025,Receivable Payment,Payment: Mascot Public School,INV-0042,0.00,"6,000.00","(10,290.00)","(6,000.00)",0.00,Accounts Receivable
+25 Jul 2025,Receivable Payment,Payment: Mascot Public School,INV-0040,0.00,"6,000.00","(16,290.00)","(6,000.00)",0.00,Accounts Receivable
+04 Aug 2025,Receivable Invoice,A1 Swimming Academy,INV-0044,420.00,0.00,"(15,870.00)",420.00,0.00,Accounts Receivable
+04 Aug 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0043,"2,500.00",0.00,"(13,370.00)","2,500.00",0.00,Accounts Receivable
+04 Aug 2025,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0043,0.00,"2,500.00","(15,870.00)","(2,500.00)",0.00,Accounts Receivable
+07 Aug 2025,Receivable Payment,Payment: A1 Swimming Academy,INV-0044,0.00,420.00,"(16,290.00)",(420.00),0.00,Accounts Receivable
+23 Sep 2025,Receivable Invoice,Mika,INV-0047,"4,290.00",0.00,"(12,000.00)","4,290.00",0.00,Accounts Receivable
+25 Sep 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0048,"3,150.00",0.00,"(8,850.00)","3,150.00",0.00,Accounts Receivable
+29 Sep 2025,Receivable Payment,Payment: Mika,INV-0047,0.00,"4,290.00","(13,140.00)","(4,290.00)",0.00,Accounts Receivable
+30 Sep 2025,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0048,0.00,"3,150.00","(16,290.00)","(3,150.00)",0.00,Accounts Receivable
+11 Nov 2025,Receivable Invoice,Mascot Public School,INV-0050,"6,600.00",0.00,"(9,690.00)","6,600.00",0.00,Accounts Receivable
+19 Nov 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0049,"3,562.50",0.00,"(6,127.50)","3,562.50",0.00,Accounts Receivable
+19 Nov 2025,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0049,0.00,"3,562.50","(9,690.00)","(3,562.50)",0.00,Accounts Receivable
+25 Nov 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0051,"4,650.00",0.00,"(5,040.00)","4,650.00",0.00,Accounts Receivable
+03 Dec 2025,Receivable Payment,Payment: Mascot Public School,INV-0050,0.00,"6,600.00","(11,640.00)","(6,600.00)",0.00,Accounts Receivable
+25 Dec 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0053,"2,775.00",0.00,"(8,865.00)","2,775.00",0.00,Accounts Receivable
+08 Jan 2026,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0053,0.00,"2,775.00","(11,640.00)","(2,775.00)",0.00,Accounts Receivable
+09 Jan 2026,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0051,0.00,"4,650.00","(16,290.00)","(4,650.00)",0.00,Accounts Receivable
+25 Jan 2026,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0054,"2,200.00",0.00,"(14,090.00)","2,200.00",0.00,Accounts Receivable
+02 Mar 2026,Receivable Payment,Payment: Auskor - ABN 39 199 641 813,INV-0054,0.00,"2,200.00","(16,290.00)","(2,200.00)",0.00,Accounts Receivable
+Total 610 - Accounts Receivable,,,,"30,147.50","46,437.50","(16,290.00)","(16,290.00)",0.00,
+,,,,,,,,,
+623 - Loan - Austgrade Swimming Pty Ltd,,,,,,,,,
+01 Feb 2026,Manual Journal,Julius 2026 - To record dividend paid to Austgrade Swimming,#11346,0.00,"200,000.00","(200,000.00)","(200,000.00)",0.00,Loan - Austgrade Swimming Pty Ltd
+31 Mar 2026,Manual Journal,Julius 2026 - To record sale of business - going concern,#11345,"200,000.00",0.00,0.00,"200,000.00",0.00,Loan - Austgrade Swimming Pty Ltd
+Total 623 - Loan - Austgrade Swimming Pty Ltd,,,,"200,000.00","200,000.00",0.00,0.00,0.00,
+,,,,,,,,,
+625 - Loan - Austgrade Top Ryde Swimming Pty Ltd,,,,,,,,,
+16 Sep 2025,Spend Money,Austgrade Top Ryde,,"1,000.00",0.00,"1,000.00","1,000.00",0.00,Loan - Austgrade Top Ryde Swimming Pty Ltd
+Total 625 - Loan - Austgrade Top Ryde Swimming Pty Ltd,,,,"1,000.00",0.00,"1,000.00","1,000.00",0.00,
+,,,,,,,,,
+710 - Office Equipment,,,,,,,,,
+19 Aug 2025,Spend Money,Lions Club,,"3,000.00",0.00,"3,000.00","3,000.00",0.00,Office Equipment
+Total 710 - Office Equipment,,,,"3,000.00",0.00,"3,000.00","3,000.00",0.00,
+,,,,,,,,,
+712 - Swimming Pool Equipment,,,,,,,,,
+14 Jul 2025,Payable Invoice,Aquatic Elements Pty Ltd - teaching platforms,00121280,"3,887.00",0.00,"3,887.00","4,275.70",388.70,Swimming Pool Equipment
+Total 712 - Swimming Pool Equipment,,,,"3,887.00",0.00,"3,887.00","4,275.70",388.70,
+,,,,,,,,,
+743 - Swimming Pools Construction,,,,,,,,,
+13 Oct 2025,Payable Invoice,sydney Captin electrical and Handyman - changing lights,800730,"21,440.00",0.00,"21,440.00","23,584.00","2,144.00",Swimming Pools Construction
+Total 743 - Swimming Pools Construction,,,,"21,440.00",0.00,"21,440.00","23,584.00","2,144.00",
+,,,,,,,,,
+800 - Accounts Payable,,,,,,,,,
+01 Jul 2025,Payable Payment,Payment: BUNNINGS,,119.91,0.00,(119.91),(119.91),0.00,Accounts Payable
+02 Jul 2025,Payable Invoice,TELSTRA,K 555 442 561 Acc,0.00,179.99,60.08,179.99,0.00,Accounts Payable
+02 Jul 2025,Payable Payment,Payment: Waster Pty Ltd,00120717,140.80,0.00,(80.72),(140.80),0.00,Accounts Payable
+04 Jul 2025,Payable Payment,Payment: TELSTRA,K 555 442 561 Acc,179.99,0.00,(260.71),(179.99),0.00,Accounts Payable
+05 Jul 2025,Payable Invoice,BUNNINGS,,0.00,190.38,(70.33),190.38,0.00,Accounts Payable
+06 Jul 2025,Payable Invoice,pharmacy4less,,0.00,21.98,(48.35),21.98,0.00,Accounts Payable
+06 Jul 2025,Payable Invoice,JB HI FI,,0.00,85.00,36.65,85.00,0.00,Accounts Payable
+07 Jul 2025,Payable Payment,Payment: pharmacy4less,,21.98,0.00,14.67,(21.98),0.00,Accounts Payable
+08 Jul 2025,Payable Payment,Payment: JB HI FI,,85.00,0.00,(70.33),(85.00),0.00,Accounts Payable
+08 Jul 2025,Payable Payment,Payment: BUNNINGS,,190.38,0.00,(260.71),(190.38),0.00,Accounts Payable
+09 Jul 2025,Payable Invoice,IGA,,0.00,10.80,(249.91),10.80,0.00,Accounts Payable
+10 Jul 2025,Payable Invoice,IGA,,0.00,7.00,(242.91),7.00,0.00,Accounts Payable
+10 Jul 2025,Payable Payment,Payment: IGA,,10.80,0.00,(253.71),(10.80),0.00,Accounts Payable
+11 Jul 2025,Payable Payment,Payment: IGA,,7.00,0.00,(260.71),(7.00),0.00,Accounts Payable
+12 Jul 2025,Payable Invoice,Budget Petrol,,0.00,89.70,(171.01),89.70,0.00,Accounts Payable
+12 Jul 2025,Payable Invoice,BUNNINGS,,0.00,37.19,(133.82),37.19,0.00,Accounts Payable
+14 Jul 2025,Payable Payment,Payment: Budget Petrol,,89.70,0.00,(223.52),(89.70),0.00,Accounts Payable
+14 Jul 2025,Payable Invoice,Aquatic Elements Pty Ltd,00121280,0.00,"4,275.70","4,052.18","4,275.70",0.00,Accounts Payable
+15 Jul 2025,Payable Payment,Payment: BUNNINGS,,37.19,0.00,"4,014.99",(37.19),0.00,Accounts Payable
+15 Jul 2025,Payable Payment,Payment: Aquatic Elements Pty Ltd,00121280,"4,275.70",0.00,(260.71),"(4,275.70)",0.00,Accounts Payable
+16 Jul 2025,Payable Invoice,IGA,,0.00,12.90,(247.81),12.90,0.00,Accounts Payable
+17 Jul 2025,Payable Payment,Payment: IGA,,12.90,0.00,(260.71),(12.90),0.00,Accounts Payable
+17 Jul 2025,Payable Payment,Payment: Waster Pty Ltd,00118068,140.80,0.00,(401.51),(140.80),0.00,Accounts Payable
+18 Jul 2025,Payable Invoice,A J Duffy,90148,0.00,"36,476.72","36,075.21","36,476.72",0.00,Accounts Payable
+19 Jul 2025,Payable Invoice,BUNNINGS,,0.00,62.95,"36,138.16",62.95,0.00,Accounts Payable
+19 Jul 2025,Payable Invoice,officework,,0.00,22.87,"36,161.03",22.87,0.00,Accounts Payable
+19 Jul 2025,Payable Invoice,BUNNINGS,,0.00,78.95,"36,239.98",78.95,0.00,Accounts Payable
+19 Jul 2025,Payable Invoice,G18 discount market,,0.00,5.50,"36,245.48",5.50,0.00,Accounts Payable
+21 Jul 2025,Payable Payment,Payment: G18 discount market,,5.50,0.00,"36,239.98",(5.50),0.00,Accounts Payable
+22 Jul 2025,Payable Payment,Payment: officework,,22.87,0.00,"36,217.11",(22.87),0.00,Accounts Payable
+22 Jul 2025,Payable Payment,Payment: BUNNINGS,,62.95,0.00,"36,154.16",(62.95),0.00,Accounts Payable
+22 Jul 2025,Payable Payment,Payment: BUNNINGS,,78.95,0.00,"36,075.21",(78.95),0.00,Accounts Payable
+26 Jul 2025,Payable Invoice,Budget Petrol,,0.00,104.65,"36,179.86",104.65,0.00,Accounts Payable
+28 Jul 2025,Payable Payment,Payment: Budget Petrol,,104.65,0.00,"36,075.21",(104.65),0.00,Accounts Payable
+30 Jul 2025,Payable Invoice,OFFICEWORKS,orderNumber=1016637690,0.00,96.00,"36,171.21",96.00,0.00,Accounts Payable
+31 Jul 2025,Payable Invoice,Waster Pty Ltd,00123488,0.00,221.10,"36,392.31",221.10,0.00,Accounts Payable
+31 Jul 2025,Payable Payment,Payment: officework,orderNumber=1015958561,96.00,0.00,"36,296.31",(96.00),0.00,Accounts Payable
+02 Aug 2025,Payable Invoice,BUNNINGS,,0.00,25.94,"36,322.25",25.94,0.00,Accounts Payable
+02 Aug 2025,Payable Invoice,IGA,,0.00,8.60,"36,330.85",8.60,0.00,Accounts Payable
+02 Aug 2025,Payable Invoice,JB HI FI,,0.00,149.80,"36,480.65",149.80,0.00,Accounts Payable
+04 Aug 2025,Payable Payment,Payment: JB HI FI,,149.80,0.00,"36,330.85",(149.80),0.00,Accounts Payable
+05 Aug 2025,Payable Payment,Payment: BUNNINGS,,25.94,0.00,"36,304.91",(25.94),0.00,Accounts Payable
+05 Aug 2025,Payable Payment,Payment: IGA,,8.60,0.00,"36,296.31",(8.60),0.00,Accounts Payable
+07 Aug 2025,Payable Invoice,Budget Petrol,,0.00,104.65,"36,400.96",104.65,0.00,Accounts Payable
+13 Aug 2025,Payable Invoice,IGA,,0.00,59.44,"36,460.40",59.44,0.00,Accounts Payable
+14 Aug 2025,Payable Payment,Payment: IGA,,59.44,0.00,"36,400.96",(59.44),0.00,Accounts Payable
+17 Aug 2025,Payable Invoice,IGA,,0.00,13.66,"36,414.62",13.66,0.00,Accounts Payable
+19 Aug 2025,Payable Payment,Payment: IGA,,13.66,0.00,"36,400.96",(13.66),0.00,Accounts Payable
+21 Aug 2025,Payable Invoice,Budget Petrol,,0.00,104.65,"36,505.61",104.65,0.00,Accounts Payable
+22 Aug 2025,Payable Invoice,IGA,,0.00,17.60,"36,523.21",17.60,0.00,Accounts Payable
+25 Aug 2025,Payable Payment,Payment: IGA,,17.60,0.00,"36,505.61",(17.60),0.00,Accounts Payable
+25 Aug 2025,Payable Payment,Payment: Budget Petrol,,104.65,0.00,"36,400.96",(104.65),0.00,Accounts Payable
+27 Aug 2025,Payable Payment,Payment: A J Duffy,90148,"36,476.72",0.00,(75.76),"(36,476.72)",0.00,Accounts Payable
+29 Aug 2025,Payable Payment,Payment: Waster Pty Ltd,00123488,221.10,0.00,(296.86),(221.10),0.00,Accounts Payable
+03 Sep 2025,Payable Invoice,Budget Petrol,,0.00,104.65,(192.21),104.65,0.00,Accounts Payable
+03 Sep 2025,Payable Invoice,office,,0.00,15.60,(176.61),15.60,0.00,Accounts Payable
+04 Sep 2025,Payable Payment,Payment: office,,15.60,0.00,(192.21),(15.60),0.00,Accounts Payable
+05 Sep 2025,Payable Payment,Payment: Budget Petrol,,104.65,0.00,(296.86),(104.65),0.00,Accounts Payable
+07 Sep 2025,Payable Invoice,IGA,,0.00,13.00,(283.86),13.00,0.00,Accounts Payable
+09 Sep 2025,Payable Payment,Payment: IGA,,13.00,0.00,(296.86),(13.00),0.00,Accounts Payable
+11 Sep 2025,Payable Invoice,KMART,,0.00,37.00,(259.86),37.00,0.00,Accounts Payable
+12 Sep 2025,Payable Payment,Payment: KMART,,37.00,0.00,(296.86),(37.00),0.00,Accounts Payable
+13 Sep 2025,Payable Invoice,IGA,,0.00,7.20,(289.66),7.20,0.00,Accounts Payable
+15 Sep 2025,Payable Invoice,Budget Petrol,,0.00,104.65,(185.01),104.65,0.00,Accounts Payable
+16 Sep 2025,Payable Payment,Payment: IGA,,7.20,0.00,(192.21),(7.20),0.00,Accounts Payable
+17 Sep 2025,Payable Invoice,office,,0.00,1.65,(190.56),1.65,0.00,Accounts Payable
+17 Sep 2025,Payable Invoice,A J Duffy,92852,0.00,"16,965.49","16,774.93","16,965.49",0.00,Accounts Payable
+17 Sep 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,12.50,"16,787.43",12.50,0.00,Accounts Payable
+17 Sep 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,12.50,0.00,"16,774.93",(12.50),0.00,Accounts Payable
+18 Sep 2025,Payable Invoice,ALDI STORES,,0.00,5.57,"16,780.50",5.57,0.00,Accounts Payable
+18 Sep 2025,Payable Payment,Payment: ALDI STORES,,5.57,0.00,"16,774.93",(5.57),0.00,Accounts Payable
+18 Sep 2025,Payable Payment,Payment: office,,1.65,0.00,"16,773.28",(1.65),0.00,Accounts Payable
+19 Sep 2025,Payable Invoice,Origin Energy,114158392,0.00,"3,470.97","20,244.25","3,470.97",0.00,Accounts Payable
+27 Sep 2025,Payable Invoice,Budget Petrol,,0.00,89.70,"20,333.95",89.70,0.00,Accounts Payable
+30 Sep 2025,Payable Invoice,Waster Pty Ltd,00128995,0.00,147.40,"20,481.35",147.40,0.00,Accounts Payable
+30 Sep 2025,Payable Payment,Payment: Budget Petrol,,89.70,0.00,"20,391.65",(89.70),0.00,Accounts Payable
+30 Sep 2025,Payable Payment,Payment: AUS Solar,AUS5518N,"1,181.82",0.00,"19,209.83","(1,181.82)",0.00,Accounts Payable
+01 Oct 2025,Payable Invoice,IGA,,0.00,35.06,"19,244.89",35.06,0.00,Accounts Payable
+02 Oct 2025,Payable Invoice,TELSTRA,K 991 687 951 Acc,0.00,113.98,"19,358.87",113.98,0.00,Accounts Payable
+02 Oct 2025,Payable Payment,Payment: IGA,,35.06,0.00,"19,323.81",(35.06),0.00,Accounts Payable
+04 Oct 2025,Payable Invoice,KMART,,0.00,63.15,"19,386.96",63.15,0.00,Accounts Payable
+05 Oct 2025,Payable Invoice,Budget Petrol,,0.00,89.70,"19,476.66",89.70,0.00,Accounts Payable
+05 Oct 2025,Payable Invoice,IGA,,0.00,2.59,"19,479.25",2.59,0.00,Accounts Payable
+05 Oct 2025,Payable Invoice,IGA,,0.00,2.59,"19,481.84",2.59,0.00,Accounts Payable
+06 Oct 2025,Payable Payment,Payment: KMART,,63.15,0.00,"19,418.69",(63.15),0.00,Accounts Payable
+07 Oct 2025,Payable Payment,Payment: TELSTRA,K 991 687 951 Acc,113.98,0.00,"19,304.71",(113.98),0.00,Accounts Payable
+07 Oct 2025,Payable Payment,Payment: IGA,,2.59,0.00,"19,302.12",(2.59),0.00,Accounts Payable
+07 Oct 2025,Payable Payment,Payment: Budget Petrol,,89.70,0.00,"19,212.42",(89.70),0.00,Accounts Payable
+07 Oct 2025,Payable Payment,Payment: IGA,,2.59,0.00,"19,209.83",(2.59),0.00,Accounts Payable
+09 Oct 2025,Payable Invoice,officework,1017804535,0.00,96.00,"19,305.83",96.00,0.00,Accounts Payable
+09 Oct 2025,Payable Payment,Payment: A J Duffy,92852,"16,956.49",0.00,"2,349.34","(16,956.49)",0.00,Accounts Payable
+10 Oct 2025,Payable Invoice,IGA,,0.00,14.40,"2,363.74",14.40,0.00,Accounts Payable
+10 Oct 2025,Payable Payment,Payment: officework,1017804535,96.00,0.00,"2,267.74",(96.00),0.00,Accounts Payable
+13 Oct 2025,Payable Payment,Payment: IGA,,14.40,0.00,"2,253.34",(14.40),0.00,Accounts Payable
+13 Oct 2025,Payable Invoice,sydney Captin electrical and Handyman,800730,0.00,"23,584.00","25,837.34","23,584.00",0.00,Accounts Payable
+14 Oct 2025,Payable Invoice,Iceberg refrigeration,4315,0.00,"2,690.60","28,527.94","2,690.60",0.00,Accounts Payable
+14 Oct 2025,Payable Payment,Payment: sydney Captin electrical and Handyman,800730,"23,584.00",0.00,"4,943.94","(23,584.00)",0.00,Accounts Payable
+15 Oct 2025,Payable Invoice,Kevin Joyce,INV-43766,0.00,346.50,"5,290.44",346.50,0.00,Accounts Payable
+15 Oct 2025,Payable Invoice,SPLITBOXES,,0.00,222.35,"5,512.79",222.35,0.00,Accounts Payable
+15 Oct 2025,Payable Invoice,IGA,,0.00,46.94,"5,559.73",46.94,0.00,Accounts Payable
+15 Oct 2025,Payable Invoice,BUNNINGS,,0.00,188.85,"5,748.58",188.85,0.00,Accounts Payable
+15 Oct 2025,Payable Payment,Payment: SPLITBOXES,,222.35,0.00,"5,526.23",(222.35),0.00,Accounts Payable
+16 Oct 2025,Payable Payment,Payment: IGA,,46.94,0.00,"5,479.29",(46.94),0.00,Accounts Payable
+17 Oct 2025,Payable Payment,Payment: BUNNINGS,,188.85,0.00,"5,290.44",(188.85),0.00,Accounts Payable
+18 Oct 2025,Payable Invoice,Budget Petrol,,0.00,89.70,"5,380.14",89.70,0.00,Accounts Payable
+18 Oct 2025,Payable Invoice,IGA,,0.00,7.20,"5,387.34",7.20,0.00,Accounts Payable
+20 Oct 2025,Payable Payment,Payment: Budget Petrol,,89.70,0.00,"5,297.64",(89.70),0.00,Accounts Payable
+21 Oct 2025,Payable Payment,Payment: IGA,,7.20,0.00,"5,290.44",(7.20),0.00,Accounts Payable
+22 Oct 2025,Payable Invoice,BUNNINGS,,0.00,146.86,"5,437.30",146.86,0.00,Accounts Payable
+22 Oct 2025,Payable Payment,Payment: BUNNINGS,,146.86,0.00,"5,290.44",(146.86),0.00,Accounts Payable
+24 Oct 2025,Payable Invoice,KMART,,0.00,39.65,"5,330.09",39.65,0.00,Accounts Payable
+24 Oct 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,165.00,"5,495.09",165.00,0.00,Accounts Payable
+24 Oct 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,165.00,0.00,"5,330.09",(165.00),0.00,Accounts Payable
+27 Oct 2025,Payable Payment,Payment: KMART,,39.65,0.00,"5,290.44",(39.65),0.00,Accounts Payable
+29 Oct 2025,Payable Invoice,Budget Petrol,,0.00,89.70,"5,380.14",89.70,0.00,Accounts Payable
+30 Oct 2025,Payable Invoice,Cincotta Discount,,0.00,17.36,"5,397.50",17.36,0.00,Accounts Payable
+31 Oct 2025,Payable Payment,Payment: Cincotta Discount,,17.36,0.00,"5,380.14",(17.36),0.00,Accounts Payable
+31 Oct 2025,Payable Payment,Payment: Budget Petrol,,89.70,0.00,"5,290.44",(89.70),0.00,Accounts Payable
+07 Nov 2025,Payable Invoice,Budget Petrol,,0.00,89.70,"5,380.14",89.70,0.00,Accounts Payable
+10 Nov 2025,Payable Invoice,Kmartphotos,,0.00,12.75,"5,392.89",12.75,0.00,Accounts Payable
+10 Nov 2025,Payable Payment,Payment: Budget Petrol,,89.70,0.00,"5,303.19",(89.70),0.00,Accounts Payable
+11 Nov 2025,Payable Payment,Payment: Kevin Joyce,INV-43766,346.50,0.00,"4,956.69",(346.50),0.00,Accounts Payable
+11 Nov 2025,Payable Payment,Payment: Kmartphotos,,12.75,0.00,"4,943.94",(12.75),0.00,Accounts Payable
+12 Nov 2025,Payable Invoice,IGA,,0.00,16.90,"4,960.84",16.90,0.00,Accounts Payable
+12 Nov 2025,Payable Invoice,G18 discount market,,0.00,6.00,"4,966.84",6.00,0.00,Accounts Payable
+13 Nov 2025,Payable Invoice,JB HI FI,,0.00,69.90,"5,036.74",69.90,0.00,Accounts Payable
+13 Nov 2025,Payable Payment,Payment: IGA,,16.90,0.00,"5,019.84",(16.90),0.00,Accounts Payable
+13 Nov 2025,Payable Payment,Payment: Iceberg refrigeration,4315,"2,690.60",0.00,"2,329.24","(2,690.60)",0.00,Accounts Payable
+13 Nov 2025,Payable Payment,Payment: Waster Pty Ltd,00128995,147.40,0.00,"2,181.84",(147.40),0.00,Accounts Payable
+14 Nov 2025,Payable Invoice,IGA,,0.00,12.00,"2,193.84",12.00,0.00,Accounts Payable
+14 Nov 2025,Payable Invoice,Cincotta Discount,,0.00,48.97,"2,242.81",48.97,0.00,Accounts Payable
+15 Nov 2025,Payable Invoice,IGA,,0.00,5.20,"2,248.01",5.20,0.00,Accounts Payable
+15 Nov 2025,Payable Invoice,G18 discount market,,0.00,20.00,"2,268.01",20.00,0.00,Accounts Payable
+15 Nov 2025,Payable Invoice,officework,,0.00,96.00,"2,364.01",96.00,0.00,Accounts Payable
+17 Nov 2025,Payable Invoice,officework,,0.00,144.00,"2,508.01",144.00,0.00,Accounts Payable
+17 Nov 2025,Payable Invoice,Budget Petrol,,0.00,104.65,"2,612.66",104.65,0.00,Accounts Payable
+17 Nov 2025,Payable Payment,Payment: Cincotta Discount,,48.97,0.00,"2,563.69",(48.97),0.00,Accounts Payable
+17 Nov 2025,Payable Payment,Payment: IGA,,12.00,0.00,"2,551.69",(12.00),0.00,Accounts Payable
+17 Nov 2025,Payable Payment,Payment: JB HI FI,,69.90,0.00,"2,481.79",(69.90),0.00,Accounts Payable
+18 Nov 2025,Payable Payment,Payment: officework,,144.00,0.00,"2,337.79",(144.00),0.00,Accounts Payable
+19 Nov 2025,Payable Payment,Payment: Budget Petrol,,104.65,0.00,"2,233.14",(104.65),0.00,Accounts Payable
+22 Nov 2025,Payable Invoice,BUNNINGS,,0.00,56.91,"2,290.05",56.91,0.00,Accounts Payable
+28 Nov 2025,Payable Invoice,G18 discount market,,0.00,13.50,"2,303.55",13.50,0.00,Accounts Payable
+28 Nov 2025,Payable Invoice,G18 discount market,,0.00,25.10,"2,328.65",25.10,0.00,Accounts Payable
+29 Nov 2025,Payable Invoice,IGA,,0.00,20.50,"2,349.15",20.50,0.00,Accounts Payable
+01 Dec 2025,Payable Invoice,Budget Petrol,,0.00,104.65,"2,453.80",104.65,0.00,Accounts Payable
+01 Dec 2025,Payable Invoice,Head Oceania Pty Ltd (ZOGGS AUSTRALIA),,0.00,848.10,"3,301.90",848.10,0.00,Accounts Payable
+02 Dec 2025,Payable Invoice,TELSTRA,K 233 169 361 Acc,0.00,190.00,"3,491.90",190.00,0.00,Accounts Payable
+03 Dec 2025,Payable Payment,Payment: Head Oceania Pty Ltd (ZOGGS AUSTRALIA),,848.10,0.00,"2,643.80",(848.10),0.00,Accounts Payable
+03 Dec 2025,Payable Payment,Payment: Budget Petrol,,104.65,0.00,"2,539.15",(104.65),0.00,Accounts Payable
+04 Dec 2025,Payable Payment,Payment: TELSTRA,K 233 169 361 Acc,190.00,0.00,"2,349.15",(190.00),0.00,Accounts Payable
+05 Dec 2025,Payable Invoice,Freechoice,,0.00,3.23,"2,352.38",3.23,0.00,Accounts Payable
+06 Dec 2025,Payable Invoice,Bunning,,0.00,62.95,"2,415.33",62.95,0.00,Accounts Payable
+06 Dec 2025,Payable Invoice,KMART,,0.00,28.00,"2,443.33",28.00,0.00,Accounts Payable
+08 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,7.00,"2,450.33",7.00,0.00,Accounts Payable
+08 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,13.00,"2,463.33",13.00,0.00,Accounts Payable
+08 Dec 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,13.00,0.00,"2,450.33",(13.00),0.00,Accounts Payable
+08 Dec 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,7.00,0.00,"2,443.33",(7.00),0.00,Accounts Payable
+08 Dec 2025,Payable Payment,Payment: KMART,,28.00,0.00,"2,415.33",(28.00),0.00,Accounts Payable
+08 Dec 2025,Payable Payment,Payment: Freechoice,,3.23,0.00,"2,412.10",(3.23),0.00,Accounts Payable
+09 Dec 2025,Payable Payment,Payment: Bunning,,62.95,0.00,"2,349.15",(62.95),0.00,Accounts Payable
+11 Dec 2025,Payable Invoice,Kevin Joyce,INV-45163,0.00,495.00,"2,844.15",495.00,0.00,Accounts Payable
+12 Dec 2025,Payable Invoice,BUNNINGS,,0.00,125.90,"2,970.05",125.90,0.00,Accounts Payable
+12 Dec 2025,Payable Invoice,KMART,,0.00,46.00,"3,016.05",46.00,0.00,Accounts Payable
+12 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,10.00,"3,026.05",10.00,0.00,Accounts Payable
+13 Dec 2025,Payable Invoice,Bunning,,0.00,99.11,"3,125.16",99.11,0.00,Accounts Payable
+13 Dec 2025,Payable Invoice,Budget Petrol,,0.00,111.65,"3,236.81",111.65,0.00,Accounts Payable
+14 Dec 2025,Payable Invoice,Christophers cake,,0.00,41.11,"3,277.92",41.11,0.00,Accounts Payable
+14 Dec 2025,Payable Invoice,IGA,,0.00,6.25,"3,284.17",6.25,0.00,Accounts Payable
+15 Dec 2025,Payable Payment,Payment: BUNNINGS,,125.90,0.00,"3,158.27",(125.90),0.00,Accounts Payable
+15 Dec 2025,Payable Payment,Payment: Budget Petrol,,111.65,0.00,"3,046.62",(111.65),0.00,Accounts Payable
+15 Dec 2025,Payable Payment,Payment: Christophers cake,,41.11,0.00,"3,005.51",(41.11),0.00,Accounts Payable
+15 Dec 2025,Payable Payment,Payment: KMART,,46.00,0.00,"2,959.51",(46.00),0.00,Accounts Payable
+16 Dec 2025,Payable Payment,Payment: IGA,,6.25,0.00,"2,953.26",(6.25),0.00,Accounts Payable
+16 Dec 2025,Payable Payment,Payment: Bunning,,99.11,0.00,"2,854.15",(99.11),0.00,Accounts Payable
+19 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,6.00,"2,860.15",6.00,0.00,Accounts Payable
+19 Dec 2025,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,6.00,0.00,"2,854.15",(6.00),0.00,Accounts Payable
+20 Dec 2025,Payable Invoice,IGA,,0.00,16.48,"2,870.63",16.48,0.00,Accounts Payable
+20 Dec 2025,Payable Invoice,KMART,,0.00,29.15,"2,899.78",29.15,0.00,Accounts Payable
+22 Dec 2025,Payable Invoice,Budget Petrol,,0.00,79.75,"2,979.53",79.75,0.00,Accounts Payable
+22 Dec 2025,Payable Payment,Payment: KMART,,29.15,0.00,"2,950.38",(29.15),0.00,Accounts Payable
+23 Dec 2025,Payable Invoice,APC,INV/2025/24228,0.00,"2,133.96","5,084.34","2,133.96",0.00,Accounts Payable
+23 Dec 2025,Payable Payment,Payment: IGA,,16.48,0.00,"5,067.86",(16.48),0.00,Accounts Payable
+23 Dec 2025,Payable Invoice,all purpose coating,,0.00,"2,133.96","7,201.82","2,133.96",0.00,Accounts Payable
+23 Dec 2025,Payable Credit Note,APC,INV/2025/24228,"2,133.96",0.00,"5,067.86","(2,133.96)",0.00,Accounts Payable
+23 Dec 2025,Payable Credit Note Allocation,APC,INV/2025/24228,"2,133.96",0.00,"2,933.90","(2,133.96)",0.00,Accounts Payable
+23 Dec 2025,Payable Credit Note Allocation,APC,INV/2025/24228,0.00,"2,133.96","5,067.86","2,133.96",0.00,Accounts Payable
+24 Dec 2025,Payable Payment,Payment: Budget Petrol,,79.75,0.00,"4,988.11",(79.75),0.00,Accounts Payable
+29 Dec 2025,Payable Payment,Payment: all purpose coating,,"2,133.96",0.00,"2,854.15","(2,133.96)",0.00,Accounts Payable
+31 Dec 2025,Payable Invoice,Waster Pty Ltd,00137502,0.00,275.00,"3,129.15",275.00,0.00,Accounts Payable
+31 Dec 2025,Payable Payment,Payment: AUS Solar,AUS5518N,"1,374.79",0.00,"1,754.36","(1,374.79)",0.00,Accounts Payable
+06 Jan 2026,Payable Invoice,BUNNINGS,,0.00,251.80,"2,006.16",251.80,0.00,Accounts Payable
+08 Jan 2026,Payable Invoice,A J Duffy,96324,0.00,"17,467.52","19,473.68","17,467.52",0.00,Accounts Payable
+08 Jan 2026,Payable Invoice,IGA,,0.00,1.80,"19,475.48",1.80,0.00,Accounts Payable
+08 Jan 2026,Payable Payment,Payment: BUNNINGS,,251.80,0.00,"19,223.68",(251.80),0.00,Accounts Payable
+08 Jan 2026,Payable Payment,Payment: Kevin Joyce,INV-45163,495.00,0.00,"18,728.68",(495.00),0.00,Accounts Payable
+09 Jan 2026,Payable Invoice,officework,,0.00,116.99,"18,845.67",116.99,0.00,Accounts Payable
+09 Jan 2026,Payable Invoice,Budget Petrol,,0.00,111.65,"18,957.32",111.65,0.00,Accounts Payable
+09 Jan 2026,Payable Payment,Payment: IGA,,1.80,0.00,"18,955.52",(1.80),0.00,Accounts Payable
+09 Jan 2026,Payable Payment,Payment: A J Duffy,96324,"17,467.52",0.00,"1,488.00","(17,467.52)",0.00,Accounts Payable
+12 Jan 2026,Payable Payment,Payment: officework,,116.99,0.00,"1,371.01",(116.99),0.00,Accounts Payable
+12 Jan 2026,Payable Payment,Payment: Budget Petrol,,111.65,0.00,"1,259.36",(111.65),0.00,Accounts Payable
+13 Jan 2026,Payable Payment,Payment: Waster Pty Ltd,00137502,275.00,0.00,984.36,(275.00),0.00,Accounts Payable
+14 Jan 2026,Payable Invoice,IGA,,0.00,12.90,997.26,12.90,0.00,Accounts Payable
+15 Jan 2026,Payable Invoice,JB HI FI,,0.00,104.85,"1,102.11",104.85,0.00,Accounts Payable
+15 Jan 2026,Payable Payment,Payment: IGA,,12.90,0.00,"1,089.21",(12.90),0.00,Accounts Payable
+16 Jan 2026,Payable Invoice,IGA,,0.00,13.30,"1,102.51",13.30,0.00,Accounts Payable
+17 Jan 2026,Payable Invoice,BUNNINGS,,0.00,47.00,"1,149.51",47.00,0.00,Accounts Payable
+17 Jan 2026,Payable Invoice,freshway cleaning,,0.00,50.10,"1,199.61",50.10,0.00,Accounts Payable
+19 Jan 2026,Payable Payment,Payment: JB HI FI,,104.85,0.00,"1,094.76",(104.85),0.00,Accounts Payable
+19 Jan 2026,Payable Payment,Payment: BUNNINGS,,47.00,0.00,"1,047.76",(47.00),0.00,Accounts Payable
+19 Jan 2026,Payable Payment,Payment: freshway cleaning,,50.10,0.00,997.66,(50.10),0.00,Accounts Payable
+19 Jan 2026,Payable Payment,Payment: IGA,,13.30,0.00,984.36,(13.30),0.00,Accounts Payable
+21 Jan 2026,Payable Invoice,Budget Petrol,,0.00,111.65,"1,096.01",111.65,0.00,Accounts Payable
+21 Jan 2026,Payable Payment,Payment: G18 discount market,,6.00,0.00,"1,090.01",(6.00),0.00,Accounts Payable
+22 Jan 2026,Payable Invoice,Bunning,W279119756,0.00,208.80,"1,298.81",208.80,0.00,Accounts Payable
+22 Jan 2026,Payable Invoice,KMART,,0.00,94.00,"1,392.81",94.00,0.00,Accounts Payable
+23 Jan 2026,Payable Invoice,BUNNINGS,,0.00,25.99,"1,418.80",25.99,0.00,Accounts Payable
+23 Jan 2026,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,10.00,0.00,"1,408.80",(10.00),0.00,Accounts Payable
+23 Jan 2026,Payable Payment,Payment: KMART,,94.00,0.00,"1,314.80",(94.00),0.00,Accounts Payable
+23 Jan 2026,Payable Payment,Payment: Budget Petrol,,111.65,0.00,"1,203.15",(111.65),0.00,Accounts Payable
+27 Jan 2026,Payable Payment,Payment: Bunning,W279119756,208.80,0.00,994.35,(208.80),0.00,Accounts Payable
+28 Jan 2026,Payable Invoice,IGA,,0.00,25.75,"1,020.10",25.75,0.00,Accounts Payable
+28 Jan 2026,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,15.00,"1,035.10",15.00,0.00,Accounts Payable
+28 Jan 2026,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,15.00,0.00,"1,020.10",(15.00),0.00,Accounts Payable
+29 Jan 2026,Payable Invoice,AOZ PRINT AND GRAPHI,,0.00,12.00,"1,032.10",12.00,0.00,Accounts Payable
+29 Jan 2026,Payable Payment,Payment: AOZ PRINT AND GRAPHI,,12.00,0.00,"1,020.10",(12.00),0.00,Accounts Payable
+29 Jan 2026,Payable Payment,Payment: IGA,,25.75,0.00,994.35,(25.75),0.00,Accounts Payable
+02 Feb 2026,Payable Payment,Payment: BUNNINGS,,25.99,0.00,968.36,(25.99),0.00,Accounts Payable
+06 Feb 2026,Payable Invoice,IGA,,0.00,50.15,"1,018.51",50.15,0.00,Accounts Payable
+09 Feb 2026,Payable Payment,Payment: IGA,,50.15,0.00,968.36,(50.15),0.00,Accounts Payable
+16 Feb 2026,Payable Invoice,officework,1020437316,0.00,235.95,"1,204.31",235.95,0.00,Accounts Payable
+17 Feb 2026,Payable Payment,Payment: officework,1020437316,235.95,0.00,968.36,(235.95),0.00,Accounts Payable
+31 Mar 2026,Payable Payment,Payment: AUS Solar,AUS5518N,309.78,0.00,658.58,(309.78),0.00,Accounts Payable
+Total 800 - Accounts Payable,,,,"119,532.19","120,190.77",658.58,658.58,0.00,
+,,,,,,,,,
+804 - Wages Payable - Payroll,,,,,,,,,
+07 Jul 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-309,0.00,"9,670.55","9,670.55","9,670.55",0.00,Wages Payable - Payroll
+10 Jul 2025,Spend Money,salary,,"9,670.55",0.00,0.00,"(9,670.55)",0.00,Wages Payable - Payroll
+21 Jul 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-311,0.00,"9,551.88","9,551.88","9,551.88",0.00,Wages Payable - Payroll
+21 Jul 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-313,0.00,593.21,"10,145.09",593.21,0.00,Wages Payable - Payroll
+24 Jul 2025,Spend Money,salary,,"9,551.88",0.00,593.21,"(9,551.88)",0.00,Wages Payable - Payroll
+25 Jul 2025,Spend Money,LIZETH Gomez hortua,,593.21,0.00,0.00,(593.21),0.00,Wages Payable - Payroll
+04 Aug 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-315,0.00,"7,769.95","7,769.95","7,769.95",0.00,Wages Payable - Payroll
+06 Aug 2025,Spend Money,salary,,"7,769.95",0.00,0.00,"(7,769.95)",0.00,Wages Payable - Payroll
+18 Aug 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-316,0.00,"9,670.11","9,670.11","9,670.11",0.00,Wages Payable - Payroll
+21 Aug 2025,Spend Money,salary,,"9,670.11",0.00,0.00,"(9,670.11)",0.00,Wages Payable - Payroll
+01 Sep 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-317,0.00,"8,296.49","8,296.49","8,296.49",0.00,Wages Payable - Payroll
+03 Sep 2025,Spend Money,salary,,"8,296.49",0.00,0.00,"(8,296.49)",0.00,Wages Payable - Payroll
+15 Sep 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-318,0.00,"10,485.74","10,485.74","10,485.74",0.00,Wages Payable - Payroll
+16 Sep 2025,Spend Money,salary,,"10,485.74",0.00,0.00,"(10,485.74)",0.00,Wages Payable - Payroll
+29 Sep 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-319,0.00,"11,271.40","11,271.40","11,271.40",0.00,Wages Payable - Payroll
+01 Oct 2025,Spend Money,salary,,"11,271.40",0.00,0.00,"(11,271.40)",0.00,Wages Payable - Payroll
+13 Oct 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-320,0.00,"10,407.82","10,407.82","10,407.82",0.00,Wages Payable - Payroll
+15 Oct 2025,Spend Money,salary,,"10,407.82",0.00,0.00,"(10,407.82)",0.00,Wages Payable - Payroll
+27 Oct 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-321,0.00,"10,015.25","10,015.25","10,015.25",0.00,Wages Payable - Payroll
+28 Oct 2025,Spend Money,salary,,"10,015.25",0.00,0.00,"(10,015.25)",0.00,Wages Payable - Payroll
+10 Nov 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-322,0.00,"11,180.71","11,180.71","11,180.71",0.00,Wages Payable - Payroll
+12 Nov 2025,Spend Money,salary,,"11,180.71",0.00,0.00,"(11,180.71)",0.00,Wages Payable - Payroll
+24 Nov 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-323,0.00,"12,054.49","12,054.49","12,054.49",0.00,Wages Payable - Payroll
+26 Nov 2025,Spend Money,salary,,"12,054.49",0.00,0.00,"(12,054.49)",0.00,Wages Payable - Payroll
+08 Dec 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-324,0.00,"10,684.25","10,684.25","10,684.25",0.00,Wages Payable - Payroll
+10 Dec 2025,Spend Money,salary,,"10,684.25",0.00,0.00,"(10,684.25)",0.00,Wages Payable - Payroll
+22 Dec 2025,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-325,0.00,"10,313.86","10,313.86","10,313.86",0.00,Wages Payable - Payroll
+24 Dec 2025,Spend Money,Wages,,"10,313.86",0.00,0.00,"(10,313.86)",0.00,Wages Payable - Payroll
+05 Jan 2026,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-326,0.00,"2,668.95","2,668.95","2,668.95",0.00,Wages Payable - Payroll
+07 Jan 2026,Spend Money,salary,,"2,668.95",0.00,0.00,"(2,668.95)",0.00,Wages Payable - Payroll
+19 Jan 2026,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-327,0.00,"10,666.96","10,666.96","10,666.96",0.00,Wages Payable - Payroll
+21 Jan 2026,Spend Money,salary,,"10,666.96",0.00,0.00,"(10,666.96)",0.00,Wages Payable - Payroll
+02 Feb 2026,Payroll Expense,Wages Payable,Payroll Expense Journal - PD-328,0.00,"11,147.79","11,147.79","11,147.79",0.00,Wages Payable - Payroll
+05 Feb 2026,Spend Money,salary,,"11,147.79",0.00,0.00,"(11,147.79)",0.00,Wages Payable - Payroll
+Total 804 - Wages Payable - Payroll,,,,"156,449.41","156,449.41",0.00,0.00,0.00,
+,,,,,,,,,
+820 - GST,,,,,,,,,
+01 Jul 2025,Spend Money,Merchant Fee,,3.32,0.00,(3.32),(3.32),0.00,GST
+01 Jul 2025,Spend Money,Swimbiz,,36.74,0.00,(40.06),(36.74),0.00,GST
+01 Jul 2025,Spend Money,TAXIDEAS,,33.00,0.00,(73.06),(33.00),0.00,GST
+02 Jul 2025,Payable Invoice,TELSTRA,K 555 442 561 Acc,16.36,0.00,(89.42),(16.36),0.00,GST
+05 Jul 2025,Payable Invoice,BUNNINGS,,17.31,0.00,(106.73),(17.31),0.00,GST
+06 Jul 2025,Payable Invoice,pharmacy4less,,2.00,0.00,(108.73),(2.00),0.00,GST
+06 Jul 2025,Payable Invoice,JB HI FI,,7.73,0.00,(116.46),(7.73),0.00,GST
+07 Jul 2025,Receive Money,DONNA LOHMEYERA,,0.00,15.91,(100.55),15.91,0.00,GST
+07 Jul 2025,Receive Money,Donna,,0.00,10.91,(89.64),10.91,0.00,GST
+09 Jul 2025,Payable Invoice,IGA,,0.98,0.00,(90.62),(0.98),0.00,GST
+10 Jul 2025,Payable Invoice,IGA,,0.64,0.00,(91.26),(0.64),0.00,GST
+12 Jul 2025,Payable Invoice,Budget Petrol,,8.15,0.00,(99.41),(8.15),0.00,GST
+12 Jul 2025,Payable Invoice,BUNNINGS,,3.38,0.00,(102.79),(3.38),0.00,GST
+14 Jul 2025,Receive Money,Auskor Swimm,,0.00,90.91,(11.88),90.91,0.00,GST
+14 Jul 2025,Payable Invoice,Aquatic Elements Pty Ltd,00121280,388.70,0.00,(400.58),(388.70),0.00,GST
+16 Jul 2025,Payable Invoice,IGA,,1.17,0.00,(401.75),(1.17),0.00,GST
+17 Jul 2025,Spend Money,Origin Energy,,313.32,0.00,(715.07),(313.32),0.00,GST
+17 Jul 2025,Receive Money,Flexipay,,0.00,5.18,(709.89),5.18,0.00,GST
+18 Jul 2025,Payable Invoice,A J Duffy,90148,"3,316.07",0.00,"(4,025.96)","(3,316.07)",0.00,GST
+19 Jul 2025,Payable Invoice,BUNNINGS,,5.72,0.00,"(4,031.68)",(5.72),0.00,GST
+19 Jul 2025,Payable Invoice,officework,,2.08,0.00,"(4,033.76)",(2.08),0.00,GST
+19 Jul 2025,Payable Invoice,BUNNINGS,,7.18,0.00,"(4,040.94)",(7.18),0.00,GST
+19 Jul 2025,Payable Invoice,G18 discount market,,0.50,0.00,"(4,041.44)",(0.50),0.00,GST
+24 Jul 2025,Spend Money,A J Duffy,,326.00,0.00,"(4,367.44)",(326.00),0.00,GST
+26 Jul 2025,Payable Invoice,Budget Petrol,,9.51,0.00,"(4,376.95)",(9.51),0.00,GST
+28 Jul 2025,Receive Money,Flexipay,,0.00,7.77,"(4,369.18)",7.77,0.00,GST
+30 Jul 2025,Payable Invoice,OFFICEWORKS,orderNumber=1016637690,8.73,0.00,"(4,377.91)",(8.73),0.00,GST
+31 Jul 2025,Payable Invoice,Waster Pty Ltd,00123488,20.10,0.00,"(4,398.01)",(20.10),0.00,GST
+31 Jul 2025,Spend Money,Icare Workers Insurance,,46.94,0.00,"(4,444.95)",(46.94),0.00,GST
+31 Jul 2025,Spend Money,Merchant Fee,,4.52,0.00,"(4,449.47)",(4.52),0.00,GST
+01 Aug 2025,Spend Money,TAXIDEAS,,33.00,0.00,"(4,482.47)",(33.00),0.00,GST
+01 Aug 2025,Spend Money,Swimbiz,,37.95,0.00,"(4,520.42)",(37.95),0.00,GST
+02 Aug 2025,Payable Invoice,BUNNINGS,,2.36,0.00,"(4,522.78)",(2.36),0.00,GST
+02 Aug 2025,Payable Invoice,IGA,,0.78,0.00,"(4,523.56)",(0.78),0.00,GST
+02 Aug 2025,Payable Invoice,JB HI FI,,13.62,0.00,"(4,537.18)",(13.62),0.00,GST
+04 Aug 2025,Receive Money,Flexipay,,0.00,3.64,"(4,533.54)",3.64,0.00,GST
+04 Aug 2025,Receive Money,DONNA LOHMEYERA,,0.00,17.27,"(4,516.27)",17.27,0.00,GST
+06 Aug 2025,Spend Money,Austgrade Leasing,,0.91,0.00,"(4,517.18)",(0.91),0.00,GST
+06 Aug 2025,Spend Money,Austgrade Leasing,,413.29,0.00,"(4,930.47)",(413.29),0.00,GST
+07 Aug 2025,Payable Invoice,Budget Petrol,,9.51,0.00,"(4,939.98)",(9.51),0.00,GST
+11 Aug 2025,Spend Money,Ryde district mums,,19.09,0.00,"(4,959.07)",(19.09),0.00,GST
+11 Aug 2025,Spend Money,Budget Petrol,,9.51,0.00,"(4,968.58)",(9.51),0.00,GST
+13 Aug 2025,Payable Invoice,IGA,,5.40,0.00,"(4,973.98)",(5.40),0.00,GST
+17 Aug 2025,Payable Invoice,IGA,,1.24,0.00,"(4,975.22)",(1.24),0.00,GST
+19 Aug 2025,Spend Money,Kevin Joyce Pest Control,,45.00,0.00,"(5,020.22)",(45.00),0.00,GST
+21 Aug 2025,Payable Invoice,Budget Petrol,,9.51,0.00,"(5,029.73)",(9.51),0.00,GST
+21 Aug 2025,Receive Money,Flexipay,,0.00,2.73,"(5,027.00)",2.73,0.00,GST
+22 Aug 2025,Payable Invoice,IGA,,1.60,0.00,"(5,028.60)",(1.60),0.00,GST
+27 Aug 2025,Spend Money,Origin Energy,,345.56,0.00,"(5,374.16)",(345.56),0.00,GST
+29 Aug 2025,Receive Money,Flexipay,,0.00,4.73,"(5,369.43)",4.73,0.00,GST
+29 Aug 2025,Spend Money,Merchant Fee,,3.65,0.00,"(5,373.08)",(3.65),0.00,GST
+01 Sep 2025,Spend Money,Icare Workers Insurance,,46.94,0.00,"(5,420.02)",(46.94),0.00,GST
+01 Sep 2025,Receive Money,Flexipay,,0.00,4.55,"(5,415.47)",4.55,0.00,GST
+01 Sep 2025,Spend Money,Swimbiz,,36.97,0.00,"(5,452.44)",(36.97),0.00,GST
+01 Sep 2025,Spend Money,TAXIDEAS,,33.00,0.00,"(5,485.44)",(33.00),0.00,GST
+03 Sep 2025,Payable Invoice,Budget Petrol,,9.51,0.00,"(5,494.95)",(9.51),0.00,GST
+03 Sep 2025,Payable Invoice,office,,1.42,0.00,"(5,496.37)",(1.42),0.00,GST
+07 Sep 2025,Payable Invoice,IGA,,1.18,0.00,"(5,497.55)",(1.18),0.00,GST
+11 Sep 2025,Payable Invoice,KMART,,3.36,0.00,"(5,500.91)",(3.36),0.00,GST
+13 Sep 2025,Payable Invoice,IGA,,0.65,0.00,"(5,501.56)",(0.65),0.00,GST
+15 Sep 2025,Payable Invoice,Budget Petrol,,9.51,0.00,"(5,511.07)",(9.51),0.00,GST
+16 Sep 2025,Receive Money,Flexipay,,0.00,1.36,"(5,509.71)",1.36,0.00,GST
+16 Sep 2025,Spend Money,Icare Workers Insurance,,160.50,0.00,"(5,670.21)",(160.50),0.00,GST
+17 Sep 2025,Payable Invoice,office,,0.15,0.00,"(5,670.36)",(0.15),0.00,GST
+17 Sep 2025,Payable Invoice,A J Duffy,92852,"1,542.32",0.00,"(7,212.68)","(1,542.32)",0.00,GST
+17 Sep 2025,Spend Money,Budget Petrol,,9.51,0.00,"(7,222.19)",(9.51),0.00,GST
+17 Sep 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,1.14,0.00,"(7,223.33)",(1.14),0.00,GST
+18 Sep 2025,Payable Invoice,ALDI STORES,,0.51,0.00,"(7,223.84)",(0.51),0.00,GST
+19 Sep 2025,Payable Invoice,Origin Energy,114158392,315.54,0.00,"(7,539.38)",(315.54),0.00,GST
+22 Sep 2025,Receive Money,Flexipay,,0.00,4.55,"(7,534.83)",4.55,0.00,GST
+23 Sep 2025,Receivable Invoice,Mika,INV-0047,0.00,390.00,"(7,144.83)",390.00,0.00,GST
+24 Sep 2025,Receive Money,Flexipay,,0.00,26.81,"(7,118.02)",26.81,0.00,GST
+27 Sep 2025,Payable Invoice,Budget Petrol,,8.15,0.00,"(7,126.17)",(8.15),0.00,GST
+30 Sep 2025,Payable Invoice,Waster Pty Ltd,00128995,13.40,0.00,"(7,139.57)",(13.40),0.00,GST
+30 Sep 2025,Spend Money,Icare Workers Insurance,,46.94,0.00,"(7,186.51)",(46.94),0.00,GST
+30 Sep 2025,Spend Money,Merchant Fee,,3.46,0.00,"(7,189.97)",(3.46),0.00,GST
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile GST Holding as of 30 Sep 2025,#10988,0.00,"2,243.78","(4,946.19)","2,243.78",0.00,GST
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - June 25 BAS,#11266,0.00,"8,001.00","3,054.81","8,001.00",0.00,GST
+01 Oct 2025,Payable Invoice,IGA,,3.19,0.00,"3,051.62",(3.19),0.00,GST
+01 Oct 2025,Spend Money,Swimbiz,,35.87,0.00,"3,015.75",(35.87),0.00,GST
+01 Oct 2025,Spend Money,TAXIDEAS,,33.00,0.00,"2,982.75",(33.00),0.00,GST
+01 Oct 2025,Spend Money,Kevin Joyce,,25.00,0.00,"2,957.75",(25.00),0.00,GST
+02 Oct 2025,Payable Invoice,TELSTRA,K 991 687 951 Acc,10.36,0.00,"2,947.39",(10.36),0.00,GST
+04 Oct 2025,Payable Invoice,KMART,,5.74,0.00,"2,941.65",(5.74),0.00,GST
+05 Oct 2025,Payable Invoice,Budget Petrol,,8.15,0.00,"2,933.50",(8.15),0.00,GST
+05 Oct 2025,Payable Invoice,IGA,,0.24,0.00,"2,933.26",(0.24),0.00,GST
+05 Oct 2025,Payable Invoice,IGA,,0.24,0.00,"2,933.02",(0.24),0.00,GST
+06 Oct 2025,Receive Money,DONNA LOHMEYERA,,0.00,22.73,"2,955.75",22.73,0.00,GST
+09 Oct 2025,Payable Invoice,officework,1017804535,8.73,0.00,"2,947.02",(8.73),0.00,GST
+10 Oct 2025,Payable Invoice,IGA,,1.31,0.00,"2,945.71",(1.31),0.00,GST
+13 Oct 2025,Spend Money,Waster Pty Ltd,,13.40,0.00,"2,932.31",(13.40),0.00,GST
+13 Oct 2025,Payable Invoice,sydney Captin electrical and Handyman,800730,"2,144.00",0.00,788.31,"(2,144.00)",0.00,GST
+14 Oct 2025,Payable Invoice,Iceberg refrigeration,4315,244.60,0.00,543.71,(244.60),0.00,GST
+15 Oct 2025,Payable Invoice,Kevin Joyce,INV-43766,31.50,0.00,512.21,(31.50),0.00,GST
+15 Oct 2025,Payable Invoice,SPLITBOXES,,20.21,0.00,492.00,(20.21),0.00,GST
+15 Oct 2025,Payable Invoice,IGA,,4.27,0.00,487.73,(4.27),0.00,GST
+15 Oct 2025,Payable Invoice,BUNNINGS,,17.17,0.00,470.56,(17.17),0.00,GST
+18 Oct 2025,Payable Invoice,Budget Petrol,,8.15,0.00,462.41,(8.15),0.00,GST
+18 Oct 2025,Payable Invoice,IGA,,0.65,0.00,461.76,(0.65),0.00,GST
+20 Oct 2025,Receive Money,Flexipay,,0.00,1.45,463.21,1.45,0.00,GST
+22 Oct 2025,Payable Invoice,BUNNINGS,,13.35,0.00,449.86,(13.35),0.00,GST
+24 Oct 2025,Payable Invoice,KMART,,3.60,0.00,446.26,(3.60),0.00,GST
+24 Oct 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,15.00,0.00,431.26,(15.00),0.00,GST
+29 Oct 2025,Payable Invoice,Budget Petrol,,8.15,0.00,423.11,(8.15),0.00,GST
+30 Oct 2025,Payable Invoice,Cincotta Discount,,1.58,0.00,421.53,(1.58),0.00,GST
+31 Oct 2025,Spend Money,Icare Workers Insurance,,46.94,0.00,374.59,(46.94),0.00,GST
+31 Oct 2025,Spend Money,Merchant Fee,,2.29,0.00,372.30,(2.29),0.00,GST
+03 Nov 2025,Spend Money,TAXIDEAS,,33.00,0.00,339.30,(33.00),0.00,GST
+03 Nov 2025,Spend Money,Kevin Joyce,,45.00,0.00,294.30,(45.00),0.00,GST
+03 Nov 2025,Receive Money,Flexipay,,0.00,17.72,312.02,17.72,0.00,GST
+03 Nov 2025,Spend Money,Origin Energy,,668.61,0.00,(356.59),(668.61),0.00,GST
+04 Nov 2025,Receive Money,Flexipay,,0.00,1.45,(355.14),1.45,0.00,GST
+04 Nov 2025,Spend Money,TELSTRA,,17.27,0.00,(372.41),(17.27),0.00,GST
+07 Nov 2025,Payable Invoice,Budget Petrol,,8.15,0.00,(380.56),(8.15),0.00,GST
+07 Nov 2025,Receive Money,Flexipay,,0.00,5.09,(375.47),5.09,0.00,GST
+10 Nov 2025,Payable Invoice,Kmartphotos,,1.16,0.00,(376.63),(1.16),0.00,GST
+10 Nov 2025,Receive Money,Flexipay,,0.00,4.18,(372.45),4.18,0.00,GST
+11 Nov 2025,Spend Money,Origin Energy,,220.27,0.00,(592.72),(220.27),0.00,GST
+12 Nov 2025,Payable Invoice,IGA,,1.54,0.00,(594.26),(1.54),0.00,GST
+12 Nov 2025,Payable Invoice,G18 discount market,,0.55,0.00,(594.81),(0.55),0.00,GST
+12 Nov 2025,Spend Money,G18 discount market,,0.55,0.00,(595.36),(0.55),0.00,GST
+13 Nov 2025,Payable Invoice,JB HI FI,,6.35,0.00,(601.71),(6.35),0.00,GST
+14 Nov 2025,Payable Invoice,IGA,,1.09,0.00,(602.80),(1.09),0.00,GST
+14 Nov 2025,Payable Invoice,Cincotta Discount,,4.45,0.00,(607.25),(4.45),0.00,GST
+14 Nov 2025,Receive Money,Flexipay,,0.00,4.64,(602.61),4.64,0.00,GST
+15 Nov 2025,Payable Invoice,IGA,,0.47,0.00,(603.08),(0.47),0.00,GST
+15 Nov 2025,Payable Invoice,G18 discount market,,1.82,0.00,(604.90),(1.82),0.00,GST
+15 Nov 2025,Payable Invoice,officework,,8.73,0.00,(613.63),(8.73),0.00,GST
+17 Nov 2025,Payable Invoice,officework,,13.09,0.00,(626.72),(13.09),0.00,GST
+17 Nov 2025,Payable Invoice,Budget Petrol,,9.51,0.00,(636.23),(9.51),0.00,GST
+17 Nov 2025,Spend Money,G18 discount market,,1.84,0.00,(638.07),(1.84),0.00,GST
+18 Nov 2025,Spend Money,igs,,0.46,0.00,(638.53),(0.46),0.00,GST
+19 Nov 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0049,0.00,323.86,(314.67),323.86,0.00,GST
+20 Nov 2025,Receive Money,Flexipay,,0.00,27.84,(286.83),27.84,0.00,GST
+21 Nov 2025,Receive Money,Flexipay,,0.00,1.45,(285.38),1.45,0.00,GST
+22 Nov 2025,Payable Invoice,BUNNINGS,,5.17,0.00,(290.55),(5.17),0.00,GST
+24 Nov 2025,Receive Money,Flexipay,,0.00,2.36,(288.19),2.36,0.00,GST
+25 Nov 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0051,0.00,422.73,134.54,422.73,0.00,GST
+25 Nov 2025,Spend Money,BUNNINGS,,5.17,0.00,129.37,(5.17),0.00,GST
+28 Nov 2025,Spend Money,G18 discount market,,2.31,0.00,127.06,(2.31),0.00,GST
+28 Nov 2025,Receive Money,Donna Lohmeyer,,0.00,19.55,146.61,19.55,0.00,GST
+28 Nov 2025,Spend Money,G18 discount market,,1.24,0.00,145.37,(1.24),0.00,GST
+28 Nov 2025,Spend Money,Merchant Fee,,4.47,0.00,140.90,(4.47),0.00,GST
+28 Nov 2025,Payable Invoice,G18 discount market,,1.23,0.00,139.67,(1.23),0.00,GST
+28 Nov 2025,Payable Invoice,G18 discount market,,2.28,0.00,137.39,(2.28),0.00,GST
+29 Nov 2025,Payable Invoice,IGA,,1.86,0.00,135.53,(1.86),0.00,GST
+01 Dec 2025,Spend Money,TAXIDEAS,,33.00,0.00,102.53,(33.00),0.00,GST
+01 Dec 2025,Spend Money,Swimbiz,,36.48,0.00,66.05,(36.48),0.00,GST
+01 Dec 2025,Receive Money,Flexipay,,0.00,3.18,69.23,3.18,0.00,GST
+01 Dec 2025,Spend Money,Icare Workers Insurance,,46.94,0.00,22.29,(46.94),0.00,GST
+01 Dec 2025,Payable Invoice,Budget Petrol,,9.51,0.00,12.78,(9.51),0.00,GST
+01 Dec 2025,Payable Invoice,Head Oceania Pty Ltd (ZOGGS AUSTRALIA),,77.10,0.00,(64.32),(77.10),0.00,GST
+01 Dec 2025,Spend Money,A J Duffy,,"3,454.44",0.00,"(3,518.76)","(3,454.44)",0.00,GST
+02 Dec 2025,Spend Money,igs,,1.86,0.00,"(3,520.62)",(1.86),0.00,GST
+02 Dec 2025,Receive Money,Flexipay,,0.00,5.55,"(3,515.07)",5.55,0.00,GST
+02 Dec 2025,Spend Money,IGA,,3.92,0.00,"(3,518.99)",(3.92),0.00,GST
+02 Dec 2025,Payable Invoice,TELSTRA,K 233 169 361 Acc,17.27,0.00,"(3,536.26)",(17.27),0.00,GST
+05 Dec 2025,Payable Invoice,Freechoice,,0.29,0.00,"(3,536.55)",(0.29),0.00,GST
+06 Dec 2025,Payable Invoice,Bunning,,5.72,0.00,"(3,542.27)",(5.72),0.00,GST
+06 Dec 2025,Payable Invoice,KMART,,2.55,0.00,"(3,544.82)",(2.55),0.00,GST
+08 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.64,0.00,"(3,545.46)",(0.64),0.00,GST
+08 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,1.18,0.00,"(3,546.64)",(1.18),0.00,GST
+11 Dec 2025,Payable Invoice,Kevin Joyce,INV-45163,45.00,0.00,"(3,591.64)",(45.00),0.00,GST
+12 Dec 2025,Payable Invoice,BUNNINGS,,11.45,0.00,"(3,603.09)",(11.45),0.00,GST
+12 Dec 2025,Payable Invoice,KMART,,4.18,0.00,"(3,607.27)",(4.18),0.00,GST
+12 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.91,0.00,"(3,608.18)",(0.91),0.00,GST
+12 Dec 2025,Spend Money,Origin Energy,,229.06,0.00,"(3,837.24)",(229.06),0.00,GST
+12 Dec 2025,Spend Money,AOZ PRINT AND GRAPHI,,0.91,0.00,"(3,838.15)",(0.91),0.00,GST
+13 Dec 2025,Payable Invoice,Bunning,,9.01,0.00,"(3,847.16)",(9.01),0.00,GST
+13 Dec 2025,Payable Invoice,Budget Petrol,,10.15,0.00,"(3,857.31)",(10.15),0.00,GST
+14 Dec 2025,Payable Invoice,Christophers cake,,3.74,0.00,"(3,861.05)",(3.74),0.00,GST
+14 Dec 2025,Payable Invoice,IGA,,0.57,0.00,"(3,861.62)",(0.57),0.00,GST
+15 Dec 2025,Spend Money,VI consultation,,0.18,0.00,"(3,861.80)",(0.18),0.00,GST
+16 Dec 2025,Spend Money,Waster Pty Ltd,,13.40,0.00,"(3,875.20)",(13.40),0.00,GST
+19 Dec 2025,Payable Invoice,AOZ PRINT AND GRAPHI,,0.55,0.00,"(3,875.75)",(0.55),0.00,GST
+20 Dec 2025,Payable Invoice,IGA,,1.50,0.00,"(3,877.25)",(1.50),0.00,GST
+20 Dec 2025,Payable Invoice,KMART,,2.65,0.00,"(3,879.90)",(2.65),0.00,GST
+22 Dec 2025,Payable Invoice,Budget Petrol,,7.25,0.00,"(3,887.15)",(7.25),0.00,GST
+23 Dec 2025,Payable Invoice,APC,INV/2025/24228,194.00,0.00,"(4,081.15)",(194.00),0.00,GST
+23 Dec 2025,Payable Invoice,all purpose coating,,194.00,0.00,"(4,275.15)",(194.00),0.00,GST
+23 Dec 2025,Payable Credit Note,APC,INV/2025/24228,0.00,194.00,"(4,081.15)",194.00,0.00,GST
+25 Dec 2025,Receivable Invoice,Auskor - ABN 39 199 641 813,INV-0053,0.00,252.27,"(3,828.88)",252.27,0.00,GST
+29 Dec 2025,Receive Money,Expoxy master,,0.00,194.00,"(3,634.88)",194.00,0.00,GST
+31 Dec 2025,Payable Invoice,Waster Pty Ltd,00137502,25.00,0.00,"(3,659.88)",(25.00),0.00,GST
+31 Dec 2025,Spend Money,Merchant Fee,,2.24,0.00,"(3,662.12)",(2.24),0.00,GST
+31 Dec 2025,Spend Money,Icare Workers Insurance,,46.94,0.00,"(3,709.06)",(46.94),0.00,GST
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Sep 25 BAS,#11264,0.00,"4,389.00",679.94,"4,389.00",0.00,GST
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile GST Holding as of 31 Dec 2025,#11286,"2,369.30",0.00,"(1,689.36)","(2,369.30)",0.00,GST
+02 Jan 2026,Spend Money,TAXIDEAS,,33.00,0.00,"(1,722.36)",(33.00),0.00,GST
+02 Jan 2026,Spend Money,Think smart,,35.40,0.00,"(1,757.76)",(35.40),0.00,GST
+05 Jan 2026,Spend Money,TELSTRA,,17.27,0.00,"(1,775.03)",(17.27),0.00,GST
+06 Jan 2026,Payable Invoice,BUNNINGS,,22.89,0.00,"(1,797.92)",(22.89),0.00,GST
+08 Jan 2026,Payable Invoice,A J Duffy,96324,"1,587.96",0.00,"(3,385.88)","(1,587.96)",0.00,GST
+08 Jan 2026,Payable Invoice,IGA,,0.16,0.00,"(3,386.04)",(0.16),0.00,GST
+08 Jan 2026,Spend Money,Origin Energy,,193.67,0.00,"(3,579.71)",(193.67),0.00,GST
+09 Jan 2026,Payable Invoice,officework,,10.64,0.00,"(3,590.35)",(10.64),0.00,GST
+09 Jan 2026,Payable Invoice,Budget Petrol,,10.15,0.00,"(3,600.50)",(10.15),0.00,GST
+12 Jan 2026,Receive Money,DONNA LOHMEYERA,,0.00,9.55,"(3,590.95)",9.55,0.00,GST
+12 Jan 2026,Receive Money,Donna Lohmeyer,,0.00,8.18,"(3,582.77)",8.18,0.00,GST
+12 Jan 2026,Spend Money,VIP mall,,44.46,0.00,"(3,627.23)",(44.46),0.00,GST
+14 Jan 2026,Payable Invoice,IGA,,1.17,0.00,"(3,628.40)",(1.17),0.00,GST
+15 Jan 2026,Payable Invoice,JB HI FI,,9.53,0.00,"(3,637.93)",(9.53),0.00,GST
+16 Jan 2026,Payable Invoice,IGA,,1.21,0.00,"(3,639.14)",(1.21),0.00,GST
+17 Jan 2026,Payable Invoice,BUNNINGS,,4.27,0.00,"(3,643.41)",(4.27),0.00,GST
+17 Jan 2026,Payable Invoice,freshway cleaning,,4.55,0.00,"(3,647.96)",(4.55),0.00,GST
+19 Jan 2026,Spend Money,Origin Energy,,165.05,0.00,"(3,813.01)",(165.05),0.00,GST
+21 Jan 2026,Payable Invoice,Budget Petrol,,10.15,0.00,"(3,823.16)",(10.15),0.00,GST
+21 Jan 2026,Spend Money,G18 discount market,,4.18,0.00,"(3,827.34)",(4.18),0.00,GST
+21 Jan 2026,Spend Money,Austgrade Leasing,,200.89,0.00,"(4,028.23)",(200.89),0.00,GST
+22 Jan 2026,Payable Invoice,Bunning,W279119756,18.98,0.00,"(4,047.21)",(18.98),0.00,GST
+22 Jan 2026,Payable Invoice,KMART,,8.55,0.00,"(4,055.76)",(8.55),0.00,GST
+22 Jan 2026,Spend Money,Mr Pool man,,5.92,0.00,"(4,061.68)",(5.92),0.00,GST
+23 Jan 2026,Payable Invoice,BUNNINGS,,2.36,0.00,"(4,064.04)",(2.36),0.00,GST
+28 Jan 2026,Payable Invoice,IGA,,2.34,0.00,"(4,066.38)",(2.34),0.00,GST
+28 Jan 2026,Payable Invoice,AOZ PRINT AND GRAPHI,,1.36,0.00,"(4,067.74)",(1.36),0.00,GST
+29 Jan 2026,Payable Invoice,AOZ PRINT AND GRAPHI,,1.09,0.00,"(4,068.83)",(1.09),0.00,GST
+30 Jan 2026,Spend Money,Merchant Fee,,2.95,0.00,"(4,071.78)",(2.95),0.00,GST
+31 Jan 2026,Manual Journal,to reconcile profit and loss as of 31 January 2026,#11296,"5,400.00",0.00,"(9,471.78)","(5,400.00)",0.00,GST
+02 Feb 2026,Spend Money,Icare Workers Insurance,,70.06,0.00,"(9,541.84)",(70.06),0.00,GST
+02 Feb 2026,Spend Money,136760482 THINKSMART SOFTW AUSTGRADE MASCOT,,35.77,0.00,"(9,577.61)",(35.77),0.00,GST
+02 Feb 2026,Spend Money,TAXIDEAS,,33.00,0.00,"(9,610.61)",(33.00),0.00,GST
+03 Feb 2026,Spend Money,AOZ PRINT AND GRAPHI,,0.91,0.00,"(9,611.52)",(0.91),0.00,GST
+03 Feb 2026,Spend Money,G18 discount market,,1.42,0.00,"(9,612.94)",(1.42),0.00,GST
+04 Feb 2026,Spend Money,Budget Petrol,,7.25,0.00,"(9,620.19)",(7.25),0.00,GST
+04 Feb 2026,Spend Money,Origin Energy,,74.52,0.00,"(9,694.71)",(74.52),0.00,GST
+04 Feb 2026,Spend Money,G18 discount market,,0.78,0.00,"(9,695.49)",(0.78),0.00,GST
+05 Feb 2026,Spend Money,Mascot post shop,,0.45,0.00,"(9,695.94)",(0.45),0.00,GST
+05 Feb 2026,Spend Money,IGA,,1.09,0.00,"(9,697.03)",(1.09),0.00,GST
+06 Feb 2026,Payable Invoice,IGA,,4.56,0.00,"(9,701.59)",(4.56),0.00,GST
+06 Feb 2026,Receive Money,Flexipay,,0.00,1.64,"(9,699.95)",1.64,0.00,GST
+09 Feb 2026,Spend Money,KMART,,1.68,0.00,"(9,701.63)",(1.68),0.00,GST
+09 Feb 2026,Spend Money,CLEAN LIKE A PRO OXENFORD,,8.09,0.00,"(9,709.72)",(8.09),0.00,GST
+10 Feb 2026,Spend Money,AOZ PRINT AND GRAPHI,,0.23,0.00,"(9,709.95)",(0.23),0.00,GST
+11 Feb 2026,Spend Money,KENSINGTON SPARES AUMASCOT,,1.81,0.00,"(9,711.76)",(1.81),0.00,GST
+13 Feb 2026,Spend Money,AOZ PRINT AND GRAPHI,,2.27,0.00,"(9,714.03)",(2.27),0.00,GST
+16 Feb 2026,Payable Invoice,officework,1020437316,21.45,0.00,"(9,735.48)",(21.45),0.00,GST
+16 Feb 2026,Spend Money,G18 discount market,,1.24,0.00,"(9,736.72)",(1.24),0.00,GST
+19 Feb 2026,Spend Money,IGA,,1.64,0.00,"(9,738.36)",(1.64),0.00,GST
+27 Feb 2026,Receive Money,KMART,,0.00,5.45,"(9,732.91)",5.45,0.00,GST
+27 Feb 2026,Spend Money,Merchant Fee,,2.16,0.00,"(9,735.07)",(2.16),0.00,GST
+02 Mar 2026,Spend Money,Waster Pty Ltd,,18.79,0.00,"(9,753.86)",(18.79),0.00,GST
+02 Mar 2026,Spend Money,TAXIDEAS,,33.00,0.00,"(9,786.86)",(33.00),0.00,GST
+02 Mar 2026,Spend Money,Icare Workers Insurance,,70.06,0.00,"(9,856.92)",(70.06),0.00,GST
+12 Mar 2026,Receive Money,ATO - Dec 25 BAS,,0.00,"8,811.00","(1,045.92)","8,811.00",0.00,GST
+19 Mar 2026,Spend Money,A J Duffy,,350.10,0.00,"(1,396.02)",(350.10),0.00,GST
+31 Mar 2026,Spend Money,TAXIDEAS,,25.00,0.00,"(1,421.02)",(25.00),0.00,GST
+31 Mar 2026,Spend Money,Icare Workers Insurance,,70.06,0.00,"(1,491.08)",(70.06),0.00,GST
+31 Mar 2026,Spend Money,Audible limited,,0.82,0.00,"(1,491.90)",(0.82),0.00,GST
+31 Mar 2026,Manual Journal,Julius 2026 - To reconcile GST Holding as of 31 Mar 2026,#11343,0.00,575.31,(916.59),575.31,0.00,GST
+01 Apr 2026,Spend Money,TAXIDEAS,,33.00,0.00,(949.59),(33.00),0.00,GST
+30 Apr 2026,Spend Money,Icare Workers Insurance,,70.06,0.00,"(1,019.65)",(70.06),0.00,GST
+01 May 2026,Spend Money,TAXIDEAS,,33.00,0.00,"(1,052.65)",(33.00),0.00,GST
+01 May 2026,Receive Money,Reimburseaccoutant AUSTGRADE TO,,0.00,33.00,"(1,019.65)",33.00,0.00,GST
+01 May 2026,Spend Money,Audible limited,,0.82,0.00,"(1,020.47)",(0.82),0.00,GST
+22 May 2026,Receive Money,WCIF Refunds,,0.00,116.87,(903.60),116.87,0.00,GST
+Total 820 - GST,,,,"27,188.75","26,285.15",(903.60),(903.60),0.00,
+,,,,,,,,,
+820.04 - GST - Lodged,,,,,,,,,
+31 Mar 2026,Manual Journal,Julius 2026 - To separate Jun 25 BAS Amendment,#11339,"14,500.00",0.00,"(14,500.00)","(14,500.00)",0.00,GST - Lodged
+30 Jun 2026,Manual Journal,being to reconcile ICA account - being to reconcile ICA account,#11362,0.00,"14,500.00",0.00,"14,500.00",0.00,GST - Lodged
+Total 820.04 - GST - Lodged,,,,"14,500.00","14,500.00",0.00,0.00,0.00,
+,,,,,,,,,
+821 - GST Holding,,,,,,,,,
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile GST Holding as of 30 Sep 2025,#10988,"2,243.78",0.00,"(2,243.78)","(2,243.78)",0.00,GST Holding
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile GST Holding as of 31 Dec 2025,#11286,0.00,"2,369.30",125.52,"2,369.30",0.00,GST Holding
+31 Mar 2026,Manual Journal,Julius 2026 - To reconcile GST Holding as of 31 Mar 2026,#11343,575.31,0.00,(449.79),(575.31),0.00,GST Holding
+Total 821 - GST Holding,,,,"2,819.09","2,369.30",(449.79),(449.79),0.00,
+,,,,,,,,,
+821.1 - GST Adjustment,,,,,,,,,
+31 Mar 2026,Manual Journal,Julius 2026 - To separate Jun 25 BAS Amendment,#11339,0.00,"14,500.00","14,500.00","14,500.00",0.00,GST Adjustment
+Total 821.1 - GST Adjustment,,,,0.00,"14,500.00","14,500.00","14,500.00",0.00,
+,,,,,,,,,
+825 - PAYG Withholdings Payable,,,,,,,,,
+07 Jul 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-309,0.00,"1,104.00","1,104.00","1,104.00",0.00,PAYG Withholdings Payable
+21 Jul 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-311,0.00,"1,008.00","2,112.00","1,008.00",0.00,PAYG Withholdings Payable
+04 Aug 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-315,0.00,932.00,"3,044.00",932.00,0.00,PAYG Withholdings Payable
+18 Aug 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-316,0.00,"1,144.00","4,188.00","1,144.00",0.00,PAYG Withholdings Payable
+01 Sep 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-317,0.00,"1,114.00","5,302.00","1,114.00",0.00,PAYG Withholdings Payable
+15 Sep 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-318,0.00,"1,246.00","6,548.00","1,246.00",0.00,PAYG Withholdings Payable
+29 Sep 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-319,0.00,"1,568.00","8,116.00","1,568.00",0.00,PAYG Withholdings Payable
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - Jul 25 IAS,#11266,"2,112.00",0.00,"6,004.00","(2,112.00)",0.00,PAYG Withholdings Payable
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - Aug 25 IAS,#11266,"2,076.00",0.00,"3,928.00","(2,076.00)",0.00,PAYG Withholdings Payable
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - June 25 BAS,#11266,"2,934.00",0.00,994.00,"(2,934.00)",0.00,PAYG Withholdings Payable
+13 Oct 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-320,0.00,"1,228.00","2,222.00","1,228.00",0.00,PAYG Withholdings Payable
+27 Oct 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-321,0.00,"1,422.00","3,644.00","1,422.00",0.00,PAYG Withholdings Payable
+10 Nov 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-322,0.00,"1,422.00","5,066.00","1,422.00",0.00,PAYG Withholdings Payable
+24 Nov 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-323,0.00,"1,786.00","6,852.00","1,786.00",0.00,PAYG Withholdings Payable
+08 Dec 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-324,0.00,"1,488.00","8,340.00","1,488.00",0.00,PAYG Withholdings Payable
+22 Dec 2025,Payroll Expense,Tax,Payroll Expense Journal - PD-325,0.00,"1,334.00","9,674.00","1,334.00",0.00,PAYG Withholdings Payable
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Oct 25 IAS,#11264,"2,650.00",0.00,"7,024.00","(2,650.00)",0.00,PAYG Withholdings Payable
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Sep 25 BAS,#11264,"3,928.00",0.00,"3,096.00","(3,928.00)",0.00,PAYG Withholdings Payable
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Nov 25 IAS,#11264,"3,208.00",0.00,(112.00),"(3,208.00)",0.00,PAYG Withholdings Payable
+05 Jan 2026,Payroll Expense,Tax,Payroll Expense Journal - PD-326,0.00,36.00,(76.00),36.00,0.00,PAYG Withholdings Payable
+19 Jan 2026,Payroll Expense,Tax,Payroll Expense Journal - PD-327,0.00,"1,130.00","1,054.00","1,130.00",0.00,PAYG Withholdings Payable
+02 Feb 2026,Payroll Expense,Tax,Payroll Expense Journal - PD-328,0.00,"1,400.00","2,454.00","1,400.00",0.00,PAYG Withholdings Payable
+12 Mar 2026,Receive Money,ATO - Jan 26 IAS,,"1,166.00",0.00,"1,288.00","(1,166.00)",0.00,PAYG Withholdings Payable
+12 Mar 2026,Receive Money,ATO - Dec 25 BAS,,"2,822.00",0.00,"(1,534.00)","(2,822.00)",0.00,PAYG Withholdings Payable
+Total 825 - PAYG Withholdings Payable,,,,"20,896.00","19,362.00","(1,534.00)","(1,534.00)",0.00,
+,,,,,,,,,
+826 - Superannuation Payable,,,,,,,,,
+07 Jul 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-309,0.00,"1,292.96","1,292.96","1,292.96",0.00,Superannuation Payable
+11 Jul 2025,Spend Money,SuperChoice,,"1,292.96",0.00,0.00,"(1,292.96)",0.00,Superannuation Payable
+21 Jul 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-311,0.00,"1,267.18","1,267.18","1,267.18",0.00,Superannuation Payable
+21 Jul 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-313,0.00,71.19,"1,338.37",71.19,0.00,Superannuation Payable
+24 Jul 2025,Spend Money,SuperChoice,,"1,267.18",0.00,71.19,"(1,267.18)",0.00,Superannuation Payable
+04 Aug 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-315,0.00,"1,017.31","1,088.50","1,017.31",0.00,Superannuation Payable
+06 Aug 2025,Spend Money,SuperChoice,,"1,088.50",0.00,0.00,"(1,088.50)",0.00,Superannuation Payable
+18 Aug 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-316,0.00,"1,297.70","1,297.70","1,297.70",0.00,Superannuation Payable
+21 Aug 2025,Spend Money,SuperChoice,,"1,297.70",0.00,0.00,"(1,297.70)",0.00,Superannuation Payable
+01 Sep 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-317,0.00,"1,129.27","1,129.27","1,129.27",0.00,Superannuation Payable
+03 Sep 2025,Spend Money,SuperChoice,,"1,129.27",0.00,0.00,"(1,129.27)",0.00,Superannuation Payable
+15 Sep 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-318,0.00,"1,407.81","1,407.81","1,407.81",0.00,Superannuation Payable
+29 Sep 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-319,0.00,"1,540.74","2,948.55","1,540.74",0.00,Superannuation Payable
+01 Oct 2025,Spend Money,SuperChoice,,"2,948.55",0.00,0.00,"(2,948.55)",0.00,Superannuation Payable
+13 Oct 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-320,0.00,"1,396.31","1,396.31","1,396.31",0.00,Superannuation Payable
+15 Oct 2025,Spend Money,SuperChoice,,"1,396.31",0.00,0.00,"(1,396.31)",0.00,Superannuation Payable
+27 Oct 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-321,0.00,"1,372.48","1,372.48","1,372.48",0.00,Superannuation Payable
+28 Oct 2025,Spend Money,SuperChoice,,"1,372.48",0.00,0.00,"(1,372.48)",0.00,Superannuation Payable
+10 Nov 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-322,0.00,"1,488.91","1,488.91","1,488.91",0.00,Superannuation Payable
+12 Nov 2025,Spend Money,SuperChoice,,"1,488.91",0.00,0.00,"(1,488.91)",0.00,Superannuation Payable
+24 Nov 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-323,0.00,"1,660.85","1,660.85","1,660.85",0.00,Superannuation Payable
+26 Nov 2025,Spend Money,SuperChoice,,"1,660.85",0.00,0.00,"(1,660.85)",0.00,Superannuation Payable
+08 Dec 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-324,0.00,"1,460.67","1,460.67","1,460.67",0.00,Superannuation Payable
+10 Dec 2025,Spend Money,SuperChoice,,"1,460.67",0.00,0.00,"(1,460.67)",0.00,Superannuation Payable
+22 Dec 2025,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-325,0.00,"1,397.75","1,397.75","1,397.75",0.00,Superannuation Payable
+05 Jan 2026,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-326,0.00,324.58,"1,722.33",324.58,0.00,Superannuation Payable
+07 Jan 2026,Spend Money,SuperChoice,,"1,722.33",0.00,0.00,"(1,722.33)",0.00,Superannuation Payable
+19 Jan 2026,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-327,0.00,"1,415.64","1,415.64","1,415.64",0.00,Superannuation Payable
+21 Jan 2026,Spend Money,SuperChoice,,"1,415.64",0.00,0.00,"(1,415.64)",0.00,Superannuation Payable
+02 Feb 2026,Payroll Expense,Superannuation Liability,Payroll Expense Journal - PD-328,0.00,"1,505.75","1,505.75","1,505.75",0.00,Superannuation Payable
+05 Feb 2026,Spend Money,SuperChoice,,"1,505.75",0.00,0.00,"(1,505.75)",0.00,Superannuation Payable
+Total 826 - Superannuation Payable,,,,"21,047.10","21,047.10",0.00,0.00,0.00,
+,,,,,,,,,
+830 - Provision for Income Tax,,,,,,,,,
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Sep 25 BAS,#11264,"2,860.00",0.00,"(2,860.00)","(2,860.00)",0.00,Provision for Income Tax
+12 Mar 2026,Receive Money,ATO - Dec 25 BAS,,"2,860.00",0.00,"(5,720.00)","(2,860.00)",0.00,Provision for Income Tax
+30 Jun 2026,Manual Journal,being to reconcile ICA account - being to reconcile ICA account,#11362,368.75,0.00,"(6,088.75)",(368.75),0.00,Provision for Income Tax
+Total 830 - Provision for Income Tax,,,,"6,088.75",0.00,"(6,088.75)","(6,088.75)",0.00,
+,,,,,,,,,
+830.01 - PAYG Instalment Payable,,,,,,,,,
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - June 25 BAS,#11266,"2,915.00",0.00,"(2,915.00)","(2,915.00)",0.00,PAYG Instalment Payable
+Total 830.01 - PAYG Instalment Payable,,,,"2,915.00",0.00,"(2,915.00)","(2,915.00)",0.00,
+,,,,,,,,,
+831 - ATO - ICA,,,,,,,,,
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - Aug 25 IAS,#11266,0.00,"2,076.00","2,076.00","2,076.00",0.00,ATO - ICA
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - June 25 BAS,#11266,"8,001.00",0.00,"(5,925.00)","(8,001.00)",0.00,ATO - ICA
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - June 25 BAS,#11266,0.00,"5,849.00",(76.00),"5,849.00",0.00,ATO - ICA
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - ITA Transfer,#11266,"2,036.00",0.00,"(2,112.00)","(2,036.00)",0.00,ATO - ICA
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - Jul 25 IAS,#11266,0.00,"2,112.00",0.00,"2,112.00",0.00,ATO - ICA
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Oct 25 IAS,#11264,0.00,"2,650.00","2,650.00","2,650.00",0.00,ATO - ICA
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Sep 25 BAS,#11264,0.00,"2,399.00","5,049.00","2,399.00",0.00,ATO - ICA
+31 Dec 2025,Manual Journal,Julius 2026 - To reconcile ATO ICA as of 31 Dec 2025 - Nov 25 IAS,#11264,0.00,"3,208.00","8,257.00","3,208.00",0.00,ATO - ICA
+09 Jan 2026,Spend Money,INTERNET BPAY TAX OFFICE PAY...,,"8,257.00",0.00,0.00,"(8,257.00)",0.00,ATO - ICA
+30 Jun 2026,Manual Journal,being to reconcile ICA account - being to reconcile ICA account,#11362,"14,131.25",0.00,"(14,131.25)","(14,131.25)",0.00,ATO - ICA
+Total 831 - ATO - ICA,,,,"32,425.25","18,294.00","(14,131.25)","(14,131.25)",0.00,
+,,,,,,,,,
+832 - ATO - ITA,,,,,,,,,
+18 Sep 2025,Receive Money,ATO,,0.00,928.00,928.00,928.00,0.00,ATO - ITA
+30 Sep 2025,Manual Journal,Stephanie 2025 - To reconcile ATO ICA as of 30 Sep 2025 - ITA Transfer,#11266,0.00,"2,036.00","2,964.00","2,036.00",0.00,ATO - ITA
+Total 832 - ATO - ITA,,,,0.00,"2,964.00","2,964.00","2,964.00",0.00,
+,,,,,,,,,
+850.01 - Suspense - Solar AUS Bill Payment,,,,,,,,,
+01 Jul 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(8.00),(8.00),0.00,Suspense - Solar AUS Bill Payment
+10 Jul 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(200.97),(192.97),0.00,Suspense - Solar AUS Bill Payment
+24 Jul 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(393.94),(192.97),0.00,Suspense - Solar AUS Bill Payment
+01 Aug 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(401.94),(8.00),0.00,Suspense - Solar AUS Bill Payment
+07 Aug 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(594.91),(192.97),0.00,Suspense - Solar AUS Bill Payment
+21 Aug 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(787.88),(192.97),0.00,Suspense - Solar AUS Bill Payment
+01 Sep 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(795.88),(8.00),0.00,Suspense - Solar AUS Bill Payment
+04 Sep 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(988.85),(192.97),0.00,Suspense - Solar AUS Bill Payment
+18 Sep 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,"(1,181.82)",(192.97),0.00,Suspense - Solar AUS Bill Payment
+30 Sep 2025,Payable Payment,Payment: AUS Solar,AUS5518N,0.00,"1,181.82",0.00,"1,181.82",0.00,Suspense - Solar AUS Bill Payment
+01 Oct 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(8.00),(8.00),0.00,Suspense - Solar AUS Bill Payment
+02 Oct 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(200.97),(192.97),0.00,Suspense - Solar AUS Bill Payment
+16 Oct 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(393.94),(192.97),0.00,Suspense - Solar AUS Bill Payment
+30 Oct 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(586.91),(192.97),0.00,Suspense - Solar AUS Bill Payment
+03 Nov 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(594.91),(8.00),0.00,Suspense - Solar AUS Bill Payment
+13 Nov 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(787.88),(192.97),0.00,Suspense - Solar AUS Bill Payment
+27 Nov 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(980.85),(192.97),0.00,Suspense - Solar AUS Bill Payment
+01 Dec 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(988.85),(8.00),0.00,Suspense - Solar AUS Bill Payment
+11 Dec 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,"(1,181.82)",(192.97),0.00,Suspense - Solar AUS Bill Payment
+29 Dec 2025,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,"(1,374.79)",(192.97),0.00,Suspense - Solar AUS Bill Payment
+31 Dec 2025,Payable Payment,Payment: AUS Solar,AUS5518N,0.00,"1,374.79",0.00,"1,374.79",0.00,Suspense - Solar AUS Bill Payment
+02 Jan 2026,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(8.00),(8.00),0.00,Suspense - Solar AUS Bill Payment
+08 Jan 2026,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(200.97),(192.97),0.00,Suspense - Solar AUS Bill Payment
+22 Jan 2026,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,192.97,0.00,(393.94),(192.97),0.00,Suspense - Solar AUS Bill Payment
+02 Feb 2026,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,8.00,0.00,(401.94),(8.00),0.00,Suspense - Solar AUS Bill Payment
+05 Feb 2026,Spend Money,Humm AUS solar panel payment - To be Re-allocated to Bill #AUS5518N,,191.87,0.00,(593.81),(191.87),0.00,Suspense - Solar AUS Bill Payment
+31 Mar 2026,Payable Payment,Payment: AUS Solar,AUS5518N,0.00,309.78,(284.03),309.78,0.00,Suspense - Solar AUS Bill Payment
+31 Mar 2026,Manual Journal,Julius 2026 - To record overpayment towards AUS5518N as bank fees - client confirm via email 23/2/26,#11344,0.00,284.03,0.00,284.03,0.00,Suspense - Solar AUS Bill Payment
+Total 850.01 - Suspense - Solar AUS Bill Payment,,,,"3,150.42","3,150.42",0.00,0.00,0.00,
+,,,,,,,,,
+875 - Loan from Aroona,,,,,,,,,
+07 Jul 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M - ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,"5,000.00",0.00,"(5,000.00)","(5,000.00)",0.00,Loan from Aroona
+10 Jul 2025,Receive Money,aroona,,0.00,"9,000.00","4,000.00","9,000.00",0.00,Loan from Aroona
+14 Jul 2025,Receive Money,aroona,,0.00,"1,000.00","5,000.00","1,000.00",0.00,Loan from Aroona
+30 Jul 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M - ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,"10,000.00",0.00,"(5,000.00)","(10,000.00)",0.00,Loan from Aroona
+05 Aug 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M - ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,"10,000.00",0.00,"(15,000.00)","(10,000.00)",0.00,Loan from Aroona
+01 Sep 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M - ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,"6,000.00",0.00,"(21,000.00)","(6,000.00)",0.00,Loan from Aroona
+22 Oct 2025,Spend Money,ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M - ONLINE Y2945203633 Mascot to Aroona AUSTGRADE M,,"5,000.00",0.00,"(26,000.00)","(5,000.00)",0.00,Loan from Aroona
+24 Dec 2025,Receive Money,aroona,,0.00,"15,000.00","(11,000.00)","15,000.00",0.00,Loan from Aroona
+31 Jan 2026,Manual Journal,to reconcile profit and loss as of 31 January 2026 - to reconcile profit and loss as of 31 January 2026,#11296,0.00,"59,400.00","48,400.00","59,400.00",0.00,Loan from Aroona
+Total 875 - Loan from Aroona,,,,"36,000.00","84,400.00","48,400.00","48,400.00",0.00,
+,,,,,,,,,
+881 - Loan from Director,,,,,,,,,
+22 Jul 2025,Spend Money,ONLINE J6289145852 Mascot to... Transfer Debit - ONLINE J6289145852 Mascot to... Transfer Debit,,"1,000.00",0.00,"(1,000.00)","(1,000.00)",0.00,Loan from Director
+08 Aug 2025,Spend Money,ONLINE J6289145852 Mascot to... Transfer Debit - ONLINE J6289145852 Mascot to... Transfer Debit,,"10,000.00",0.00,"(11,000.00)","(10,000.00)",0.00,Loan from Director
+16 Sep 2025,Receive Money,Lin Li,,0.00,"10,000.00","(1,000.00)","10,000.00",0.00,Loan from Director
+22 Sep 2025,Receive Money,Lin Li,,0.00,"3,393.00","2,393.00","3,393.00",0.00,Loan from Director
+29 Oct 2025,Spend Money,ONLINE J6289145852 Mascot to... Transfer Debit - ONLINE J6289145852 Mascot to... Transfer Debit,,"10,000.00",0.00,"(7,607.00)","(10,000.00)",0.00,Loan from Director
+18 Feb 2026,Spend Money,Lin Li,,"3,025.00",0.00,"(10,632.00)","(3,025.00)",0.00,Loan from Director
+24 Apr 2026,Spend Money,Andrew Kastoun,,100.00,0.00,"(10,732.00)",(100.00),0.00,Loan from Director
+01 May 2026,Receive Money,Lin Li,,0.00,"3,025.00","(7,707.00)","3,025.00",0.00,Loan from Director
+04 May 2026,Receive Money,Lin Li,,0.00,"1,350.00","(6,357.00)","1,350.00",0.00,Loan from Director
+10 Jun 2026,Spend Money,Andrew Kastoun,,115.00,0.00,"(6,472.00)",(115.00),0.00,Loan from Director
+Total 881 - Loan from Director,,,,"24,240.00","17,768.00","(6,472.00)","(6,472.00)",0.00,
+,,,,,,,,,
+883 - Loan - Andrew Kastoun,,,,,,,,,
+05 Feb 2026,Receive Money,Andrew Kastoun,,0.00,"1,506.37","1,506.37","1,506.37",0.00,Loan - Andrew Kastoun
+Total 883 - Loan - Andrew Kastoun,,,,0.00,"1,506.37","1,506.37","1,506.37",0.00,
+,,,,,,,,,
+Total,,,,"1,218,252.29","1,240,679.76","48,641.65","51,174.35","2,532.70",

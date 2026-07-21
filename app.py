@@ -25,8 +25,8 @@ def find_columns(df):
     count = 0
     broken = False
     for j in range(len(df.iloc[i])):
-      if(isinstance(df.iloc[i][j],str)):
-        cols.append(df.iloc[i][j])
+      if(isinstance(df.iloc[i, j],str)):
+        cols.append(df.iloc[i, j])
         count += 1
       if count == len(df.iloc[i]):
         broken = True
@@ -35,11 +35,11 @@ def find_columns(df):
       return i, cols
 
 def dr_or_cr(row):
-  if (row[-3] - row[-2] == row[-1]) & (row[-2] - row[-3] == row[-1]):
+  if (row.iloc[-3] - row.iloc[-2] == row.iloc[-1]) & (row.iloc[-2] - row.iloc[-3] == row.iloc[-1]):
     return 'Unknown'
-  elif row[-3] - row[-2] == row[-1]:
+  elif row.iloc[-3] - row.iloc[-2] == row.iloc[-1]:
     return 'DR'
-  elif row[-2] - row[-3] == row[-1]:
+  elif row.iloc[-2] - row.iloc[-3] == row.iloc[-1]:
     return 'CR'
   else:
     return 'Unknown'
@@ -112,37 +112,37 @@ if uploaded_file is not None:
       startwithTotal=False
 
       for j in range(len(df.iloc[i])):
-        types.append(type(df.iloc[i][j]))
-        if df.iloc[i][j] == 'Opening Balance':
+        types.append(type(df.iloc[i, j]))
+        if df.iloc[i, j] == 'Opening Balance':
           isOpeningBalance = True
           # print('Opening')
-        elif df.iloc[i][j] == 'Closing Balance':
+        elif df.iloc[i, j] == 'Closing Balance':
           isClosingBalance = True
           # print('Closing')
-        if type(df.iloc[i][j]) == type('str'):
-          if  df.iloc[i][j].startswith('Total'):
+        if type(df.iloc[i, j]) == type('str'):
+          if  df.iloc[i, j].startswith('Total'):
             startwithTotal=True
             # print('Total found')
       # print(df.iloc[i])
 
-      if type(pd.to_datetime(df.iloc[i][0], errors = 'ignore', dayfirst=True)) == type(pd.Timestamp.now()):
+      if type(pd.to_datetime(df.iloc[i, 0], errors = 'coerce', dayfirst=True)) == type(pd.Timestamp.now()):
         labels.append('Transaction')
       elif all(element == type(0.00) for element in types):
         labels.append('Blank')
       elif types[0] == type('str') and all(element == type(0.00) for element in types[1:]):
         labels.append('Account Name')
-        account_name = df.iloc[i][0]
+        account_name = df.iloc[i, 0]
       elif types[0] == type('str') and types[-1] == type('str') and startwithTotal:
         labels.append('Total')
       elif types[0] == type('str') and types[-1] == type('str') and isOpeningBalance:
         labels.append('Opening')
-        df.iloc[i]['Description']='Opening Balance'
-        df.iloc[i]['Date'] = min_date
+        df.iloc[i, df.columns.get_loc('Description')]='Opening Balance'
+        df.iloc[i, df.columns.get_loc('Date')] = min_date
         statement_name = 'BS'
       elif types[0] == type('str') and types[-1] == type('str') and isClosingBalance:
         labels.append('Closing')
-        df.iloc[i]['Date'] = max_date
-        df.iloc[i]['Description']='Closing Balance'
+        df.iloc[i, df.columns.get_loc('Date')] = max_date
+        df.iloc[i, df.columns.get_loc('Description')]='Closing Balance'
         statement_name = 'PL'
       else:
         labels.append('Error')
@@ -151,12 +151,9 @@ if uploaded_file is not None:
       statement_names.append(statement_name)
       account_names.append(account_name)
 
-    df.iloc[:,-1] = df.iloc[:,-1].apply(lambda x: replace_to_number(x))
-    df.iloc[:,-2] = df.iloc[:,-2].apply(lambda x: replace_to_number(x))
-    df.iloc[:,-3] = df.iloc[:,-3].apply(lambda x: replace_to_number(x))
-    df.iloc[:,-3] = pd.to_numeric(df.iloc[:,-3], errors = 'coerce')
-    df.iloc[:,-2] = pd.to_numeric(df.iloc[:,-2], errors = 'coerce')
-    df.iloc[:,-1] = pd.to_numeric(df.iloc[:,-1], errors = 'coerce')
+    last3 = df.columns[-3:]
+    for col in last3:
+        df[col] = pd.to_numeric(df[col].apply(replace_to_number), errors='coerce')
 
     df['DRCR'] = df.apply (lambda row: dr_or_cr(row), axis=1)
 
